@@ -1,0 +1,257 @@
+Psi0:"NeuralkapazitÑt Rang Eins
+Dies wird fÅr die PsionikfÑhigkeiten des ersten Rangs benîtigt. Steigert Ihre maximalen Psi-Punkte um 2. Alle Psi-KrÑfte des ersten Rangs kosten 1 Psi-Punkt pro Anwendung."
+Psi1:"Psycho-reflektiver Schirm
+
+SchÅtzt Sie vor 15% aller KampfschÑden.
+
+Dauer: 20 Sekunden + 30 Sekunden pro PSI"
+Psi2:"Neuro-ReflexdÑmpfung
+
+Eliminiert WaffenrÅcksto·.
+
+Dauer: 1 Minute + 20 Sekunden pro PSI"
+Psi9:"Anti-entropisches Feld
+
+Wenn dies aktiviert ist, kînnen Ihre Schusswaffen nicht ausfallen, und ihr Zustand verschlechtert sich nicht.
+
+Dauer: 10 Sekunden + 20 Sekunden pro PSI"
+Psi3:"Kinetische Umlenkung
+
+Zieht ein Objekt auf Sie zu.
+
+Dauer: 1 Sekunde pro PSI"
+Psi4:"Psychogene Wendigkeit
+
+Steigert Ihren WEN-Wert um 2.
+
+Dauer: 2 Minuten + 1 Minute pro PSI"
+Psi6:"Projizierte Kryokinese
+
+Startet ein hitzeableitendes Projektil auf Ihr Ziel. Hîhere PSI-Werte steigern den Schaden."
+Psi5:"Psychogener Cyber-Wert
+
+Steigert Ihren CYB-Wert um 2.
+
+Dauer: 2 Minuten + 1 Minute pro PSI"
+Psi8:"NeuralkapazitÑt Rang Zwei
+Dies wird fÅr die PsionikfÑhigkeiten des zweiten Rangs benîtigt. Steigert Ihre maximalen Psi-Punkte um 4. Alle Psi-KrÑfte des zweiten Rangs kosten 2 Psi-Punkte pro Anwendung."
+Psi11:"Neurale Dekontamination
+
+SchÅtzt Sie vor 80% aller StrahlungsschÑden.
+
+Dauer: 10 Sekunden + 5 Sekunden pro PSI"
+Psi12:"Zerebrale Regeneration
+
+Erneuert verlorene Trefferpunkte.
+
+Heilung: 2 Trefferpunkte pro PSI"
+Psi13:"Psychogene StÑrke
+
+Steigert Ihren Wert fÅr STR um 2.
+
+Dauer: 2 Minuten + 1 Minute pro PSI"
+Psi17:"Molekular-Duplikation
+
+Verdoppelt mit Hilfe von Naniten ein Munitionsmagazin oder eine Spritze.
+
+Erfolgschance: 30% + 10% pro PSI"
+Psi14:"Rekursive Psi-VerstÑrkung
+
+Steigert PSI-Wert um 2. Psi-Punkt- kosten werden verdoppelt, solange dies aktiv ist.
+
+Dauer: 10 Sekunden + 10 Sekunden pro PSI"
+Psi18:"Elektronen-Kaskade
+
+LÑdt ein Objekt oder eine Waffe wieder auf.
+
+Ladeenergie: 20% pro PSI, bis zu dem fÅr Ihre Wartungs-FÑ- higkeit festgelegten Hîchstwert."
+Psi15:"Lokale Pyrokinese
+
+SchÑdigt alle Wesen im Um- kreis und schÅtzt vor Schaden durch Feuer. Hîhere PSI-Werte steigern den Schaden. 
+
+Dauer: 15 Sekunden + 8 Sekunden pro PSI"
+Psi16:"NeuralkapazitÑt Rang Drei
+Dies wird fÅr die PsionikfÑhigkeiten des dritten Rangs benîtigt. Steigert Ihre maximalen Psi-Punkte um 6. Alle Psi-FÑhigkeiten des dritten Rangs kosten 3 Psi-Punkte pro Anwendung."
+Psi19:"Energie-Reflektion
+
+Sorgt fÅr 50% ImmunitÑt gegen Strahlenangriffe.
+
+Dauer: 20 Sekunden pro PSI"
+Psi20:"Neurale Toxinblockade
+
+SchÅtzt Sie vor 80% der Toxin-Absorption.
+
+Dauer: 10 Sekunden + 5 Sekunden pro PSI"
+Psi21:"Gesteigerte Bewegungsempfindlichkeit
+
+Zeigt Ihnen die Position aller Wesen in der NÑhe.
+
+Dauer: 30 Sekunden pro PSI"
+Psi22:"Projizierte Pyrokinese
+
+Startet ein Feuerprojektil auf das Ziel. Hîherer PSI steigert den Schaden."
+Psi7:"Elektronen-Fernmanipulation
+
+VerkÅrzt die Alarmdauer.
+
+VerkÅrzung: 5 Sekunden + 5 Sekunden pro PSI"
+Psi10:"Adrenalin-öberproduktion
+
+Steigert Schaden im Nahkampf um einen Faktor gleich dem PSI-Wert.
+
+Dauer: 4 Sekunden pro PSI"
+Psi23:"Psionische Hypnogenese
+
+Das nicht-robotische Zielwesen wird still und ruhig. Wenn das Wesen Schaden erleidet, endet der Effekt.
+
+Dauer: 20 Sekunden pro PSI."
+Psi24:"NeuralkapazitÑt Rang Vier
+Dies wird fÅr die PsionikfÑhigkeiten des vierten Rangs benîtigt. Steigert Ihre maximalen Psi-Punkte um 8. Alle Psi-KrÑfte des vierten Rangs kosten 4 Psi-Punkte pro Anwendung."
+Psi25:"Photonen-Umleitung
+
+Macht Sie fÅr alle anderen We- sen unsichtbar. Wenn Sie eine Waffe abfeuern, endet der Effekt.
+
+Dauer: 5 Sekunden + 5 Sekunden pro PSI"
+Psi26:"Muster-Entdeckung
+
+Zeigt die Position von nÅtzlichen Objekten, darunter Seren, Munition, GerÑten, Implantaten und Audio-Logs in der NÑhe.
+
+Dauer: 1 Minute pro PSI"
+Psi27:"Elektronen-LÑhmung
+
+LÑhmt alle Roboterziele.
+
+Dauer: 3 Sekunden pro PSI"
+Psi28:"Psychogene Ausdauer
+
+Steigert Ihre AUS-Wert um 2.
+
+Dauer: 2 Minuten + 1 Minute pro PSI"
+Psi29:"Molekular-Umwandlung
+
+Verwandelt Munition und Serum in Naniten."
+Psi30:"Fernschaltungs-Manipulation
+
+Erlaubt Ihnen, sich psionisch in ein Objekt einzuhacken. Verwen- det die HÑlfte Ihrers PSI-Werts (aufgerundet) statt Hack- oder CyberfÑhigkeit und kostet Psi-Punkte statt Naniten."
+Psi31:"Zerebral-Energiewaffe
+
+Verwandelt Ihren Psi-Amp in eine gefÑhrliche Nahkampfwaffe. Keine Wirkung auf Roboter.
+
+Dauer: 10 Sekunden pro PSI"
+Psi32:"NeuralkapazitÑt Rang FÅnf
+Dies wird fÅr die PsionikfÑhigkeiten des fÅnften Rangs benîtigt. Steigert Ihre maximalen Psi-Punkte um 10. Alle Psi-KrÑfte des fÅnften Rangs kosten 5 Psi-Punkte pro Anwendung."
+Psi33:"Hîhere zerebrale Regeneration
+
+Regeneriert verlorene Trefferpunkte.
+Heilung: 5 Trefferpunkte + 5 Trefferpunkte pro PSI"
+Psi34:"Somatische öbertragung
+
+Verringert die Trefferpunkte nicht-robotischer Gegner und gibt Ihnen diese Extra- Trefferpunkte."
+Psi35:"Spontaner Quanten-Teleport
+
+Teleportiert Sie zur markierten Position. Falls keine markiert wurde, gilt Ihre derzeitige Position. Lîschen Sie alte Markierungen mit Alt-T."
+Psi36:"Neurale Zwangsstrukturierung
+
+LÑsst ein nicht-robotisches Ziel gegenÅber allen anderen Wesen aggressiv werden.
+
+Dauer: 10 Sekunden pro PSI, oder bis es von einem Menschen verletzt wird."
+Psi37:"Metakreative Barriere
+
+Bildet ein psionisches Kraftfeld vor Ihnen.
+
+Trefferpunkte des Kraftfelds: 150 + 50 pro PSI Åber 5.
+Dauer: 4 Minuten"
+Psi38:"Externe Psionische Detonation
+
+Legt eine psionische AnnÑherungs-Mine ab. Kein Schaden an Robotern, aber doppelter Schaden an psionisch empfindlichen Wesen.
+
+Dauer: 4 Minuten"
+Psi39:"Psycho-reflektive Aura
+
+SchÅtzt Sie vor 60% aller KampfschÑden.
+
+Dauer: 10 Sekunden + 20 Sekunden pro PSI"
+PsiIcon0:"picn00"
+PsiIcon1:"picn01"
+PsiIcon2:"picn02"
+PsiIcon3:"picn04"
+PsiIcon4:"picn05"
+PsiIcon5:"picn06"
+PsiIcon6:"picn07"
+PsiIcon7:"picn21"
+PsiIcon8:"picn08"
+PsiIcon9:"picn03"
+PsiIcon10:"picn22"
+PsiIcon11:"picn10"
+PsiIcon12:"picn11"
+PsiIcon13:"picn12"
+PsiIcon14:"picn13"
+PsiIcon15:"picn15"
+PsiIcon16:"picn16"
+PsiIcon17:"picn09"
+PsiIcon18:"picn14"
+PsiIcon19:"picn17"
+PsiIcon20:"picn18"
+PsiIcon21:"picn19"
+PsiIcon22:"picn20"
+PsiIcon23:"picn23"
+PsiIcon24:"picn24"
+PsiIcon25:"picn25"
+PsiIcon26:"picn26"
+PsiIcon27:"picn27"
+PsiIcon28:"picn28"
+PsiIcon29:"picn29"
+PsiIcon30:"picn30"
+PsiIcon31:"picn31"
+PsiIcon32:"picn32"
+PsiIcon33:"picn33"
+PsiIcon34:"picn34"
+PsiIcon35:"picn35"
+PsiIcon36:"picn36"
+PsiIcon37:"picn37"
+PsiIcon38:"picn38"
+PsiIcon39:"picn39"
+BuyText0:"Diese Tasten bestimmen, welchen Rang von Psi-KrÑften Sie kaufen wollen."
+BuyText2:"Dies zeigt, wie viele Cyber-Module Sie aufwenden kînnen."
+BuyText3:"Diese Tasten schalten zwischen den MFDs hin und her."
+AmpText0:"Diese Tasten schalten zwischen den RÑngen von Psi-KrÑften hin und her."
+PsiShort0:""
+PsiShort1:"Psi-Schirm"
+PsiShort2:"Reflex"
+PsiShort9:"Anti-Entropie"
+PsiShort3:"Psi-Zugkraft"
+PsiShort4:"Wendigkeit"
+PsiShort5:"Wellenmanip."
+PsiShort6:"Kryokinese"
+PsiShort8:""
+PsiShort17:"Duplizieren"
+PsiShort11:"Strahlungsschild"
+PsiShort12:"Regenerieren"
+PsiShort13:"StÑrke"
+PsiShort14:"Rekursiv-Psi"
+PsiShort18:"Elektron"
+PsiShort15:"Brandwurf"
+PsiShort16:""
+PsiShort19:"Reflektieren"
+PsiShort20:"Toxin-Schild"
+PsiShort21:"Raumerfassung"
+PsiShort22:"Pyrokinese"
+PsiShort7:"AlarmdÑmpfung"
+PsiShort10:"Adrenalin"
+PsiShort23:"Hypnose"
+PsiShort24:""
+PsiShort25:"Unsichtbarkeit"
+PsiShort26:"Objekte entdecken"
+PsiShort27:"UnterdrÅckung"
+PsiShort28:"Ausdauer"
+PsiShort29:"Molekular-Umw."
+PsiShort30:"Psi-Hack"
+PsiShort31:"Psi-Waffe"
+PsiShort32:""
+PsiShort33:"Fortg. Regener."
+PsiShort34:"Transfer"
+PsiShort35:"Teleport"
+PsiShort36:"Neur. Strukt."
+PsiShort37:"Barriere"
+PsiShort38:"Detonation"
+PsiShort39:"Aura"
