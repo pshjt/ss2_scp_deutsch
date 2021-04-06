@@ -1,37 +1,37 @@
 EmailName1:"POLITO 12.JUL.14\nre: Blockierter Schacht\n"
 EmailPortrait1:"Polito"
 EmailIcon1:"OpsIcon"
-EmailText1:"Verdammt! Etwas blockiert den Schacht, und der Aufzug kann Deck 4 nicht erreichen. Lassen Sie mich nachsehen... Ich entdecke massive Mengen eines Biomaterials, das den Aufzugsschacht versperrt. Die Umgebung auf dieser Ebene wurde so verÑndert, dass sie eine Art Brutkammer fÅr die Xenomorphs darstellt. Das dÅrfte nicht gefÑhrlich sein, wenn man sich nur ein paar Stunden hier aufhÑlt... aber um den Schacht benutzbar zu machen, mÅssen Sie das Biomaterial beseitigen. Ich schalte mich in den Hauptdatenstrang ein. Mal sehen, was ich dort herausfinden kann.\n"
+EmailText1:"Verdammt! Etwas blockiert den Schacht, und der Aufzug kann Deck 4 nicht erreichen. Lassen Sie mich nachsehen... Ich entdecke massive Mengen eines Biomaterials, das den Aufzugsschacht versperrt. Die Umgebung auf dieser Ebene wurde so ver√§ndert, dass sie eine Art Brutkammer f√ºr die Xenomorphs darstellt. Das d√ºrfte nicht gef√§hrlich sein, wenn man sich nur ein paar Stunden hier aufh√§lt... aber um den Schacht benutzbar zu machen, m√ºssen Sie das Biomaterial beseitigen. Ich schalte mich in den Hauptdatenstrang ein. Mal sehen, was ich dort herausfinden kann.\n"
 
 
-EmailName8:"POLITO 12.JUL.14\nre: Schacht klÑren\n"
+EmailName8:"POLITO 12.JUL.14\nre: Schacht kl√§ren\n"
 EmailPortrait8:"Polito"
 EmailIcon8:"OpsIcon"
-EmailText8:"Die wissen, wo Sie sind. Sie mÅssen irgendwie den Schacht freikriegen. Ich tue hier, was ich kann. Schnell! Sie dÅrfen nicht versagen.\n"
+EmailText8:"Die wissen, wo Sie sind. Sie m√ºssen irgendwie den Schacht freikriegen. Ich tue hier, was ich kann. Schnell! Sie d√ºrfen nicht versagen.\n"
 
 
 EmailName2:"POLITO 12.JUL.14\nre: Toxin-A erforschen\n"
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
-EmailText2:"Okay, halt! Es gibt ein GefÑ· mit einem experimentellen Giftstoff namens Toxin-A. Es wurde von den Wissenschaftlern entwickelt, um das Wachstum der Au·erirdischen zu verlangsamen... aber ich habe keine Daten darÅber, wie man es anwendet. Sie mÅssen das Toxin erforschen. Ich Åbermittle Ihnen genÅgend Cyber-Module, um die ForschungsfÑhigkeit zu erwerben, wenn Sie diese noch nicht besitzen.\n"
+EmailText2:"Okay, halt! Es gibt ein Gef√§√ü mit einem experimentellen Giftstoff namens Toxin-A. Es wurde von den Wissenschaftlern entwickelt, um das Wachstum der Au√üerirdischen zu verlangsamen... aber ich habe keine Daten dar√ºber, wie man es anwendet. Sie m√ºssen das Toxin erforschen. Ich √ºbermittle Ihnen gen√ºgend Cyber-Module, um die Forschungsf√§higkeit zu erwerben, wenn Sie diese noch nicht besitzen.\n"
 
 
-EmailName3:"POLITO 12.JUL.14\nre: BehÑlter einsetzen\n"
+EmailName3:"POLITO 12.JUL.14\nre: Beh√§lter einsetzen\n"
 EmailPortrait3:"Polito"
 EmailIcon3:"OpsIcon"
-EmailText3:"Okay, die BehÑlter mit dem Toxin-A mÅssen direkt in die Klimaanlagen geschÅttet werden. Auf diesem Deck mÅsste es vier StÅck geben. Wenn Sie einen BehÑlter in jede Klimaanlage kippen, dÅrfte das Wachstum dieser ekelhaften Kreaturen deutlich verlangsamt werden. Dadurch mÅsste auch die Biomasse aus dem Aufzugsschacht verschwinden.\n"
+EmailText3:"Okay, die Beh√§lter mit dem Toxin-A m√ºssen direkt in die Klimaanlagen gesch√ºttet werden. Auf diesem Deck m√ºsste es vier St√ºck geben. Wenn Sie einen Beh√§lter in jede Klimaanlage kippen, d√ºrfte das Wachstum dieser ekelhaften Kreaturen deutlich verlangsamt werden. Dadurch m√ºsste auch die Biomasse aus dem Aufzugsschacht verschwinden.\n"
 
 
 EmailName6:"POLITO 12.JUL.14\nre: Fortschritt\n"
 EmailPortrait6:"Polito"
 EmailIcon6:"OpsIcon"
-EmailText6:"Gut. Wie Sie sehen werden, wurde die organische Masse an den WÑnden und im Aufzugsschacht durch das VersprÅhen des Biotoxins verringert. Tun Sie jetzt dasselbe bei den drei anderen Klimaanlagen.\n"
+EmailText6:"Gut. Wie Sie sehen werden, wurde die organische Masse an den W√§nden und im Aufzugsschacht durch das Verspr√ºhen des Biotoxins verringert. Tun Sie jetzt dasselbe bei den drei anderen Klimaanlagen.\n"
 
 
 EmailName4:"POLITO 12.JUL.14\nre: Tempo\n"
 EmailPortrait4:"Polito"
 EmailIcon4:"OpsIcon"
-EmailText4:"Warum sind Sie so langsam? Glauben Sie, das ist ein Spiel? Sie leben nur noch dank Ihres GlÅcks und meiner andauernden Geduld! Jetzt machen Sie schon!\n"
+EmailText4:"Warum sind Sie so langsam? Glauben Sie, das ist ein Spiel? Sie leben nur noch dank Ihres Gl√ºcks und meiner andauernden Geduld! Jetzt machen Sie schon!\n"
 
 
 EmailName5:"POLITO 12.JUL.14\nre: Schacht ist frei\n"
@@ -43,73 +43,73 @@ EmailText5:"Endlich! Meine Messungen ergeben, dass der Aufzugsschacht frei ist. 
 LogName32:"Chemikalienliste\nHydroponik\n"
 LogPortrait32:"Chem"
 LogIcon32:"HydIcon"
-LogText32:"Inventar fÅr Labor-Lagerraum: Hydroponik-Labor 008\n\nAntimon : 1\nArsen (As) : 1\nBarium (Ba) : 1\nCÑsium (Cs) : 2 \nKupfer (Cu) : 1\nFermium (Fm) : 1\nGallium (Ga) : 2\nHassium (Hs) : 1\nIridium (Ir) : 2\nNatrium (Na) : 1\nRadium (Ra) : 1\nTechnetium (Tc) : 2\nTellur (Te) : 2\n\nDiese Inventarliste entspricht UNN-Sicherheitscode Nr. 134882 und muss in allen Lagern mit gefÑhrlichen Chemikalien ausgelegt werden. \"Lager\" sind gemÑ· UNN-Sicher- heitscode Nr. 195331 alle Gebiete, in denen gefÑhrliche Chemikalien (siehe Sicherheitscode Nr. 093355) in Mengen Åber 50 g pro Quadratmeter lÑnger als 24 Stunden gelagert werden.\n"
+LogText32:"Inventar f√ºr Labor-Lagerraum: Hydroponik-Labor 008\n\nAntimon : 1\nArsen (As) : 1\nBarium (Ba) : 1\nC√§sium (Cs) : 2 \nKupfer (Cu) : 1\nFermium (Fm) : 1\nGallium (Ga) : 2\nHassium (Hs) : 1\nIridium (Ir) : 2\nNatrium (Na) : 1\nRadium (Ra) : 1\nTechnetium (Tc) : 2\nTellur (Te) : 2\n\nDiese Inventarliste entspricht UNN-Sicherheitscode Nr. 134882 und muss in allen Lagern mit gef√§hrlichen Chemikalien ausgelegt werden. \"Lager\" sind gem√§√ü UNN-Sicher- heitscode Nr. 195331 alle Gebiete, in denen gef√§hrliche Chemikalien (siehe Sicherheitscode Nr. 093355) in Mengen √ºber 50 g pro Quadratmeter l√§nger als 24 Stunden gelagert werden.\n"
 
 
 LogName3:"MILLER 27.JUN.14\nre: Unsere Arbeit hier\n"
 LogPortrait3:"Miller"
 LogIcon3:"HydIcon"
-LogText3:"An: Renfro, Richard: UniversitÑt Oxford\nDick, ich wei·, dass Du diese Nachricht erst nach unserer RÅckkehr erhÑltst... aber ich muss Dir sagen, wie unglaublich ich mich fÅhle. Wir haben es endlich geschafft...haben den Kontakt hergestellt... und Muldoon und ich wurden ausgewÑhlt, in der Anfangsphase dabei zu sein... Anatoly verlangte aber, dass wir das niemandem auf dem Schiff erzÑhlen... Diese Wesen sind erstaunlich... sie sind so hilflos... ich fÅhle irgendwie den Zwang, sie zu schÅtzen... es ist eine wunderbare Entdeckung...\n"
+LogText3:"An: Renfro, Richard: Universit√§t Oxford\nDick, ich wei√ü, dass Du diese Nachricht erst nach unserer R√ºckkehr erh√§ltst... aber ich muss Dir sagen, wie unglaublich ich mich f√ºhle. Wir haben es endlich geschafft...haben den Kontakt hergestellt... und Muldoon und ich wurden ausgew√§hlt, in der Anfangsphase dabei zu sein... Anatoly verlangte aber, dass wir das niemandem auf dem Schiff erz√§hlen... Diese Wesen sind erstaunlich... sie sind so hilflos... ich f√ºhle irgendwie den Zwang, sie zu sch√ºtzen... es ist eine wunderbare Entdeckung...\n"
 
 
 LogName2:"KORENCHKIN 28.JUN.14\nre: Wunder\n"
 LogPortrait2:"Korench"
 LogIcon2:"ComIcon"
-LogText2:"Die Jungen sind jetzt am Bord. Captain Diego und ich haben Deck 3 gesperrt. Er und ich sind jetzt eins im Geiste... unsere Kîrper verÑndern sich auch. Manchmal tut es schrecklich weh und manchmal ist es... wunderbar. Etwas Wundervolles geschieht mit mir.\n"
+LogText2:"Die Jungen sind jetzt am Bord. Captain Diego und ich haben Deck 3 gesperrt. Er und ich sind jetzt eins im Geiste... unsere K√∂rper ver√§ndern sich auch. Manchmal tut es schrecklich weh und manchmal ist es... wunderbar. Etwas Wundervolles geschieht mit mir.\n"
 
 
 LogName4:"MILLER 29.JUN.14\nre: Die Kinder\n"
 LogPortrait4:"Miller"
 LogIcon4:"HydIcon"
-LogText4: "Die Wesen sterben. Und wir kînnen ihnen nicht helfen... Sie sind sehr giftig. Muldoon wollte bei ihnen bleiben, und jetzt ist er tot. Aber heute frÅh hatte ich... eine Offenbarung... ich begann, an den PlÑnen fÅr eine radikale Serie kyberne- tischer Optimierungen zu arbeiten. Wenn das klappt, kînnte man einen Kîrper fast unzerstîrbar machen... doch der Geist bliebe menschlich und schÅtzend... wir haben nicht viel Zeit...\n"
+LogText4: "Die Wesen sterben. Und wir k√∂nnen ihnen nicht helfen... Sie sind sehr giftig. Muldoon wollte bei ihnen bleiben, und jetzt ist er tot. Aber heute fr√ºh hatte ich... eine Offenbarung... ich begann, an den Pl√§nen f√ºr eine radikale Serie kyberne- tischer Optimierungen zu arbeiten. Wenn das klappt, k√∂nnte man einen K√∂rper fast unzerst√∂rbar machen... doch der Geist bliebe menschlich und sch√ºtzend... wir haben nicht viel Zeit...\n"
 
 
 LogName11:"MILLER 08.JUL.14\nre: Wunderbares Spielzeug\n"
 LogPortrait11:"Miller"
 LogIcon11:"HydIcon"
-LogText11:"Ich verÑndere mich. Mein Kopf steckt voller wunderbarer Ideen und Experimente... sie wollen so viele Wunder mit uns teilen... uns so viel Wissen geben... sie haben mir gesagt, wie ich dieses Implantat entwickeln kann... sie sagten, das wÅrde mein wahres Ich verbessern... ich wÅnschte, ich hÑtte mehr Zeit, so dass ich es ihnen geben kînnte.\n"
+LogText11:"Ich ver√§ndere mich. Mein Kopf steckt voller wunderbarer Ideen und Experimente... sie wollen so viele Wunder mit uns teilen... uns so viel Wissen geben... sie haben mir gesagt, wie ich dieses Implantat entwickeln kann... sie sagten, das w√ºrde mein wahres Ich verbessern... ich w√ºnschte, ich h√§tte mehr Zeit, so dass ich es ihnen geben k√∂nnte.\n"
 
 
 LogName8:"MILLER 30.JUN.14\nre: Schwester Bloome\n"
 LogPortrait8:"Miller"
 LogIcon8:"HydIcon"
-LogText8: "Ich habe Schwester Bloome als neue Mutter fÅr unsere Kinder ausgewÑhlt. Sie ist nett, freundlich und gesund, passt also perfekt. Sie hat selbst ein Kind, das sich auf der Erde befindet. Sie wei· also, wie man sich um Nachwuchs kÅmmert. Ave Maria, wenn sie nur wÅsste, was die Zukunft bringen wird... dann wÅrde sie an der Freude der Masse teilhaben...\n"
+LogText8: "Ich habe Schwester Bloome als neue Mutter f√ºr unsere Kinder ausgew√§hlt. Sie ist nett, freundlich und gesund, passt also perfekt. Sie hat selbst ein Kind, das sich auf der Erde befindet. Sie wei√ü also, wie man sich um Nachwuchs k√ºmmert. Ave Maria, wenn sie nur w√ºsste, was die Zukunft bringen wird... dann w√ºrde sie an der Freude der Masse teilhaben...\n"
 
 
 LogName5:"BLOOME 02.JUL.14\nre: Besorgt\n"
 LogPortrait5:"Bloome"
 LogIcon5:"HydIcon"
-LogText5: "Ich habe diese PlÑne auf Dr. Millers Schreibtisch gefunden... es sind PlÑne fÅr Cyber-Modifikationen, die seit 40 Jahren illegal sind... das passt gar nicht zu ihm... Ich wollte mit ihm darÅber reden, doch dann merkte ich... dass die fÅr den Prototypen angegebene DNA-Sequenz... meine ist...\n"
+LogText5: "Ich habe diese Pl√§ne auf Dr. Millers Schreibtisch gefunden... es sind Pl√§ne f√ºr Cyber-Modifikationen, die seit 40 Jahren illegal sind... das passt gar nicht zu ihm... Ich wollte mit ihm dar√ºber reden, doch dann merkte ich... dass die f√ºr den Prototypen angegebene DNA-Sequenz... meine ist...\n"
 
 
-LogName6:"DELACROIX 03.JUL.14\nre: énderung\n"
+LogName6:"DELACROIX 03.JUL.14\nre: √Ñnderung\n"
 LogPortrait6:"Delacroix"
 LogIcon6:"EngIcon"
-LogText6:"An: Polito, Dr. Janice\nIch erhielt ein E-Mail von Anatoly. Es geht ihm nicht gut. Den Firmenregeln zufolge kann ich den Leitenden Manager absetzen, wenn er seine Aufgaben nicht mehr erfÅllen kann. Aber was ist mit seinem VerbÅndeten, Captain Diego? Er hat 120 Soldaten auf der Rickenbacker, die ihn unterstÅtzen... ich frage mich, ob das KI-Fragment, das du auf Tau Ceti 5 entdeckt hast, etwas damit zu tun hat...\n"
+LogText6:"An: Polito, Dr. Janice\nIch erhielt ein E-Mail von Anatoly. Es geht ihm nicht gut. Den Firmenregeln zufolge kann ich den Leitenden Manager absetzen, wenn er seine Aufgaben nicht mehr erf√ºllen kann. Aber was ist mit seinem Verb√ºndeten, Captain Diego? Er hat 120 Soldaten auf der Rickenbacker, die ihn unterst√ºtzen... ich frage mich, ob das KI-Fragment, das du auf Tau Ceti 5 entdeckt hast, etwas damit zu tun hat...\n"
 
 
 LogName7:"POLITO 04.JUL.14\nre: KI-Stimmfragment\n"
 LogPortrait7:"Polito"
 LogIcon7:"OpsIcon"
-LogText7:"An: Delacroix, Dr. Marie\nMarie, das ist dringend... Anscheinend hat die KI von Tau Ceti sich in den Bordcomputer eingeschleust... Ich fand heute diese Fragment... Das ist nicht alles. Nachdem ich das Fragment entdeckt hatte, ging ich zu meinem Labor zurÅck und fand es vîllig verwÅstet. Ich muss mit dir sprechen... Du bist die Einzige, der ich noch vertraue. Ich habe eine Theorie Åber diese KI. Ich habe versucht, Informationen Åber all die GerÅchte bezÅglich der Ereignisse auf der Station Citadel herauszufinden. Ich glaube, ich habe... <<NACHRICHT UNTERBROCHEN>>\n"
+LogText7:"An: Delacroix, Dr. Marie\nMarie, das ist dringend... Anscheinend hat die KI von Tau Ceti sich in den Bordcomputer eingeschleust... Ich fand heute diese Fragment... Das ist nicht alles. Nachdem ich das Fragment entdeckt hatte, ging ich zu meinem Labor zur√ºck und fand es v√∂llig verw√ºstet. Ich muss mit dir sprechen... Du bist die Einzige, der ich noch vertraue. Ich habe eine Theorie √ºber diese KI. Ich habe versucht, Informationen √ºber all die Ger√ºchte bez√ºglich der Ereignisse auf der Station Citadel herauszufinden. Ich glaube, ich habe... <<NACHRICHT UNTERBROCHEN>>\n"
 
 
 LogName1:"KORENCHKIN 05.JUL.14\nre: Ein neues Ziel\n"
 LogPortrait1:"Korench"
 LogIcon1:"ComIcon"
-LogText1:"An: Delacroix, Dr. Marie \nSie werden meine Freude nicht verstehen, Marie, und ich versuche gar nicht, sie zu erklÑren. Ich fÅhle mich wie ein neuer Mensch... ich habe nun ein Ziel... wichtiger als die Mission, sogar wichtiger als TriOptimum... ich werde sie schÅtzen... um jeden Preis... ich werde sie schÅtzen...\n"
+LogText1:"An: Delacroix, Dr. Marie \nSie werden meine Freude nicht verstehen, Marie, und ich versuche gar nicht, sie zu erkl√§ren. Ich f√ºhle mich wie ein neuer Mensch... ich habe nun ein Ziel... wichtiger als die Mission, sogar wichtiger als TriOptimum... ich werde sie sch√ºtzen... um jeden Preis... ich werde sie sch√ºtzen...\n"
 
 
 LogName10:"LOESSER 05.JUL.14\nre: Wo sind sie?\n"
 LogPortrait10:"Loesser"
 LogIcon10:"MedIcon"
-LogText10:"An: Miller, Marc\nMarc, was ist da los? Ich fand es schon komisch, dass Du mich gebeten hast, sechzehn weibliche Besatzungsmitglieder hochzuschicken... aber... was hast du mit ihnen gemacht? Ich habe hier nicht genug Personal. Hast Du au·erdem etwas von Watts, Sanger oder Polito gehîrt? Es ist, ab ob alle in Urlaub gefahren wÑren, ohne mir etwas davon zu sagen.\n"
+LogText10:"An: Miller, Marc\nMarc, was ist da los? Ich fand es schon komisch, dass Du mich gebeten hast, sechzehn weibliche Besatzungsmitglieder hochzuschicken... aber... was hast du mit ihnen gemacht? Ich habe hier nicht genug Personal. Hast Du au√üerdem etwas von Watts, Sanger oder Polito geh√∂rt? Es ist, ab ob alle in Urlaub gefahren w√§ren, ohne mir etwas davon zu sagen.\n"
 
 
 LogName16:"LOESSER 08.JUL.14\nre: Miller\n"
 LogPortrait16:"Loesser"
 LogIcon16:"MedIcon"
-LogText16:"Ich wei· jetzt, was Miller vorhat. Heute morgen... heute morgen sah ich Erin Bloome... sie kÅmmerte sich um irgendwelche Eier... und sie war auf eine scheu·liche, widernatÅrliche Weise... verÑndert worden. Ich fÅrchte das Schlimmste fÅr den Rest meiner Angestellten. Dieses Schwein! Er wird nicht ungestraft davonkommen!\n"
+LogText16:"Ich wei√ü jetzt, was Miller vorhat. Heute morgen... heute morgen sah ich Erin Bloome... sie k√ºmmerte sich um irgendwelche Eier... und sie war auf eine scheu√üliche, widernat√ºrliche Weise... ver√§ndert worden. Ich f√ºrchte das Schlimmste f√ºr den Rest meiner Angestellten. Dieses Schwein! Er wird nicht ungestraft davonkommen!\n"
 
 
 LogName12:"KORENCHKIN 08.JUL.14\nre: Ruhm\n"
@@ -121,24 +121,24 @@ LogText12:"... Lang lebe die Masse... Ich bin eine Stimme in ihrem Chor.\n"
 LogName13:"DIEGO 09.JUL.14\nre: Unsere Allianz\n"
 LogPortrait13:"Diego"
 LogIcon13:"RickIcon"
-LogText13:"An: Korenchkin, Anatoly\nIch glaube, die PlÑne, welche die Masse fÅr mich hat, sind gro·artiger, als ich mir je vorstellen konnte. Meine Verwandlung hat begonnen. Aber der Pfad ist noch fantastischer, als wir glaubten. Es handelt sich nicht um eine einzelne Mutation... die Form, die man mir versprochen hat ist noch schîner als das... Sie sagen mir, dass ich in der Luft schweben und die Feinde unserer Biomasse mit meinem Geist angreifen werde... mit unserem Geist... du schenktest mir voll ein...\n"
+LogText13:"An: Korenchkin, Anatoly\nIch glaube, die Pl√§ne, welche die Masse f√ºr mich hat, sind gro√üartiger, als ich mir je vorstellen konnte. Meine Verwandlung hat begonnen. Aber der Pfad ist noch fantastischer, als wir glaubten. Es handelt sich nicht um eine einzelne Mutation... die Form, die man mir versprochen hat ist noch sch√∂ner als das... Sie sagen mir, dass ich in der Luft schweben und die Feinde unserer Biomasse mit meinem Geist angreifen werde... mit unserem Geist... du schenktest mir voll ein...\n"
 
 
-LogName15:"DELACROIX 09.JUL.14\nre: WÅrmer erledigen\n"
+LogName15:"DELACROIX 09.JUL.14\nre: W√ºrmer erledigen\n"
 LogPortrait15:"Delacroix"
 LogIcon15:"EngIcon"
-LogText15:"Bei den WÅrmern scheint es sich um ein Kollektivwesen zu handeln... Obwohl ich mir nicht sicher bin, dass ein VersprÅhen von Toxin-A alle WÅrmer direkt tîten wÅrde, dÅrfte es doch die Masse reduzieren und das GewÑchs an den WÑnden und in den LiftschÑchten beseitigen. Aber vielleicht kînnte ich eine noch stÑrkere Formel finden...\n"
+LogText15:"Bei den W√ºrmern scheint es sich um ein Kollektivwesen zu handeln... Obwohl ich mir nicht sicher bin, dass ein Verspr√ºhen von Toxin-A alle W√ºrmer direkt t√∂ten w√ºrde, d√ºrfte es doch die Masse reduzieren und das Gew√§chs an den W√§nden und in den Liftsch√§chten beseitigen. Aber vielleicht k√∂nnte ich eine noch st√§rkere Formel finden...\n"
 
 
 LogName14:"DELACROIX 10.JUL.14\nre: Ein Hoffnungsschimmer\n"
 LogPortrait14:"Delacroix"
 LogIcon14:"EngIcon"
-LogText14:"Es wird nicht leicht sein, die Kinder zu tîten. Aber ich glaube, ich habe etwas entdeckt. Das biochemische System dieser WÅrmer, die ich als \"Anneliden\" bezeichne, behandelt Invers-Proteine als Toxine. Mit Hilfe eines Replikators im Bio-öberwachungslabor gelang es mir, einige Invers-Proteine zu isolieren und abzufÅllen. Allerdings stimmt die Mischung mit der Grundkomponente noch nicht, weshalb ich noch daran arbeiten muss. Danach werde ich das Toxin in die vier Klimaanlagen kippen... das kann die Lage nur verbessern.\n"
+LogText14:"Es wird nicht leicht sein, die Kinder zu t√∂ten. Aber ich glaube, ich habe etwas entdeckt. Das biochemische System dieser W√ºrmer, die ich als \"Anneliden\" bezeichne, behandelt Invers-Proteine als Toxine. Mit Hilfe eines Replikators im Bio-√úberwachungslabor gelang es mir, einige Invers-Proteine zu isolieren und abzuf√ºllen. Allerdings stimmt die Mischung mit der Grundkomponente noch nicht, weshalb ich noch daran arbeiten muss. Danach werde ich das Toxin in die vier Klimaanlagen kippen... das kann die Lage nur verbessern.\n"
 
 
 LogName9:"TURNBULL 11.JUL.14\nre: Verwandlung\n"
 LogPortrait9:"Turnbull"
 LogIcon9:"RickIcon"
-LogText9:"Wei·t du, Bronson hatte doch recht. Ich habe wahrscheinlich nur noch eine Stunde... aber ich verfolge die... Verwandlung und hoffe, dass die Daten jemandem nÅtzen werden... ich habe Tumore...am Bein und am RÅcken...ich spÅre das Ding in mir...es kaut, wird fetter. Meine Theorie ist, dass sie einen lebenden Wirtskîrper brauchen, um die Verwandlung abzuschlie·en. Ich hasse Diego, hasse Korenchkin, hasse Tau Ceti 5. Wenn jemand dies findet, macht euch nichts daraus, falls ihr mich umlegen musstet. Ich war sowieso nicht mehr ich selbst.\n"
+LogText9:"Wei√üt du, Bronson hatte doch recht. Ich habe wahrscheinlich nur noch eine Stunde... aber ich verfolge die... Verwandlung und hoffe, dass die Daten jemandem n√ºtzen werden... ich habe Tumore...am Bein und am R√ºcken...ich sp√ºre das Ding in mir...es kaut, wird fetter. Meine Theorie ist, dass sie einen lebenden Wirtsk√∂rper brauchen, um die Verwandlung abzuschlie√üen. Ich hasse Diego, hasse Korenchkin, hasse Tau Ceti 5. Wenn jemand dies findet, macht euch nichts daraus, falls ihr mich umlegen musstet. Ich war sowieso nicht mehr ich selbst.\n"
 
 
