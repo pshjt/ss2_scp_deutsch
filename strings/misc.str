@@ -76,7 +76,7 @@ ResearchBusy:"Sie können nicht zwei Objekte gleichzeitig erforschen. Sie müsse
 ResearchChemNeeded:"Benötigte Chemikalie: %s"
 ResearchDone:"Forschung abgeschlossen!\nKlicken Sie auf die Taste \"Berichte\", um das Ergebnis zu sehen."
 ResearchReady:"Es wird kein Objekt untersucht. Rechtsklicken Sie auf ein Artefakt, um es zu erforschen."
-ResearchSkillNeeded:"Um etwas zu erforschen benötigen Sie eine Forschungs-Fähigkeit von mindestens %d."
+ResearchSkillNeeded:"Um dieses Objekt zu erforschen benötigen Sie eine Forschungs-Fähigkeit von mindestens %d."
 ResearchSoftNeeded:"Sie benötigen Forschungs-Software, um etwas zu erforschen."
 ResMachine0:"Probe erfasst. Quanten-Bio-Rekonstruktionsgerät jetzt aktiviert."
 ResMachine1:"Probe überflüssig. Quanten-Bio-Rekonstruktionsgerät bereits aktiviert."
