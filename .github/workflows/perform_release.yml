@@ -1,0 +1,51 @@
+name: perform-release
+on:
+  push:
+    tags:
+      - 'v*'
+      
+permissions:
+  contents: read
+
+
+# Check that pushed tag points to latest master commit, then build release and create GitHub release alongside.
+jobs:
+  check-tag-latest:
+    name: Compare tag with master
+    runs-on: ubuntu-latest
+    outputs:
+      tag_hash: ${{ github.sha }}
+      master_hash: ${{ steps.master-commit-hash.outputs.master_hash }}
+    permissions:
+      contents: read
+  
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        ref: master
+        sparse-checkout: .
+        
+    - name: Get latest master commit hash
+      id: master-commit-hash
+      run: |
+        hash=$(git log -n1 --format=format:"%H")
+        echo "master_hash=$hash" >> "$GITHUB_OUTPUT"
+
+
+  gh-release:
+    needs: [check-tag-latest]
+    name: Create GitHub release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:    
+      - name: Set tag name to env
+        run: echo "RELEASE_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+          
+      - name: Push GitHub release
+        uses: ncipollo/release-action@v1
+        with:
+          generateReleaseNotes: true        
+          skipIfReleaseExists: true
+          tag: ${{ env.RELEASE_VERSION }}      
