@@ -1,60 +1,60 @@
-EmailName1:"POLITO 12.JUL.14\nre: Lagerraum 4\n"
+EmailName1:"POLITO 12.JUL.14\nRe: Lagerraum 4\n"
 EmailPortrait1:"Polito"
 EmailIcon1:"OpsIcon"
 EmailText1:"Machen Sie schneller. Sie haben ja keine Ahnung, was auf dem Spiel steht. Sehen Sie sich nach Lagerraum 4 um. Ich habe dort einiges untergebracht, und der Code ist 59004. Ich muss zum Deck... <<NACHRICHT UNTERBROCHEN>>\n"
 
 
-EmailName2:"POLITO 12.JUL.14\nre: Die Xenomorphs\n"
+EmailName2:"POLITO 12.JUL.14\nRe: Die Xenomorphs\n"
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
 EmailText2:"Hören Sie gut zu. Die Xenomorphs, die das Schiff erobert haben, stammen anscheinend von der Oberfläche von Tau Ceti 5. Es gelang Ihnen, eine Anzahl von Besatzungsmitgliedern zu infizieren, indem sie einen aggressiv eindringenden Parasiten verwendeten. Sie können auch die Aktionen anderer durch eine Art begrenzte Telepathie kontrollieren. Finden Sie die Forschungs-Software. Sie müssen diese Wesen verstehen... und dann eliminieren.\n"
 
 
-EmailName3:"POLITO 12.JUL.14\nre: Schutzabriegelung\n"
+EmailName3:"POLITO 12.JUL.14\nRe: Schutzabriegelung\n"
 EmailPortrait3:"Polito"
 EmailIcon3:"OpsIcon"
 EmailText3:"Die Strahlung muss die Schutzabriegelung um den Reaktorkern herum geschlossen haben. Sie müssen irgendwie die Strahlung in den Kühlmittelröhren eliminieren. Xerxes hindert mich daran, auf den Hauptdatenstrang zuzugreifen, also kann ich keine Informationen holen, die Ihnen nützen würden. Er arbeitet jetzt für die anderen.\n"
 
 
-EmailName4:"POLITO 12.JUL.14\nre: Röhren freimachen\n"
+EmailName4:"POLITO 12.JUL.14\nRe: Röhren freimachen\n"
 EmailPortrait4:"Polito"
 EmailIcon4:"OpsIcon"
 EmailText4:"Halten Sie die Augen offen. Sie müssen irgendwie diese Kühlmittelröhren freimachen und zum Reaktorkern gelangen. Das Schiff muss für eine derartige Situation ein Reservesystem besitzen.\n"
 
 
-EmailName6:"POLITO 12.JUL.14\nre: Die Triebwerke\n"
+EmailName6:"POLITO 12.JUL.14\nRe: Die Triebwerke\n"
 EmailPortrait6:"Polito"
 EmailIcon6:"OpsIcon"
 EmailText6:"Sie müssen die Triebwerke aktivieren. Gehen Sie zur Triebwerksgondel 1 und 2 und stellen Sie die Triebwerke manuell um. Danach initialisieren Sie das System von der Kernkontrollstation aus. Aber das System startet nicht, solange nicht beide Triebwerke aktiviert wurden. Passen Sie auf. Die mobilisieren jetzt alle ihre Kräfte. Und die wissen genau, wo Sie sind.\n"
 
 
-EmailName7:"POLITO 12.JUL.14\nre: Flusskontrolle\n"
+EmailName7:"POLITO 12.JUL.14\nRe: Flusskontrolle\n"
 EmailPortrait7:"Polito"
 EmailIcon7:"OpsIcon"
 EmailText7:"Xerxes ist uns einen Schritt voraus. Er hat den Flusskontroll-Computer übernommen und unseren Weg blockiert. Aber halten Sie die Augen offen. Vielleicht finden Sie einen Ausweg.\n"
 
 
-EmailName8:"POLITO 12.JUL.14\nre: Kern aktiviert\n"
+EmailName8:"POLITO 12.JUL.14\nRe: Kern aktiviert\n"
 EmailPortrait8:"Polito"
 EmailIcon8:"OpsIcon"
 EmailText8:"Gut gemacht. Der Reaktorkern ist jetzt wieder aktiviert. Gehen Sie jetzt zum Aufzug und kommen Sie zu mir auf Deck 4. Inzwischen habe ich einige annelidische Artefakte an Bord des Schiffs entdeckt. Ich glaube, diese könnten Ihnen nützen, und deshalb habe ich diese Informationen in die Waffen-Upgrade-Ein- heiten des Schiffs geladen. Diese können die Informationen an Ihr Cyber-Interface weitergeben. Worauf warten Sie denn? Gehen Sie zum Aufzug!\n"
 
 
-EmailName9:"SHODAN 12.JUL.14\nre: Zum Verbindungspunkt\n"
+EmailName9:"SHODAN 12.JUL.14\nRe: Zum Verbindungspunkt\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
 EmailText9:"Ich kann dieses Ungeziefer jetzt nach Belieben vernichten. Die Masse erzittert vor meiner Macht. Du bist eine effektive Drohne, Menschling. Gehe jetzt zum Kommandodeck zurück. Finde den Verbindungspunkt und begib Dich dann zur Rickenbacker.\n"
 
 
-EmailName10:"POLITO 12.JUL.14\nre: Kern umstellen\n"
+EmailName10:"POLITO 12.JUL.14\nRe: Kern umstellen\n"
 EmailPortrait10:"Polito"
 EmailIcon10:"OpsIcon"
 EmailText10:"Sie sind jetzt auf dem Technik-Deck. Finden Sie den Reaktorkern und stellen Sie ihn um. Dadurch erhalten die Aufzüge wieder Strom. Ich empfange seltsame Signale von dort unten, also seien Sie vorsichtig.\n"
 
 
-LogName24:"TRAINER 02.06.11\nre: Testnachricht\n"
+LogName24:"TRAINER 06.FEB.11\nRe: Testnachricht\n"
 LogPortrait24:"Bayliss"
-LogIcon24:"RickIcon"
+LogIcon24:"RamsIcon"
 LogText24:"Diese Nachricht kommt von dem Audio-Log, das Sie gerade aufgehoben haben. Sie können mittels Ihres PDA jederzeit ein Audio-Log oder eine E-Mail abspielen, die Sie erhalten haben. Im Feldeinsatz dient der PDA auch dazu, Ihre Einsatzaufgaben zu speichern und Hilfsinformationen aufzurufen.\n"
 
 
@@ -64,127 +64,127 @@ LogIcon32:"EngIcon"
 LogText32:"Inventar für Labor-Lagerraum: Technik-Lagerraum 192\n\nAntimon (Sb) : 2\nBarium (Ba) : 2\nCalifornium (Cf) : 2\nCäsium (Cs) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnetium (Tc) : 1\nTellur (Te) : 1\nVanadium (V) : 2\nYttrium (Y) : 2\n\nDiese Inventarliste entspricht UNN-Sicherheitscode Nr. 134882 und muss in allen Lagern mit gefährlichen Chemikalien ausgelegt werden. \"Lager\" sind gemäß UNN-Sicher- heitscode Nr. 195331 alle Gebiete, in denen gefährliche Chemikalien (siehe Sicherheitscode Nr. 093355) in Mengen über 50 g pro Quadratmeter länger als 24 Stunden gelagert werden.\n"
 
 
-LogName6:"SIDDONS 02.JUN.14\nre: Bloß ich\n"
+LogName6:"SIDDONS 02.JUN.14\nRe: Bloß ich\n"
 LogPortrait6:"Siddons"
 LogIcon6:"OpsIcon"
 LogText6:"An: Suarez, Tommy\nDie machen es uns nicht leicht, was? Ich vermisse Dich. Ich weiß, es ist albern, aber so ist es nunmal. Ich werde mich eine Stunde lang in Selbstmitleid wälzen und Dir dann wieder schreiben. Typisch, ich muss 67 Billionen Meilen weit reisen, um einen Mann zu treffen. Sobald Du auf die Von Braun versetzt wirst, wird alles besser werden. Mir wird es besser gehen, das verspreche ich. Verdammt, da kommt jemand. Ich zähle die Sekunden...\n"
 
 
-LogName16:"DELACROIX 30.JUN.14\nre: Tau Ceti 5\n"
+LogName16:"DELACROIX 30.JUN.14\nRe: Tau Ceti 5\n"
 LogPortrait16:"Delacroix"
 LogIcon16:"EngIcon"
 LogText16:"An: Korenchkin, Anatoly\nAnatoly, du MUSST die Wissenschaftler dieses Schiffes auf die Planetenoberfläche lassen. Falls da unten etwas IST, dann ist das wichtiger als TriOp, wichtiger als die UNN und wichtiger als du. Und warum hast du zusammen mit Diego Deck 3 sperren lassen? Was ist da los?\n"
 
 
-LogName21:"MALONE 03.JUL.14\nre: Psionische Affen!\n"
-LogPortrait21:"testport"
+LogName21:"MALONE 03.JUL.14\nRe: Psionische Affen!\n"
+LogPortrait21:"malone"
 LogIcon21:"RickIcon"
 LogText21:"An: Mak Pao Forschungsamt\nGestern rief mich ein Labortechniker aus der Medizinabteilung in den Vivisektionsraum. Er meinte, dass die Laboraffen Anzeichen ungewöhnlicher Intelligenz zeigen. Ich saß vier Stunden lang neben einem und versuchte, ihn mit einem PSI-Amp im Beta-4-Zyklus zu kontaktieren. Er reagierte nicht darauf. Natürlich nahm ich an, dass er nicht in der Lage war, auf den komplexen Beta-4-Zyklus zu reagieren. Aber dann wurde mir klar, dass der Affe meinen Kontaktversuch bewusst blockierte. Sobald ich den PSI-Amp hob, um ihn anzugreifen, krallte das Tier nach mir und projizierte ein kryokinetisches Feld, das meinen Arm lähmte. Ich setzte sofort die PSI-Dämpfung ein und betäubte ihn dann mit einem Schockstab.\n"
 
 
-LogName17:"DELACROIX 04.JUL.14\nre: Ich werde etwas tun\n"
+LogName17:"DELACROIX 04.JUL.14\nRe: Ich werde etwas tun\n"
 LogPortrait17:"Delacroix"
 LogIcon17:"EngIcon"
 LogText17:"An: Korenchkin, Anatoly\nIch weiß nicht, welche Geheimnisse Sie und Ihr neuer Freund Captain Diego auf Deck 3 versteckt haben, aber ich werde es herausfinden. Wenn Sie sich weigern, sich mit mir und meinen Leuten zu treffen, bleibt mir nichts Anderes übrig, als bei der Firmenleitung eine Beschwerde einzureichen. Wenn Sie das nicht ernst nehmen, werden Sergeant Bronson und ihre Sicherheitstruppen sich darum kümmern.\n"
 
 
-LogName9:"SANGER 04.JUL.14\nre: Delacroix\n"
+LogName9:"SANGER 04.JUL.14\nRe: Delacroix\n"
 LogPortrait9:"Sanger"
 LogIcon9:"EngIcon"
 LogText9:"Ich weiß nicht, wie wir es ohne Delacroix geschafft hätten. Das gesamte Schiff fällt auseinander, und sie ist die Einzige, die sich auskennt. Ich sah, wie sie sich mit diesem üblen Typen, Anatoly Koretzkin, oder wie der heißt, stritt und ihm ganz schön einheizte. Aber dieser Idiot starrte sie nur an und faselte etwas darüber, dass sie die Freuden der frohen Menge nicht kennt oder so was. Mama Mia, die Clowns kontrollieren jetzt den Zirkus...\n"
 
 
-LogName2:"DELACROIX 05.JUL.14\nre: Sei tapfer\n"
+LogName2:"DELACROIX 05.JUL.14\nRe: Sei tapfer\n"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
 LogText2:"An: Sanger, Constance\n\Constance, ich fürchte jetzt um mein Leben. Dies ist so unglaublich, dass es sich Diego und Korenchkin gar nicht vorstellen können. Ich glaube, sie haben total die Kontrolle verloren. Wir müssen herausfinden, was sie auf der Oberfläche von Tau Ceti 5 gefunden haben, und warum sie das unter allen Umständen geheimhalten wollten. Ich glaube, das ist wichtiger als mein Leben oder Dein Leben, oder das Überleben des Schiffes. Sei tapfer... und vorsichtig.\n"
 
 
-LogName7:"DELACROIX 05.JUL.14\nre: Zugang Flusskontrolle\n"
+LogName7:"DELACROIX 05.JUL.14\nRe: Zugang Flusskontrolle\n"
 LogPortrait7:"Delacroix"
 LogIcon7:"EngIcon"
 LogText7:"Jemand hat Xerxes manipuliert. Um einige Geheimnisse vor den Managern zu schützen, habe ich einen zweiten Zugang zum Flusskontroll-Computer erstellt. Um diesen zu aktivieren, musst Du die Hardware-Override-Funktion 45m/dEx in der Systemüberwachungseinheit in der Kommandozentrale aktivieren. Du findest 45m/dEx in Hilfslager 5 bei den Kühlröhren, Zugangscode: 34760.\n"
 
 
-LogName3:"SANGER 05.JUL.14\nre: Die Soldaten\n"
+LogName3:"SANGER 05.JUL.14\nRe: Die Soldaten\n"
 LogPortrait3:"Sanger"
 LogIcon3:"EngIcon"
 LogText3:"Früher konnte ich diese Landser von der Rickenbacker nie loswerden, und jetzt finde ich keinen von denen. Dieser unheimliche Typ vom OSA ist mir zwei Monate lang gefolgt, bis ich es ihm klargemacht habe, dass er unerwünscht ist. Jetzt versuchte ich, ihn zu fragen, ob er weiß, was los ist, aber er beantwortete meine E-Mail nicht mehr.\n"
 
 
-LogName22:"BRONSON 06.JUL.14\nre: Probleme mit Kanonen\n"
+LogName22:"BRONSON 06.JUL.14\nRe: Probleme mit Kanonen\n"
 LogPortrait22:"Bronson"
 LogIcon22:"OpsIcon"
 LogText22:"Aufgrund der jetzt ausgebrochenen Krise habe ich angeordnet, dass an wichtigen Stellen Automatik-Kanonen angebracht werden. Gestern feuerte eine aus Versehen und verletzte Raummatrose Wells schwer. Es sieht aus, als ob jemand in den Überwachungssystemen von Xerxes herumgepfuscht hätte, denn meine Techniker können sie nicht deaktivieren. Bis wir dies gelöst haben werden auf meinen Befehl hin alle Automatik-Kanonen wieder ins Lager gebracht... aber ich kann das Team nicht erreichen, das die Kanonen einsammeln soll.\n"
 
 
-LogName18:"MALONE 06.JUL.14\nre: Weitere Experimente\n"
-LogPortrait18:"testport"
+LogName18:"MALONE 06.JUL.14\nRe: Weitere Experimente\n"
+LogPortrait18:"malone"
 LogIcon18:"RickIcon"
 LogText18:"An: Mak Pao Forschungsamt\nIch traf die entsprechenden Vorsichtsmaßnahmen und führte weitere Experimente durch. Seit unserer Ankunft auf Tau Ceti sind diese Wesen intelligenter geworden und haben irgendwie begrenzte PSI-Fähigkeiten erworben. Ich untersuchte ein Subjekt mit einem Beta-5-Zyklus und spürte manches, vor allem aber eine unglaubliche Empathie. Die Affen sind sich jetzt ihrer eigenen Geschichte bewusst, der Vivisektionen und Experimente, die an Ihnen auf der Von Braun durchgeführt wurden. Sie sind zornig und sie sind bereit, Ihrem Zorn Luft zu machen. Offensichtlich stellen sie sowohl eine faszinierende wissenschaftliche Ressource als auch ein unglaubliches Sicherheitsrisiko dar. Meine Empfehlung... sie entweder in den Kryotank stecken, oder sie sofort liquidieren. Wer weiß, welche Fähigkeiten sie noch erwerben können?\n"
 
 
-LogName23:"BRONSON 06.JUL.14\nre: Kanonen-Hack\n"
+LogName23:"BRONSON 06.JUL.14\nRe: Kanonen-Hack\n"
 LogPortrait23:"Bronson"
 LogIcon23:"OpsIcon"
 LogText23:"Verdammt, wir können die defekten Automatik-Kanonen nicht abschalten, und jetzt antwortet Xerxes uns nicht einmal mehr. Pollard hatte eine Idee. Indem wir eine Umgehungsleitung in die zentrale Kontrollstelle legen, können wir uns lokal in die Kanonen einhacken und sie kontrollieren. Das bedeutet aber, wir müssen auf die verflixten Dinger zugehen und hoffen, dass sie nicht losballern. Eines steht fest... ich werde herausfinden, was zum Teufel hier eigentlich los ist.\n"
 
 
-LogName4:"CURTIZ 07.JUL.14\nre: Wieder ein Leck\n"
+LogName4:"CURTIZ 07.JUL.14\nRe: Wieder ein Leck\n"
 LogPortrait4:"Curtiz"
 LogIcon4:"EngIcon"
 LogText4:"Delacroix hatte recht, das Schiff war NICHT einsatzbereit. OK, die automatische Sicherheitsabriegelung hat sich wegen des Strahlungslecks in den Röhren geschlossen. Ich gehe runter zum Technik-Kontrollzentrum... wahrscheinlich kann ich den Flusskontroll-Computer zur Reinigung der Röhren verwenden.\n"
 
 
-LogName13:"SANGER 10.JUL.14\nre: Tech-Zentr. schließen\n"
+LogName13:"SANGER 10.JUL.14\nRe: Tech-Zentr. schließen\n"
 LogPortrait13:"Sanger"
 LogIcon13:"EngIcon"
 LogText13:"Mein Gott, holt mich hier raus. Ich habe dem Schloss dieses Raums einen neuen Code gegeben. Vielleicht hält sie das auf. Ich gehe zu Frachthalle 2, sucht mich da.\n"
 
 
-LogName14:"MARTIN 10.JUL.14\nre: Frachthalle 2\n"
+LogName14:"MARTIN 10.JUL.14\nRe: Frachthalle 2\n"
 LogPortrait14:"Martin"
 LogIcon14:"EngIcon"
 LogText14:"Ich weiß nicht, was mir mehr Angst macht: die Hybriden mit ihren Bleirohren und Schrot- flinten, die wildgewordenen Automatik-Kanonen, oder unsere angeblichen Alliierten. Ich vertraue diesen UNN-Typen nicht. Ich muss Sanger finden. Sie kennt den Zugangscode für die Flusskontrolle. Ich gehe jetzt zu Frachthalle 2, um sie zu suchen.\n"
 
 
-LogName5:"SANGER 10.JUL.14\nre: Eingeschlossen\n"
+LogName5:"SANGER 10.JUL.14\nRe: Eingeschlossen\n"
 LogPortrait5:"Sanger"
 LogIcon5:"EngIcon"
 LogText5:"Malone ist tot. Ich redete gerade mit ihm und dieser... Cyborg kam von hinten ran und... OK, Connie, beruhig dich... ich habe der Tür im Technik-Kontroll- zentrum einen neuen Code gegeben: 15061. Ich glaube, hier bin ich sicher, hier bin ich sicher.\n"
 
 
-LogName8:"MARTIN 10.JUL.14\nre: Hinterhalt\n"
+LogName8:"MARTIN 10.JUL.14\nRe: Hinterhalt\n"
 LogPortrait8:"Martin"
 LogIcon8:"EngIcon"
 LogText8:"Sie haben uns vor sechs Stunden angegriffen. Malone, der OSA-Agent, versuchte, eines dieser Wesen mit einem pyrokinetischen Angriff zu erledigen, aber das zeigte keinerlei Wirkung. Dann feuerte das Ding beide Läufe in seinen Bauch. Falzone sagte, dass sich in einer der Triebwerksgondeln ein Waffenlager befindet. Vielleicht finde ich ihn und die anderen da...\n"
 
 
-LogName1:"CURTIZ 10.JUL.14\nre: Nur wir\n"
+LogName1:"CURTIZ 10.JUL.14\nRe: Nur wir\n"
 LogPortrait1:"Curtiz"
 LogIcon1:"EngIcon"
 LogText1:"Jetzt sind nur noch ein paar von uns übrig. Kurz nachdem Valdez starb, bin ich etwas durchgedreht und habe alles zerlegt... aber weißt du, habe ich zwei weitere Spritzen mit Strahlungs-Serum gefunden. Hoffentlich halte ich damit durch, bis ich eine Methode finde, um an dieser verdammten Automatik-Kanone vorbeizukommen... Wer ist da? Delacroix? Sanger?\n"
 
 
-LogName11:"DELACROIX 11.JUL.14\nre: Ein neuer Freund?\n"
+LogName11:"DELACROIX 11.JUL.14\nRe: Ein neuer Freund?\n"
 LogPortrait11:"Delacroix"
 LogIcon11:"EngIcon"
 LogText11:"Eine Art künstliche Intelligenz hat mit mir Kontakt aufgenommen und will mir dabei helfen, die Kontrolle über die Von Braun demjenigen zu entreißen, der sie jetzt hat... oder dem Ding, das sie jetzt hat. Ich weiß nicht, wo die KI herkommt, aber ich bin froh, dass sie hier ist.\n"
 
 
-LogName12:"SUAREZ 11.JUL.14\nre: Halte durch\n"
+LogName12:"SUAREZ 11.JUL.14\nRe: Halte durch\n"
 LogPortrait12:"Suarez"
 LogIcon12:"RickIcon"
 LogText12:"Bleibe wo Du bist, Bec, wirklich. Du kannst nicht dagegen ankämpfen und Du kannst nicht davonlaufen. Wenn Du mich wirklich liebst, dann suche nicht nach mir. Halte durch... ich lass Dich nicht im Stich.\n"
 
 
-LogName19:"DIEGO 11.JUL.14\nre: Widersteht dem Ruf\n"
+LogName19:"DIEGO 11.JUL.14\nRe: Widersteht dem Ruf\n"
 LogPortrait19:"Diego"
 LogIcon19:"RickIcon"
 LogText19:"Ich bin der UNN und diesem Schiff gegenüber verpflichtet. Aber kann ich dem Ruf der Masse widerstehen? Die Schwäche meines Vaters erschuf SHODAN. MEINE Schwäche hat diese Wesen an Bord der Von Braun gebracht... kann ich meinen Fehler wieder gutmachen?\n"
 
 
-LogName20:"DIEGO 11.JUL.14\nre: Ist es so schlimm?\n"
+LogName20:"DIEGO 11.JUL.14\nRe: Ist es so schlimm?\n"
 LogPortrait20:"Diego"
 LogIcon20:"RickIcon"
 LogText20:"In mancher Hinsicht ist die Masse wie die UNN. Es macht Freude, für ein gemeinsames Ziel zu arbeiten, und das auszublenden, was uns unterscheidet und trennt. Warum fürchten wir den Verlust der Individualität so sehr? Ein Mensch kann träumen, aber die Masse kann diese Träume verwirklichen.\n"

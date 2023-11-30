@@ -1,6 +1,13 @@
 NameUnresearched:"Unerforschtes Objekt"
 QueryUnresearched:"Dieses Objekt wurde noch nicht erforscht."
-ReportName1:"Hybrid-Organ."
+ReportName1:"Hybrid-Organ"
+ReportName3:"Midwife-Organ"
+ReportName4:"Larven-Organ"
+ReportName5:"Toxin-A"
+ReportName6:"WormBlood-Implantat"
+ReportName7:"Anneliden-Kristallscherbe"
+ReportName8:"Psi-Booster"
+ReportName9:"Schwarm-Organ"
 ReportName10:"Rumbler-Organ"
 ReportName11:"WormMind-Implantat"
 ReportName13:"Anneliden-Arachniden-Organ"
@@ -14,14 +21,37 @@ ReportName21:"Anneliden-Werfer"
 ReportName22:"Affenhirn"
 ReportName23:"Annelidische Heildrüse"
 ReportName24:"Annelidisches Psi-Organ"
-ReportName3:"Midwife-Organ"
-ReportName4:"Larven-Organ"
-ReportName5:"Toxin-A"
-ReportName6:"WormBlood-Implantat"
-ReportName7:"Anneliden-Kristallscherbe"
-ReportName8:"Psi-Booster"
-ReportName9:"Schwarm-Organ"
+
+ResRepName1:"Hybrid-Organ"
+ResRepName3:"Midwife-Organ"
+ResRepName4:"Larven-Organ"
+ResRepName5:"Toxin-A"
+ResRepName6:"WormBlood-Implantat"
+ResRepName7:"Anneliden-Kristallscherbe"
+ResRepName8:"Psi-Booster"
+ResRepName9:"Schwarm-Organ"
+ResRepName10:"Rumbler-Organ"
+ResRepName11:"WormMind-Implantat"
+ResRepName13:"Anneliden-Arachniden-Organ"
+ResRepName14:"Psi-Reaver-Organ"
+ResRepName15:"WormBlend-Implantat"
+ResRepName16:"Viren-Waffe"
+ResRepName17:"Wurmhaut-Panzerung"
+ResRepName19:"Höherer-Psi-Reaver-Organ"
+ResRepName20:"WormHeart-Implantat"
+ResRepName21:"Anneliden-Werfer"
+ResRepName22:"Affenhirn"
+ResRepName23:"Annelidische Heildrüse"
+ResRepName24:"Annelidisches Psi-Organ"
+
 ResRepIcon1:"resicon"
+ResRepIcon3:"resicon"
+ResRepIcon4:"resicon"
+ResRepIcon5:"resicon"
+ResRepIcon6:"resicon"
+ResRepIcon7:"resicon"
+ResRepIcon8:"resicon"
+ResRepIcon9:"resicon"
 ResRepIcon10:"resicon"
 ResRepIcon11:"resicon"
 ResRepIcon12:"resicon"
@@ -30,22 +60,21 @@ ResRepIcon14:"resicon"
 ResRepIcon15:"resicon"
 ResRepIcon16:"resicon"
 ResRepIcon17:"resicon"
-ResRepIcon18:"resicon"
 ResRepIcon19:"resicon"
-ResRepIcon2:"resicon"
 ResRepIcon20:"resicon"
 ResRepIcon21:"resicon"
 ResRepIcon22:"resicon"
 ResRepIcon23:"resicon"
 ResRepIcon24:"resicon"
-ResRepIcon3:"resicon"
-ResRepIcon4:"resicon"
-ResRepIcon5:"resicon"
-ResRepIcon6:"resicon"
-ResRepIcon7:"resicon"
-ResRepIcon8:"resicon"
-ResRepIcon9:"resicon"
+
 ResRepPortrait1:"ogport"
+ResRepPortrait3:"midport"
+ResRepPortrait4:"gruport"
+ResRepPortrait5:"toxport"
+ResRepPortrait6:"bloodport"
+ResRepPortrait7:"crport"
+ResRepPortrait8:"btport"
+ResRepPortrait9:"swport"
 ResRepPortrait10:"rumport"
 ResRepPortrait11:"mindport"
 ResRepPortrait13:"arport"
@@ -59,115 +88,149 @@ ResRepPortrait21:"alport"
 ResRepPortrait22:"mport"
 ResRepPortrait23:"anpport"
 ResRepPortrait24:"anhport"
-ResRepPortrait3:"midport"
-ResRepPortrait4:"gruport"
-ResRepPortrait5:"toxport"
-ResRepPortrait6:"bloodport"
-ResRepPortrait7:"crport"
-ResRepPortrait8:"btport"
-ResRepPortrait9:"swport"
+
 ResRepText1:"Zusammenfassung: Sie haben gelernt, wie man die Hybriden am effektivsten bekämpft. Alle Schäden, die Sie Hybriden zufügen, werden um 25% gesteigert.
 
 Analyse: Die DNA-Struktur zeigt, dass dieser Organismus eine hybride Form aus dem menschlichen Wirtskörper und einem Parasiten darstellt. Obwohl der Parasit (der einem meterlangen Wurm ähnelt) so verwest ist, dass er nicht mehr analysiert werden kann, sind die Auswirkungen dieses Prozesses offensichtlich. Durch Geschwüre am Rückgrat und dem Hirnstamm werden die höheren Hirnfunktionen schwer beeinträchtigt. Das nichtmenschliche Gewebe scheint aus einem Gemisch kleiner wurmartiger Wesen zu bestehen, die sich an den Wirtskörper angepasst und einen Großteil der motorischen Kontrolle und der Entscheidungsfunktionen übernommen haben. Zudem scheint es zu einer direkten Stimulation des vegetativen Nerven- und des Drüsensystems zu kommen. Dieser Organismus erzeugt hohe Mengen an Adrenalin und Endorphin und erweist sich als sehr stark und aggressiv. Das so entstandene Wesen kann nicht mehr als Mensch bezeichnet werden. Der Schaden, der dem Wirtskörper zugefügt wird, ist irreparabel, und der Organismus zeigt nun keinerlei Sinn für Moral oder irgendein Zögern.
 
 Empfehlung: Der Organismus ist durch die gleichen Faktoren verletzbar wie ein Mensch. Allerdings deuten die physiologischen Änderungen auf chemische Prozesse hin, die noch unverstanden ist. Weitere Analyse ähnlicher Organismen könnte hier eine bessere Einsicht bieten."
-ResRepText10:"Zusammenfassung: Sie haben gelernt, wie man die Rumbler am effektivsten bekämpft. Alle Schäden, die Sie Rumblern zufügen, werden um 25% gesteigert. Ihr Anneliden-Gewebe ist vor allem gegen Brandwaffen empfindlich.
 
-Analyse: Dieser Organismus stellt eine Weiterentwicklung der Anneliden-Hybriden der ersten Stufe dar. Jenseits der DNA-Ebene sind nur noch wenige menschliche Merkmale festzustellen. Die Dichte des Muskelgewebes ist um das Zwanzigfache gesteigert, und die Adrenalinproduktion entsprechend angehoben. Das Hirngewebe ist extrem dicht, was normalerweise auf eine hohe Intelligenz hinweisen würde, aber der Hirnstamm ist zu einem nutzlosen Stummel zurückgebildet, und es gibt kein Gegenstück zum menschlichen Rückgrat. Alle Muskelaktivitäten werden örtlich durch speziell dafür entwickelte fremde Zellen kontrolliert. Es scheint, dass dieses Wesen eine Evolutionsstufe zwischen dem früheren Mensch-Anneliden-Hybriden und einer dritten, noch unbekannten Form darstellt.
 
-Empfehlung: Dieses Wesen ist extrem gefährlich und stellt im Grunde einen muskelbepackten Wirtskörper für ein hochentwickeltes, aber nicht mit diesem verbundenes Hirn dar. Die ungewöhnliche chemische Struktur des Hirngewebes dieses Hybridwesens weist auf eine latente psionische Fähigkeit hin."
-ResRepText11:"Zusammenfassung: Wenn der Anwender dieses Implantats verletzt wird, wird jeweils einer von vier Schadenspunkten von den Psi-Punkten statt den Treffer-Punkten abgezogen.
-
-Analyse: Dieses Implantat verändert die neuralen Prozesse des Anwenders, indem es die für Psionik relevanten Bereiche stimuliert und verstärkt. Darüber hinaus wird dem Großhirn des Anwenders ständig eine gewisse Menge annelidischer Neurotransmitter- Chemikalien zugeführt. Dies führt dazu, dass die latenten psychokreativen Fähigkeiten des Anwenders, vor allem im Bereich der Körperbeherrschung, verstärkt werden.
-
-Empfehlung: der Anwender dieses Implantats kann auf psychokreative Weise einen Teil der erlittenen Verletzungen heilen. Langfristige Anwendung kann aber zu einer Hyper-Immunreaktion führen."
-ResRepText13:"Zusammenfassung: Sie haben gelernt, wie man die Anneliden-Arachniden am effektivsten bekämpft. Alle Schäden, die Sie Anneliden-Arachniden zufügen, werden um 25% gesteigert. Anneliden-Arachniden, wie alle reinen Anneliden, sind gegen Energiewaffen resistent.
-
-Analyse: Die internen Systeme dieses Wesens sind verteilt und in mehrfacher Ausfertigung vorhanden, was auf Planung oder auf eine Evolution in einer sehr gefährlichen Umgebung hinweist. Sein Äquivalent eines Nervensystems verbraucht viel mehr Energie als bei einem Menschen, weshalb das Gewebe des Wesens stärkere Energietoleranz besitzt. Der Metabolismus des Wesens ermöglicht kurzfristig hyperkinetische Aktivität, während es sich normalerweise in einem Schlafzustand befindet und dadurch wahrscheinlich lange ohne Nahrungs- aufnahme überleben kann.   
-
-Empfehlung: Vom Einsatz von Energiewaffen gegen dieses Wesen ist abzuraten."
-ResRepText14:"Zusammenfassung: Sie haben gelernt, wie man die Psi-Reaver und ihre Projektionen am effektivsten bekämpft. Alle Schäden, die Sie den Psi-Reavern und ihren Projektionen zufügen, werden um 25% gesteigert. Die Projektionen werden sich aber dauernd regenerieren, es sei denn, Sie vernichten die Hirnstruktur, die sie erzeugt.
-
-Analyse: Dies ist eine dauernd mit Energie aufgeladene Probe eines psycho-kreativen Residuums. Sie ist das Endprodukt einer extrem komplexen und konzentrierten psionischen Projektion. Dieses Residuum kann zeitweilig gestört, aber nicht permanent vernichtet werden, da die psionische Projektion durch den verursachenden Organismus einfach erneut erschaffen werden kann.
-
-Empfehlung: Obwohl die Projektion durch viele konventionelle Mittel unterbrochen werden kann, stellt dies nur eine kurzfristige Lösung dar. Insgesamt gesehen sollte man keine Ressourcen auf die Bekämpfung dieses Phänomens verschwenden, es sei denn, es ist überlebensnotwendig. Wenn sie zerstört werden muss, sollten Sie zuerst die kontrollierende Hirnstruktur finden und diese zerstören."
-ResRepText15:"Zusammenfassung: Dieses Implantat reduziert die Entfernung, aus der Anneliden-Wesen den Anwender des Implantats psionisch entdecken können.
-
-Analyse: Dieses Implantat enthält ein Stück Anneliden-Gewebe, das mittels elektrochemischer Verbindungen mit den Neuralimpulsen des Anwenders gekoppelt wird. Das Gewebestück ist nicht groß genug, um dem Anwender einen psionischen Kontakt mit Anneliden zu ermöglichen, aber es koordiniert die Hirnwellen des Anwenders, so dass sie bei einer oberflächlichen psionischen Untersuchung denen eines Anneliden-Organismus ähneln. 
-
-Empfehlung: Dies erschwert es wahrscheinlich Annelidenwesen, den Anwender aus größerer Entfernung zu entdecken. Allerdings kann er sich nicht als Annelidenwesen ausgeben, sobald Sichtkontakt hergestellt ist."
-ResRepText16:"Zusammenfassung: Die Viren-Waffe erfordert eine Fähigkeit für exotische Waffen von 4. Die erste Modifikation dieser Waffe steigert die Magazingröße, während die zweite den Munitionsverbrauch senkt. Beide Modifikationen erhöhen auch die Schadenswirkung der Waffe. Diese Waffe setzt in ihrem Explosionsradius Anti-Anneliden-Viren frei. Der Virus kann auf reine Anneliden oder hybride Wesen abgestimmt werden. Ziehen Sie den Abzug eine Weile durch, um die Viren-Nutzlast aufzubauen und lassen Sie ihn dann los. Passen Sie auf, dass die Waffe nicht zu nahe an Ihnen detoniert, wenn sie gegen Menschen eingestellt ist!
-
-Analyse: Diese Waffe ist anscheinend aus menschlicher und außerirdischer Technologie zusammengeschustert. Der Griff und der Abzug scheinen von Menschen gebaut worden zu sein. Das sechseckige Mittelstück ist ein energiereiches Medium, das von Behältern mit Naniten-Virus-Hybriden umgeben ist. Wenn die Virushybriden in das Mittelstück eingespritzt werden, kommt es zu einer Vermehrung mit Naniten- statt biologischer Geschwindigkeit, bis die Ladung abgefeuert wird. Zusätzliche Energiemodule verstreuen die Viren im gesamten Kampfradius. Das Medium muss neu mit Anneliden-Gewebe bestückt werden, diese Würmer müssen mit Reagenzgläsern aufgesammelt werden. Die Viren-Waffe kann Hybridviren gegen reine Anneliden, oder spezielle Viren gegen menschliche oder teilweise menschliche Ziele freisetzen. 
-
-Empfehlung: Im Nahkampf gegen Anneliden hat sich diese Waffe als äußerst wirksam erwiesen. Sie kann möglicherweise sogar Anneliden verletzen, die gegen andere Waffen immun sind. Allerdings werden Sie sich wahrscheinlich selbst verletzen, wenn Sie sie gegen menschliche Gegner einsetzen."
-ResRepText17:"Zusammenfassung: Dieser Panzer schützt sowohl im Kampf als auch vor Umwelteinflüssen und steigert den Psi-Wert des Anwenders um 2. Allerdings verbraucht er dabei langsam die Psi-Punkte des Anwenders.
-
-Analyse: Diese Wurmhaut wurde zu einem primitiven Kleidungsstück gemacht, das Menschen tragen können. Die Haut ist wesentlich zäher, als ihre biochemische Struktur dies vermuten ließe, und weitere Forschungen deuten darauf hin, dass sie einen subtilen Repulsor-Effekt erzeugt, der psionischen Ursprungs zu sein scheint. Die Tatsache, dass dieser Effekt auftritt, sowie die langsam weiter ablaufenden metabolischen Prozesse in der Haut, zeigen an, dass die Haut in gewissem Sinne noch lebendig ist
-
-Empfehlung: Wenn Sie die Wurmhaut als Panzerung tragen, erhalten Sie etwas Schutz vor Angriffen und Umweltgefahren und steigern Ihre Psi-Werte. Allerdings muss der Anwender auch dauernd Psi-Energie aufwenden, um nicht von der Haut angegriffen und verzehrt zu werden."
-ResRepText19:"Zusammenfassung: Sie haben gelernt, wie man die Höheren Psi-Reaver und ihre Projektionen am Effektivsten bekämpft. Alle Schäden, die Sie den Höheren Psi-Reavern und ihren Projektionen zufügen, werden um 25% gesteigert. Die Projektionen werden sich aber dauernd regenerieren, es sei denn, Sie vernichten die Hirnstruktur, die sie erzeugt.
-
-Analyse: Dies ist eine dauernd mit Energie aufgeladene Probe eines psycho-kreativen Residuums. Sie ist das Endprodukt einer extrem komplexen und konzentrierten psionischen Projektion. Dieses Residuum kann zeitweilig gestört, aber nicht permanent vernichtet werden, da die psionische Projektion durch den verursachenden Organismus einfach erneut erschaffen werden kann.
-
-Empfehlung: Obwohl die Projektion durch viele konventionelle Mittel unterbrochen werden kann, stellt dies nur eine kurzfristige Lösung dar. Insgesamt gesehen sollte man keine Ressourcen auf die Bekämpfung dieses Phänomens verschwenden, es sei denn, es ist überlebensnotwendig. Wenn sie zerstört werden muss, sollten Sie zuerst die kontrollierende Hirnstruktur finden und diese zerstören."
-ResRepText20:"Zusammenfassung: Wenn dieses Implantat aktiviert wird, ist der Benutzer gegen annelidische Toxine immun und regeneriert einen Trefferpunkt alle 30 Sekunden. Wenn das Implantat deaktiviert oder entfernt wird, wird allerdings eine Menge an Giftstoffen in den Blutstrom des Benutzers abgegeben. Halten Sie Ihre Anti-Toxin-Hypos bereit!
-
-Analyse: Dieses Implantat stellt eine Kombination aus einem Blutfilter und einem regenerativen Stimu- lationsgerät dar, wobei auch Anneliden- Gewebe verwendet wird. Solange das Implantat eingesetzt wird, filtert es alles Anneliden-Gift aus, das auf den Anwender einwirkt und macht es dadurch unschädlich. Weiterhin wird verletztes Gewebe schnell durch einen psycho- kreativen annelidischen Austausch- stoff ersetzt. Allerdings erzeugt dieser Austauschstoff Verfallsprodukte, die selbst toxisch sind (und vom Implantat ausgefiltert werden). Wenn das Implantat deaktiviert wird, strömt ein Großteil der ausgefilterten Giftstoffe ins Blut.
-
-Empfehlung: Dieses Gerät sollte nur kurzzeitig verwendet werden, da beim Entfernen des Implantats sonst Vergiftungsgefahr besteht. Allerdings können seine regenerativen und giftfilternden Fähigkeiten in einer Gefahrensituation von unschätzbarem Wert sein."
-ResRepText21:"Zusammenfassung: Der Anneliden-Werfer erfordert eine Stärke von 3, eine Wendigkeit von 3 und eine Fähigkeit für exotische Waffen von 6. Die erste Modifikation dieser Waffe steigert die Magazingröße, während die zweite die Projektilgeschwindigkeit verdoppelt. Darüber hinaus erhöhen beide Modifikationen die Schadenswirkung der Waffe. Dieses Gerät feuert Bündel von Anneliden-Würmern, die in Reagenzgläsern gesammelt wurden. Die Waffe kann eingestellt werden, reine Annelidenwesen oder menschlich/hybride Wesen zu schädigen.
-
-Analyse: Dies ist ein exotisches Gerät, das aus semi-intelligentem organischem Material besteht. Es wurde so stark modifiziert, dass es unmöglich ist, seine ursprüngliche Funktion festzustellen. In seiner derzeitigen Konfiguration ist dieses Objekt eine Waffe, die annelidische Würmer verfeuert. Diese Würmer müssen in Standard-Reagenzgläsern gesammelt und in ein Fach an der Seite der Waffe eingeführt werden. Ein integrierter chemischer Einspritzmechanismus kann die chemische Struktur der Würmer ändern, so dass sie zu einer tödlichen Waffe gegen menschliche (oder teilweise menschliche) Gegner oder reine Anneliden werden.
-
-Empfehlung: Wenn der Einsatz dieser Waffe nötig ist, sollten Sie bei jeder Gelegenheit Reagenzgläser sammeln und sie so oft wie möglich mit Anneliden-Würmern füllen."
-ResRepText22:"Zusammenfassung: Sie haben gelernt, wie man die Affen am effektivsten bekämpft. Alle Schäden, die Sie Affen zufügen, werden um 25% gesteigert.  
-
-Analyse: Der Affe ist genetisch normal, ein afrikanischer Totenkopf- affe. Allerdings scheint er sowohl vor als auch nach der Geburt einer Reihe chemischer und chirurgi- scher Manipulationen unterworfen worden zu sein. Dies führte zu einer Vergrößerung des Gehirns und einer Vermehrung der Neuronen und der Myelinscheiden im Hirn. Die Schädelkappe dieses Tiers wurde chirurgisch entfernt, wahrscheinlich um den Schädeldruck zu verringern und schnelleren Zugriff bei Experimenten zu ermöglichen.   
-
-Empfehlung: Der neurale Aufbau dieses Tiers ähnelt der menschlichen psionischen Struktur - wahrscheinlich besitzen diese Affen also Psi-Fähigkeiten. Sie sind aber, wie alle anderen organischen Wesen, durchaus verwundbar."
-ResRepText23:"Zusammenfassung: Dieses Gewebe kann körperliche Schäden heilen.  
-
-Analyse: Diese Drüse sondert eine reichhaltige Mischung aus Hormonen und anregenden Enzymen ab, und eine sich schnell teilende Zellschicht erzeugt mobile Zellen, die mehrere Funktionen erfüllen. Diese Zellen finden Gewebeschäden und verschmelzen mit dem Gewebe, wobei sie innerhalb weniger Momente nicht mehr vom Wirtskörper unterscheidbar sind.  
-
-Empfehlung: Die Kompatibilitätsfaktoren zwischen menschlichem und annelidischem Gewebe ermöglichen es, diese Drüse zu Heilzwecken einzusetzen, auch wenn sie nicht so wirksam ist, wie dies bei einem annelidischen Wirtskörper der Fall wäre. Nach der Entfernung aus dem Wirtskörper ist sie nur einmal verwendbar."
-ResRepText24:"Zusammenfassung: Dieses Gewebe kann verlorene Psi-Punkte wiederherstellen. 
-
-Analyse: Diese Drüse produziert eine wirkungsvolle Mischung aus psychoaktiven und adrenalen Hormonen, die das Neuralgewebe verjüngen und aktivieren. Neben den normalen (und manchen ungewöhnlichen) biologischen Stoffen scheint diese Drüse auch kleine Mengen semi-physischer psychokreativer Energie abzusondern.  
-
-Empfehlung: Obwohl diese Drüse zur Wiederherstellung des psionischen Potentials verwendet werden kann, sind die Gefahren bei der Verwendung außerirdischer psychokreativer Energien so groß, dass dies nur im äußersten Notfall geschehen sollte."
 ResRepText3:"Zusammenfassung: Sie haben gelernt, wie man das Cyborg-Midwife-Wesen am effektivsten bekämpft. Alle Schäden, die Sie Cyborg-Midwifes zufügen, werden um 25% gesteigert. Diese widerstehen Brand- und Splittergeschossen, sind aber durch panzerbrechende Munition verwundbar.
 
 Analyse: Die DNA-Sequenz bestätigt, dass das Subjekt ursprünglich eine Frau war, die kybernetisch modifiziert worden ist. Ein zusätzlicher Prozessor im Rückgrat dient als Kontrollgerät und blockiert die meisten Signale, die vom Hirn des Subjekts ausgesandt werden. Sowohl die Geschwindigkeit als auch die Muskulatur wurden mechanisch verbessert, und die kybernetischen Elemente dienen als Schutzschirm für das weichere menschliche Gewebe.
 
 Empfehlung: Aufgrund der halbmechanischen Natur dieses Wesens erweisen sich Brand- und Splitterwaffen als relativ unwirksam, aber panzerbrechende Munition dürfte durchaus effektiv sein."
+
+
 ResRepText4:"Zusammenfassung: Sie haben zwar die Schwachstellen dieser Wesen kennengelernt, aber sie sind so einfach zu töten, dass das fast bedeutungslos ist. Wie alle Anneliden besitzen sie etwas Widerstandskraft gegen Energiewaffen. Anneliden-Eier enthalten oft nützliche Organe, doch müssen Sie sie vor der Zerstörung durchsuchen.
 
 Analyse: Die genetisch weiblichen Anneliden-Larven stellen die primitivste Form der Anneliden dar. Dieses Wesen besteht im Grunde nur aus Nervensystem und Muskulatur. Das (für einen Wurm) hochentwickelte Nervensystem scheint mit einem rudimentären psionischen Sinnesorgan verbunden zu sein. Obwohl sie einem Wurm ähnelt, besitzt die Larve keinerlei Verdauungssystem und wird stattdessen bei der Geburt mit einer Energie- reserve ausgestattet. Wenn diese verbraucht ist, geht das Wesen in einen Schlafzustand über, möglicherweise bis ein weiterer psionischer Auslöser empfangen wird. Die Eier, aus denen diese Wesen schlüpfen, enthalten oft Organe, die nützlich sind, doch darf das Ei nicht durch Kampfeinwirkung zerstört worden sein.
 
 Empfehlung: Die Larven sind nicht sehr stark, können aber gefährlich werden, wenn sie sich ungesehen nähern. In größerer Zahl könnten sie eine ernstere Bedrohung darstellen."
+
+
 ResRepText5:"Zusammenfassung: Wenn Sie dieses Toxin in eine Klimaanlage einlassen, wird es örtlich das annelidische Wachstum reduzieren.
 
 Analyse: Dies ist ein hochgiftiges experimentelles Toxin, das dazu entwickelt wurde, Anneliden-Gewebe zu zerstören und aufzulösen. Der Kanister steht unter hohem Druck, da das flüssige Toxin unter Normalbedingungen schnell verdunsten würde.
 
 Empfehlung: Um einen möglichst großen Bereich abzudecken, sollte dieses Toxin sofort nach dem Öffnen in eine Klimaanlage eingeführt werden."
+
+
 ResRepText6:"Zusammenfassung: Wenn dieses Implantat aktiviert ist, können Sie auf einen Wurmhaufen rechtsklicken, um sich zu heilen.
 
-Analyse: Dieses Implantat ist eine leistungsfähige Einheit zum Filtern und Modifizieren des Bluts, die es ermöglicht, dass im Blutstrom transportiertes Anneliden-Gewebe den menschlichen Wirtskörper nicht schädigt. Aufgrund der Tatsache, dass Anneliden-Gewebe sehr regenerationsfähig ist, kann es in Kombination mit diesem Implantat als Ersatz für beschädigtes menschliches Gewebe verwendet werden. Eine Einführungsöffnung im Implantat dient dazu, eben solches Anneliden-Gewebe in den Körper einzuschleusen.  
+Analyse: Dieses Implantat ist eine leistungsfähige Einheit zum Filtern und Modifizieren des Bluts, die es ermöglicht, dass im Blutstrom transportiertes Anneliden-Gewebe den menschlichen Wirtskörper nicht schädigt. Aufgrund der Tatsache, dass Anneliden-Gewebe sehr regenerationsfähig ist, kann es in Kombination mit diesem Implantat als Ersatz für beschädigtes menschliches Gewebe verwendet werden. Eine Einführungsöffnung im Implantat dient dazu, eben solches Anneliden-Gewebe in den Körper einzuschleusen.
 
 Empfehlung: Wenn dieses Implantat aktiv ist, kann Anneliden-Gewebe, wie man es etwa in Wurmhaufen findet, einen Regenerationseffekt haben. Wenn das Implantat deaktiviert ist, ist allerdings von der Verwendung von Anneliden-Gewebe zu diesem Zweck stark abzuraten."
+
+
 ResRepText7:"Zusammenfassung: Eine sehr gefährliche Nahkampfwaffe. Sie erfordert eine Fähigkeit für exotische Waffen von 1.
 
 Analyse: Diese Anneliden-Kristallscherbe besteht vor allem aus Silizium, mit kleinen Mengen von Germanium und anderen unbekannten Spuren- elementen. Anscheinend besitzt sie eine Resonanzfrequenz, die mit der der menschlichen Neuronenübertragung fast übereinstimmt. Der Kristall dient wahrscheinlich als Verstärker für die psionischen Fähigkeiten der Anneliden-Wesen. Die Kristallstruktur besteht aus Tausenden von eng aneinanderliegenden Kristallnadeln, die einen dicht verzweigenden, fast fraktalen Baum bilden.
 
 Empfehlung: Die erstaunliche Schärfe des Kristalls macht ihn zu einer sehr gefährlichen Nahkampfwaffe."
+
+
 ResRepText8:"Zusammenfassung: Dieses Hypospray steigert fünf Minuten lang den Psi-Wert des Anwenders um 1.
 
-Analyse: Dieser Wirkstoff enthält eine komplexe Mischung psychoaktiver Chemikalien, von denen manche sehr konzentriert sind, sowie gereinigtes Anneliden-Gewebe. Viele der Chemikalien haben eine Enzymverbindung mit Fragmenten des Anneliden-Gewebes gebildet, teilweise erst seit der Fertigstellung des Hypos, als ob das Anneliden- Gewebe immer noch biologisch aktiv sei.  
+Analyse: Dieser Wirkstoff enthält eine komplexe Mischung psychoaktiver Chemikalien, von denen manche sehr konzentriert sind, sowie gereinigtes Anneliden-Gewebe. Viele der Chemikalien haben eine Enzymverbindung mit Fragmenten des Anneliden-Gewebes gebildet, teilweise erst seit der Fertigstellung des Hypos, als ob das Anneliden- Gewebe immer noch biologisch aktiv sei.
 
 Empfehlung: Dieses experimentelle Hypospray steigert Ihren Psi-Wert einige Minuten lang - wenn es Ihnen nicht davor graut, sich Anneliden-Gewebe einzuspritzen. Bei langfristiger Anwendung können als Nebenwirkung Halluzinationen auftreten."
+
+
 ResRepText9:"Zusammenfassung: Anneliden-Schwärme können durch keine uns bekannten Mittel beschädigt werden, haben aber nur eine kurze Lebenszeit. Anneliden-Eier enthalten oft nützliche Organe, doch müssen Sie sie vor der Zerstörung durchsuchen.
 
 Analyse: Obwohl dieser fliegende Organismus klein ist, enthält er eine komplexe DNA-Struktur, die auf ein viel höher entwickeltes Wesen hinweist. Jedes dieser kleinen, genetisch männlichen Wesen ist mit dem Schwarm durch eine sub-psionische Verbindung vereint, die gegen normale psionische Angriffe und Störungen immun ist. Die annelidischen Schwarm- wesen scheinen lediglich als lebende Waffen zu dienen, da ihre Zellen nur über eine genetisch programmierte Lebensdauer von einigen Sekunden verfügen. Während dieses Zeitraums werden sie von menschlichem Gewebe angezogen, da sie verzweifelt versuchen, ihr kurzes Leben durch Nahrungsaufnahme zu verlängern. Die Eier, aus denen diese Wesen schlüpfen, enthalten oft Organe, die nützlich sind, doch darf das Ei nicht durch Kampfeinwirkung zerstört worden sein.
 
 Empfehlung: Man sollte den Anneliden-Schwarm am besten meiden, da die Wesen bald nach dem Ausschlüpfen sterben werden. Verschwenden Sie keine Munition."
+
+
+ResRepText10:"Zusammenfassung: Sie haben gelernt, wie man die Rumbler am effektivsten bekämpft. Alle Schäden, die Sie Rumblern zufügen, werden um 25% gesteigert. Ihr Anneliden-Gewebe ist vor allem gegen Brandwaffen empfindlich.
+
+Analyse: Dieser Organismus stellt eine Weiterentwicklung der Anneliden-Hybriden der ersten Stufe dar. Jenseits der DNA-Ebene sind nur noch wenige menschliche Merkmale festzustellen. Die Dichte des Muskelgewebes ist um das Zwanzigfache gesteigert, und die Adrenalinproduktion entsprechend angehoben. Das Hirngewebe ist extrem dicht, was normalerweise auf eine hohe Intelligenz hinweisen würde, aber der Hirnstamm ist zu einem nutzlosen Stummel zurückgebildet, und es gibt kein Gegenstück zum menschlichen Rückgrat. Alle Muskelaktivitäten werden örtlich durch speziell dafür entwickelte fremde Zellen kontrolliert. Es scheint, dass dieses Wesen eine Evolutionsstufe zwischen dem früheren Mensch-Anneliden-Hybriden und einer dritten, noch unbekannten Form darstellt.
+
+Empfehlung: Dieses Wesen ist extrem gefährlich und stellt im Grunde einen muskelbepackten Wirtskörper für ein hochentwickeltes, aber nicht mit diesem verbundenes Hirn dar. Die ungewöhnliche chemische Struktur des Hirngewebes dieses Hybridwesens weist auf eine latente psionische Fähigkeit hin."
+
+
+ResRepText11:"Zusammenfassung: Wenn der Anwender dieses Implantats verletzt wird, wird jeweils einer von vier Schadenspunkten von den Psi-Punkten statt den Treffer-Punkten abgezogen.
+
+Analyse: Dieses Implantat verändert die neuralen Prozesse des Anwenders, indem es die für Psionik relevanten Bereiche stimuliert und verstärkt. Darüber hinaus wird dem Großhirn des Anwenders ständig eine gewisse Menge annelidischer Neurotransmitter- Chemikalien zugeführt. Dies führt dazu, dass die latenten psychokreativen Fähigkeiten des Anwenders, vor allem im Bereich der Körperbeherrschung, verstärkt werden.
+
+Empfehlung: der Anwender dieses Implantats kann auf psychokreative Weise einen Teil der erlittenen Verletzungen heilen. Langfristige Anwendung kann aber zu einer Hyper-Immunreaktion führen."
+
+
+ResRepText13:"Zusammenfassung: Sie haben gelernt, wie man die Anneliden-Arachniden am effektivsten bekämpft. Alle Schäden, die Sie Anneliden-Arachniden zufügen, werden um 25% gesteigert. Anneliden-Arachniden, wie alle reinen Anneliden, sind gegen Energiewaffen resistent.
+
+Analyse: Die internen Systeme dieses Wesens sind verteilt und in mehrfacher Ausfertigung vorhanden, was auf Planung oder auf eine Evolution in einer sehr gefährlichen Umgebung hinweist. Sein Äquivalent eines Nervensystems verbraucht viel mehr Energie als bei einem Menschen, weshalb das Gewebe des Wesens stärkere Energietoleranz besitzt. Der Metabolismus des Wesens ermöglicht kurzfristig hyperkinetische Aktivität, während es sich normalerweise in einem Schlafzustand befindet und dadurch wahrscheinlich lange ohne Nahrungs- aufnahme überleben kann.
+
+Empfehlung: Vom Einsatz von Energiewaffen gegen dieses Wesen ist abzuraten."
+
+
+ResRepText14:"Zusammenfassung: Sie haben gelernt, wie man die Psi-Reaver und ihre Projektionen am effektivsten bekämpft. Alle Schäden, die Sie den Psi-Reavern und ihren Projektionen zufügen, werden um 25% gesteigert. Die Projektionen werden sich aber dauernd regenerieren, es sei denn, Sie vernichten die Hirnstruktur, die sie erzeugt.
+
+Analyse: Dies ist eine dauernd mit Energie aufgeladene Probe eines psycho-kreativen Residuums. Sie ist das Endprodukt einer extrem komplexen und konzentrierten psionischen Projektion. Dieses Residuum kann zeitweilig gestört, aber nicht permanent vernichtet werden, da die psionische Projektion durch den verursachenden Organismus einfach erneut erschaffen werden kann.
+
+Empfehlung: Obwohl die Projektion durch viele konventionelle Mittel unterbrochen werden kann, stellt dies nur eine kurzfristige Lösung dar. Insgesamt gesehen sollte man keine Ressourcen auf die Bekämpfung dieses Phänomens verschwenden, es sei denn, es ist überlebensnotwendig. Wenn sie zerstört werden muss, sollten Sie zuerst die kontrollierende Hirnstruktur finden und diese zerstören."
+
+
+ResRepText15:"Zusammenfassung: Dieses Implantat reduziert die Entfernung, aus der Anneliden-Wesen den Anwender des Implantats psionisch entdecken können.
+
+Analyse: Dieses Implantat enthält ein Stück Anneliden-Gewebe, das mittels elektrochemischer Verbindungen mit den Neuralimpulsen des Anwenders gekoppelt wird. Das Gewebestück ist nicht groß genug, um dem Anwender einen psionischen Kontakt mit Anneliden zu ermöglichen, aber es koordiniert die Hirnwellen des Anwenders, so dass sie bei einer oberflächlichen psionischen Untersuchung denen eines Anneliden-Organismus ähneln.
+
+Empfehlung: Dies erschwert es wahrscheinlich Annelidenwesen, den Anwender aus größerer Entfernung zu entdecken. Allerdings kann er sich nicht als Annelidenwesen ausgeben, sobald Sichtkontakt hergestellt ist."
+
+
+ResRepText16:"Zusammenfassung: Die Viren-Waffe erfordert eine Fähigkeit für exotische Waffen von 4. Die erste Modifikation dieser Waffe steigert die Magazingröße, während die zweite den Munitionsverbrauch senkt. Beide Modifikationen erhöhen auch die Schadenswirkung der Waffe. Diese Waffe setzt in ihrem Explosionsradius Anti-Anneliden-Viren frei. Der Virus kann auf reine Anneliden oder hybride Wesen abgestimmt werden. Ziehen Sie den Abzug eine Weile durch, um die Viren-Nutzlast aufzubauen und lassen Sie ihn dann los. Passen Sie auf, dass die Waffe nicht zu nahe an Ihnen detoniert, wenn sie gegen Menschen eingestellt ist!
+
+Analyse: Diese Waffe ist anscheinend aus menschlicher und außerirdischer Technologie zusammengeschustert. Der Griff und der Abzug scheinen von Menschen gebaut worden zu sein. Das sechseckige Mittelstück ist ein energiereiches Medium, das von Behältern mit Naniten-Virus-Hybriden umgeben ist. Wenn die Virushybriden in das Mittelstück eingespritzt werden, kommt es zu einer Vermehrung mit Naniten- statt biologischer Geschwindigkeit, bis die Ladung abgefeuert wird. Zusätzliche Energiemodule verstreuen die Viren im gesamten Kampfradius. Das Medium muss neu mit Anneliden-Gewebe bestückt werden, diese Würmer müssen mit Reagenzgläsern aufgesammelt werden. Die Viren-Waffe kann Hybridviren gegen reine Anneliden, oder spezielle Viren gegen menschliche oder teilweise menschliche Ziele freisetzen.
+
+Empfehlung: Im Nahkampf gegen Anneliden hat sich diese Waffe als äußerst wirksam erwiesen. Sie kann möglicherweise sogar Anneliden verletzen, die gegen andere Waffen immun sind. Allerdings werden Sie sich wahrscheinlich selbst verletzen, wenn Sie sie gegen menschliche Gegner einsetzen."
+
+
+ResRepText17:"Zusammenfassung: Dieser Panzer schützt sowohl im Kampf als auch vor Umwelteinflüssen und steigert den Psi-Wert des Anwenders um 2. Allerdings verbraucht er dabei langsam die Psi-Punkte des Anwenders.
+
+Analyse: Diese Wurmhaut wurde zu einem primitiven Kleidungsstück gemacht, das Menschen tragen können. Die Haut ist wesentlich zäher, als ihre biochemische Struktur dies vermuten ließe, und weitere Forschungen deuten darauf hin, dass sie einen subtilen Repulsor-Effekt erzeugt, der psionischen Ursprungs zu sein scheint. Die Tatsache, dass dieser Effekt auftritt, sowie die langsam weiter ablaufenden metabolischen Prozesse in der Haut, zeigen an, dass die Haut in gewissem Sinne noch lebendig ist
+
+Empfehlung: Wenn Sie die Wurmhaut als Panzerung tragen, erhalten Sie etwas Schutz vor Angriffen und Umweltgefahren und steigern Ihre Psi-Werte. Allerdings muss der Anwender auch dauernd Psi-Energie aufwenden, um nicht von der Haut angegriffen und verzehrt zu werden."
+
+
+ResRepText19:"Zusammenfassung: Sie haben gelernt, wie man die Höheren Psi-Reaver und ihre Projektionen am Effektivsten bekämpft. Alle Schäden, die Sie den Höheren Psi-Reavern und ihren Projektionen zufügen, werden um 25% gesteigert. Die Projektionen werden sich aber dauernd regenerieren, es sei denn, Sie vernichten die Hirnstruktur, die sie erzeugt.
+
+Analyse: Dies ist eine dauernd mit Energie aufgeladene Probe eines psycho-kreativen Residuums. Sie ist das Endprodukt einer extrem komplexen und konzentrierten psionischen Projektion. Dieses Residuum kann zeitweilig gestört, aber nicht permanent vernichtet werden, da die psionische Projektion durch den verursachenden Organismus einfach erneut erschaffen werden kann.
+
+Empfehlung: Obwohl die Projektion durch viele konventionelle Mittel unterbrochen werden kann, stellt dies nur eine kurzfristige Lösung dar. Insgesamt gesehen sollte man keine Ressourcen auf die Bekämpfung dieses Phänomens verschwenden, es sei denn, es ist überlebensnotwendig. Wenn sie zerstört werden muss, sollten Sie zuerst die kontrollierende Hirnstruktur finden und diese zerstören."
+
+
+ResRepText20:"Zusammenfassung: Wenn dieses Implantat aktiviert wird, ist der Benutzer gegen annelidische Toxine immun und regeneriert einen Trefferpunkt alle 30 Sekunden. Wenn das Implantat deaktiviert oder entfernt wird, wird allerdings eine Menge an Giftstoffen in den Blutstrom des Benutzers abgegeben. Halten Sie Ihre Anti-Toxin-Hypos bereit!
+
+Analyse: Dieses Implantat stellt eine Kombination aus einem Blutfilter und einem regenerativen Stimu- lationsgerät dar, wobei auch Anneliden- Gewebe verwendet wird. Solange das Implantat eingesetzt wird, filtert es alles Anneliden-Gift aus, das auf den Anwender einwirkt und macht es dadurch unschädlich. Weiterhin wird verletztes Gewebe schnell durch einen psycho- kreativen annelidischen Austausch- stoff ersetzt. Allerdings erzeugt dieser Austauschstoff Verfallsprodukte, die selbst toxisch sind (und vom Implantat ausgefiltert werden). Wenn das Implantat deaktiviert wird, strömt ein Großteil der ausgefilterten Giftstoffe ins Blut.
+
+Empfehlung: Dieses Gerät sollte nur kurzzeitig verwendet werden, da beim Entfernen des Implantats sonst Vergiftungsgefahr besteht. Allerdings können seine regenerativen und giftfilternden Fähigkeiten in einer Gefahrensituation von unschätzbarem Wert sein."
+
+
+ResRepText21:"Zusammenfassung: Der Anneliden-Werfer erfordert eine Stärke von 3 und eine Fähigkeit für exotische Waffen von 6. Die erste Modifikation dieser Waffe steigert die Magazingröße, während die zweite die Projektilgeschwindigkeit verdoppelt. Darüber hinaus erhöhen beide Modifikationen die Schadenswirkung der Waffe. Dieses Gerät feuert Bündel von Anneliden-Würmern, die in Reagenzgläsern gesammelt werden müssen. Die Waffe kann eingestellt werden, reine Annelidenwesen oder menschlich/hybride Wesen zu schädigen.
+
+Analyse: Dies ist ein exotisches Gerät, das aus semi-intelligentem organischem Material besteht. Es wurde so stark modifiziert, dass es unmöglich ist, seine ursprüngliche Funktion festzustellen. In seiner derzeitigen Konfiguration ist dieses Objekt eine Waffe, die zielsuchende annelidische Würmer verfeuert. Diese Würmer müssen in Standard-Reagenzgläsern gesammelt und in ein Fach an der Seite der Waffe eingeführt werden. Ein integrierter chemischer Einspritzmechanismus kann die chemische Struktur der Würmer ändern, so dass sie zu einer tödlichen Waffe gegen menschliche (oder teilweise menschliche) Gegner oder reine Anneliden werden.
+
+Empfehlung: Wenn der Einsatz dieser Waffe nötig ist, sollten Sie bei jeder Gelegenheit Reagenzgläser sammeln und sie so oft wie möglich mit Anneliden-Würmern füllen."
+
+
+ResRepText22:"Zusammenfassung: Sie haben gelernt, wie man die Affen am effektivsten bekämpft. Alle Schäden, die Sie Affen zufügen, werden um 25% gesteigert.
+
+Analyse: Der Affe ist genetisch normal, ein afrikanischer Totenkopf- affe. Allerdings scheint er sowohl vor als auch nach der Geburt einer Reihe chemischer und chirurgi- scher Manipulationen unterworfen worden zu sein. Dies führte zu einer Vergrößerung des Gehirns und einer Vermehrung der Neuronen und der Myelinscheiden im Hirn. Die Schädelkappe dieses Tiers wurde chirurgisch entfernt, wahrscheinlich um den Schädeldruck zu verringern und schnelleren Zugriff bei Experimenten zu ermöglichen.
+
+Empfehlung: Der neurale Aufbau dieses Tiers ähnelt der menschlichen psionischen Struktur - wahrscheinlich besitzen diese Affen also Psi-Fähigkeiten. Sie sind aber, wie alle anderen organischen Wesen, durchaus verwundbar."
+
+
+ResRepText23:"Zusammenfassung: Dieses Gewebe kann körperliche Schäden heilen.
+
+Analyse: Diese Drüse sondert eine reichhaltige Mischung aus Hormonen und anregenden Enzymen ab, und eine sich schnell teilende Zellschicht erzeugt mobile Zellen, die mehrere Funktionen erfüllen. Diese Zellen finden Gewebeschäden und verschmelzen mit dem Gewebe, wobei sie innerhalb weniger Momente nicht mehr vom Wirtskörper unterscheidbar sind.
+
+Empfehlung: Die Kompatibilitätsfaktoren zwischen menschlichem und annelidischem Gewebe ermöglichen es, diese Drüse zu Heilzwecken einzusetzen, auch wenn sie nicht so wirksam ist, wie dies bei einem annelidischen Wirtskörper der Fall wäre. Nach der Entfernung aus dem Wirtskörper ist sie nur einmal verwendbar."
+
+
+ResRepText24:"Zusammenfassung: Dieses Gewebe kann verlorene Psi-Punkte wiederherstellen.
+
+Analyse: Diese Drüse produziert eine wirkungsvolle Mischung aus psychoaktiven und adrenalen Hormonen, die das Neuralgewebe verjüngen und aktivieren. Neben den normalen (und manchen ungewöhnlichen) biologischen Stoffen scheint diese Drüse auch kleine Mengen semi-physischer psychokreativer Energie abzusondern.
+
+Empfehlung: Obwohl diese Drüse zur Wiederherstellung des psionischen Potentials verwendet werden kann, sind die Gefahren bei der Verwendung außerirdischer psychokreativer Energien so groß, dass dies nur im äußersten Notfall geschehen sollte."

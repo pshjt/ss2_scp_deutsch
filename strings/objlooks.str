@@ -1,200 +1,427 @@
-Annelid_Medpatch:"Zusammenfassung: Dieses Gewebe kann körperliche Schäden heilen.  
+Annelid_Medpatch:"Zusammenfassung: Dieses Gewebe kann körperliche Schäden heilen.
 
-Analyse: Diese Drüse sondert eine reichhaltige Mischung aus Hormonen und anregenden Enzymen ab, und eine sich schnell teilende Zellschicht erzeugt mobile Zellen, die mehrere Funktionen erfüllen. Diese Zellen finden Gewebeschäden und verschmelzen mit dem Gewebe, wobei sie innerhalb weniger Momente nicht mehr vom Wirtskörper unterscheidbar sind.  
+Analyse: Diese Drüse sondert eine reichhaltige Mischung aus Hormonen und anregenden Enzymen ab, und eine sich schnell teilende Zellschicht erzeugt mobile Zellen, die mehrere Funktionen erfüllen. Diese Zellen finden Gewebeschäden und verschmelzen mit dem Gewebe, wobei sie innerhalb weniger Momente nicht mehr vom Wirtskörper unterscheidbar sind.
 
 Empfehlung: Die Kompatibilitätsfaktoren zwischen menschlichem und annelidischem Gewebe ermöglichen es, diese Drüse zu Heilzwecken einzusetzen, auch wenn sie nicht so wirksam ist, wie dies bei einem annelidischen Wirtskörper der Fall wäre. Nach der Entfernung aus dem Wirtskörper ist sie nur einmal verwendbar."
-Annelid_Psipatch:"Zusammenfassung: Dieses Gewebe kann verlorene Psi-Punkte wiederherstellen. 
 
-Analyse: Diese Drüse produziert eine wirkungsvolle Mischung aus psychoaktiven und adrenalen Hormonen, die das Neuralgewebe verjüngen und aktivieren. Neben den normalen (und manchen ungewöhnlichen) biologischen Stoffen scheint diese Drüse auch kleine Mengen semi-physischer psychokreativer Energie abzusondern.  
+
+Annelid_Psipatch:"Zusammenfassung: Dieses Gewebe kann verlorene Psi-Punkte wiederherstellen.
+
+Analyse: Diese Drüse produziert eine wirkungsvolle Mischung aus psychoaktiven und adrenalen Hormonen, die das Neuralgewebe verjüngen und aktivieren. Neben den normalen (und manchen ungewöhnlichen) biologischen Stoffen scheint diese Drüse auch kleine Mengen semi-physischer psychokreativer Energie abzusondern.
 
 Empfehlung: Obwohl diese Drüse zur Wiederherstellung des psionischen Potentials verwendet werden kann, sind die Gefahren bei der Verwendung außerirdischer psychokreativer Energien so groß, dass dies nur im äußersten Notfall geschehen sollte."
+
+
 AntiAnnelid_Toxin:"Zusammenfassung: Wenn Sie dieses Toxin in eine Klimaanlage einlassen, wird es örtlich das annelidische Wachstum reduzieren.
 
 Analyse: Dies ist ein hochgiftiges experimen- telles Toxin, das dazu entwickelt wurde, Anneliden-Gewebe zu zerstören und aufzulösen. Der Kanister steht unter hohem Druck, da das flüssige Toxin unter Normalbedingungen schnell verdunsten würde.
 
 Empfehlung: Um einen möglichst großen Bereich abzudecken, sollte dieses Toxin sofort nach dem Öffnen in eine Klimaanlage eingeführt werden."
+
+
 AP_Clip:"Diese panzerbrechende Munition ist gegen ungepanzerte Ziele nicht sehr wirksam, aber sehr effektiv gegen mechanische Gegner. Der Urankern erhöht die Durchschlagkraft, selbst bei relativ schwachen Waffen wie der Talon M2A3 und dem M-22-Sturmgewehr. Diese Patrone ähnelt den größeren Panzergranaten mit abwerfbarem Flugkäfig des 21. Jahrhunderts. Neben dem extrem dichten Urankern verfügt sie über eine widerstandsarme Hülle aus einem modernen ballistischen Material, die ihr größere Durchschlagskraft verleiht."
+
+
 Arach_Organ:"Zusammenfassung: Sie haben gelernt, wie man die Anneliden-Arachniden am effektivsten bekämpft. Alle Schäden, die Sie Anneliden- Arachniden zufügen, werden um 25% gesteigert. Anneliden-Arachniden, wie alle reinen Anneliden, sind gegen Energiewaffen resistent.
 
-Analyse: Die internen Systeme dieses Wesens sind verteilt und in mehrfacher Ausfertigung vorhanden, was auf Planung oder auf eine Evolution in einer sehr gefährlichen Umgebung hinweist. Sein Äquivalent eines Nervensystems verbraucht viel mehr Energie als bei einem Menschen, weshalb das Gewebe des Wesens stärkere Energietoleranz besitzt. Der Metabolismus des Wesens ermöglicht kurzfristig hyper- kinetische Aktivität, während es sich normalerweise in einem Schlafzustand befindet und dadurch wahrscheinlich lange ohne Nahrungsaufnahme überleben kann.   
+Analyse: Die internen Systeme dieses Wesens sind verteilt und in mehrfacher Ausfertigung vorhanden, was auf Planung oder auf eine Evolution in einer sehr gefährlichen Umgebung hinweist. Sein Äquivalent eines Nervensystems verbraucht viel mehr Energie als bei einem Menschen, weshalb das Gewebe des Wesens stärkere Energietoleranz besitzt. Der Metabolismus des Wesens ermöglicht kurzfristig hyper- kinetische Aktivität, während es sich normalerweise in einem Schlafzustand befindet und dadurch wahrscheinlich lange ohne Nahrungsaufnahme überleben kann.
 
 Empfehlung: Vom Einsatz von Energiewaffen gegen dieses Wesen ist abzuraten."
-Assault_Rifle:"Das M-22-Sturmgewehr erfordert eine Stärke von 2 und eine Fähigkeit für Standardwaffen von 6. Es verwendet dieselbe Munition wie eine Pistole, hat aber ein größeres Magazin und richtet mehr Schaden an. Beide Modifikationen des Sturmgewehrs erhöhen den Schadenswert (die erste reduziert auch die Nachladezeit, und die zweite vergrößert das Magazin). 
-Das bei Soldaten sehr beliebte Sturmgewehr M-22 stellt einen guten Einstieg in die Welt automatischer Waffen dar. Mit Dauerfeuer können Sie verwundbare Feinde in Deckung zwingen, und der Einzelschussmodus bietet gute Zielgenauigkeit. Die Panzerdurchschlagskraft und die Schadenswirkung sind beide mäßig. Wenn Sie schweres Dauerfeuer schießen, wandert der Zielpunkt weit aus. Da diese Waffe von einem Komitee entwickelt wurde, ist seine Zuverlässigkeit etwas fragwürdig. \"Als die Werfergranaten verbraucht waren, die automatischen Minen umgangen waren, das Neuronenbeschleunigerfeld neutralisiert war, hatten die Männer immer noch ihre M-22 und ihre Patronen. Und bei Gott, sie setzten sie gut ein!\" Capt. William Diego, über die Verteidigung von Boston Harbor."
+
+
+Assault_Rifle:"Das M-22-Sturmgewehr erfordert eine Stärke von 2 und eine Fähigkeit für Standardwaffen von 6. Es verwendet dieselbe Munition wie eine Pistole, hat aber ein größeres Magazin und richtet mehr Schaden an. Beide Modifikationen des Sturmgewehrs erhöhen den Schadenswert (die erste reduziert auch die Nachladezeit, und die zweite vergrößert das Magazin). \nDas bei Soldaten sehr beliebte Sturmgewehr M-22 stellt einen guten Einstieg in die Welt automatischer Waffen dar. Mit Dauerfeuer können Sie verwundbare Feinde in Deckung zwingen, und der Einzelschussmodus bietet gute Zielgenauigkeit. Die Panzerdurchschlagskraft und die Schadenswirkung sind beide mäßig. Wenn Sie schweres Dauerfeuer schießen, wandert der Zielpunkt weit aus. Da diese Waffe von einem Komitee entwickelt wurde, ist seine Zuverlässigkeit etwas fragwürdig. \"Als die Werfergranaten verbraucht waren, die automatischen Minen umgangen waren, das Neuronenbeschleunigerfeld neutralisiert war, hatten die Männer immer noch ihre M-22 und ihre Patronen. Und bei Gott, sie setzten sie gut ein!\" Capt. William Diego, über die Verteidigung von Boston Harbor."
+
+
 AudioLog:"Ein Audio-Log:"
+
+
 Basketball:"Dies ist die Basketball-Version von TriOptimums neuer HappyBall(tm)- Technologie. Wenn ein Spieler mit einem HappyBall(tm) einen Korb wirft, produziert der Ball ein temporäres psychisches Feld, das bei allen Leuten in der Nähe ein Glücksgefühl auslöst. TriOptimums Forschungen deuten darauf hin, dass die Verwendung von HappyBalls(tm) bei firmeninternen Turnieren die Arbeitsmoral deutlich anhebt."
+
+
 Beaker_p2:"Obwohl Protein-Datenbanken heutzutage meist die DNA-Bearbeitung übernehmen, ist dieses Reagenzglas immer noch eine effektive Methode, um organische und anorganische Komponenten zu testen. Das abgedeckte Glas ist gut geeignet, kleine Mengen an Schadstoffen zu transportieren oder aufzubewahren."
+
+
 Beakers:"Obwohl Protein-Datenbanken heutzutage meist die DNA-Bearbeitung übernehmen, ist dieses Reagenzglas immer noch eine effektive Methode, um organische und anorganische Komponenten zu testen. Das abgedeckte Glas ist gut geeignet, kleine Mengen an Schadstoffen zu transportieren oder aufzubewahren."
+
+
 BigBomb:"Der Koppelresonator wurde kürzlich von TriOptimums Militärabteilung entwickelt und ist für Kommandoeinheiten gedacht, die in von starken Kraftfeldern umgebene feindliche Anlagen eindringen sollen. Der Koppelresonator erzeugt Schwingungen mit einer fraktal-harmonischen Frequenzfolge im feindlichen Kraftfeld. Diese Schwingungen überlasten schnell die Rückkopplungskompensatoren im Kraftfeldgenerator, wodurch diese ausfallen (und meist eine massive Explosion hervorrufen)."
+
+
 BrawnBoost:"Das BrawnBoost(tm)- Implantat von Crygon Manufactory steigert die Stärke des Anwenders um 1 und verbraucht alle zehn Sekunden 1% seiner Energie. Das Implantat umgeht viele der juristischen Beschränkungen für leistungssteigernde Pharmazeutika, da keinerlei Drogen verwendet und stattdessen die Muskeln mittels elektrischer und magnetischer Impulse stimuliert werden."
+
+
 Champagne_Bottle:"Champagner ist auf der Von Braun sehr populär (und wird auch auf die Rickenbacker geschmuggelt). Man findet ihn sowohl in den Freizeitbereichen als auch in den Replikatoren. Da allerdings alkoholische Getränke nur von TriOp erzeugt werden und aller Champagner (aus Gründen fehlenden Datenbankspeichers) von dem gleichen Naniten-Archetyp stammt, gibt es nur eine Marke. Zum Glück handelt es sich um einen ausgezeichneten Jahrgang."
+
+
 cheeseborger:"Verwenden Sie dieses Diagnose- und Reparaturmodul, um sich zu heilen. Moderne Robotermodelle enthalten selbstmodifizierende Elektronik und spezielle Nanitenvorräte für Ersatzteile. Nach dem Autodoc-Skandal in Dubuque im Jahre 2085 wurden Sicherungen einprogrammiert, um zu verhindern, dass Roboter \"versehentlich\" neue Funktionen, wie Bewaffnung, erzeugen. Darüber hinaus können die Diagnose- und Reparaturmodule von Hackern und anderen stark modifizierten Menschen zur Heilung benutzt werden, was dazu führte, dass einzelne Roboter, etwa Wartungs-Roboter, ausgeraubt wurden."
+
+
 Chemicals:"Forschungs-Software und nanitengestützte Molekularmanipulation haben dazu geführt, dass für die Grundlagenforschung keine komplexen organischen und synthetischen Stoffe mehr benötigt werden. Stattdessen dienen chemische Elemente als Rohmaterial für die Naniten-Forschungspro- zessoren und werden nach Bedarf kombiniert. Chemikalienbehälter wie dieser sind dafür ausgelegt, dass das Material chemisch oder energetisch nicht mit der Umgebung reagiert und besitzen Druck- zerstäuber, die an die meisten Standard- Nanitenstutzen an- geschlossen werden können."
+
+
 Chips:"Crack-O's Kartoffel- chips wurden Anfang des 21. Jahrhunderts das offizielle Knabberprodukt der UNN. Kartoffelchips bestehen aus Kartoffelscheiben, die in gehärteten Ölen frittiert werden. Oft werden Vitamine zugefügt, um den ziemlich kümmerlichen Nährwert dieses Produkts zu steigern. \"Wenn der Hunger an dir nagt, dann sind Crack-O's angesagt. Jetzt mit noch mehr Knabbergenuss!\" - Crack-O's Neuro-Net- Werbung 2111."
+
+
 cigar_lover:"Dieses Hochglanzmagazin enthält vor allem Anzeigen für teure Lederprodukte, sowohl Kleidung als auch Ausrüstung. Ein Artikel beschäftigt sich mit den experimentellen Nu-Cow-Zuchtanstalten auf Ganymed."
+
+
 Cigarettes:"Jede Schachtel der neuen Phylofilterzigaretten von Tobacco Conglomerates hat wahlweise drei Zusatzstoffe für den vollen Rauchgenuss. Die \"Minzomat-Taste\" verleiht dem Rauch ein Aroma von Menthol, Eukalyptus und Pfefferminz. Die \"Vollgenuss-Taste\" verdoppelt die Menge des Nikotins, Teers und anderer Kohlenstoff- partikel. Die Option \"Selbstreinigung\" überzieht die Zigarette mit einer Schicht von rauchbindendem Nanotech. \"Wie ich schon bei meiner letzten Aussage vor diesem Untersuchungsausschuss betonte, gibt es noch keinen eindeutigen Beweis dafür, dass Zigaretten gesundheitsschädlich sind.\" - Jack M. Sutton, Generaldirektor, Uplift Tobacco, 09-03-2112."
+
+
+Crew_Cap:"Diese stylishe Poly-Nylon-Mütze ist Teil der Standardausga\nbe der TriOptimum-Crew-\nUniform. Da eine Kopfbedeckung wenig Nutzen im Weltraum hat, trägt sie kaum jemand."
+
+
 Crystal_Shard:"Zusammenfassung: Eine sehr gefährliche Nahkampfwaffe. Sie erfordert eine Fähigkeit für exotische Waffen von 1.
 
 Analyse: Diese Anneliden-Kristallscherbe besteht vor allem aus Silizium, mit kleinen Mengen von Germanium und anderen unbekannten Spurenelementen. Anscheinend besitzt sie eine Resonanzfrequenz, die mit der der menschlichen Neuronenübertragung fast übereinstimmt. Der Kristall dient wahrscheinlich als Verstärker für die psionischen Fähigkeiten der Anneliden-Wesen. Die Kristallstruktur besteht aus Tausenden von eng aneinanderliegenden Kristallnadeln, die einen dicht verzweigenden, fast fraktalen Baum bilden.
 
 Empfehlung: Die erstaunliche Schärfe des Kristalls macht ihn zu einer sehr gefährlichen Nahkampfwaffe."
+
+
 Dead_Power_Cell:"Die Batterie ElectroSim Typ 5 ist ein neues Modell, das viel Strom in kurzer Zeit liefert. Normalerweise wird sie als Reserve für wichtige Schiffssysteme verwendet. Leider verlieren diese Batterien ihre Ladung, wenn sie mehr als einige Wochen gelagert werden, weshalb sie häufig an Ladestationen wiederaufgeladen werden müssen. ElectroSim hat dieses Modell durch die stabilere 5A ersetzt, aber diese Version war noch nicht erhältlich, als die Von Braun die Erde verließ."
+
+
 detox_patch:"\"Das Vita-Hyb Anti-Toxin- Hypospray wirkt schnell und radikal und reinigt Ihren Körper von chemischen und umweltbedingten Giftstoffen. Haben Sie zu viel getrunken? Sind sie zu nahe an die Baustelle eines Synthobeton-Gebäudes herangegangen? Probieren Sie das Spray! Kinder, ältere Menschen, schwangere Frauen und alle, die Arzneimittel einnehmen, sollten vorher Beipackzettel 1053-T-032 durchlesen.\" - Vita-Hyb Luftwerbung, 2110"
+
+
 dj_news:"Dieses holographische Magazin ist vor allem auf den wohlhabenden Jugendmarkt ausgerichtet. In den Fortsetzungsgeschichten werden die Affären und Abenteuer einiger sehr photogener Stars behandelt."
-electro_shock:"Eine brutale Nahkampfwaffe; der Mark-IV-Laserdegen erfordert eine Wendigkeit von 3 und eine Fähigkeit für Energiewaffen von 4. Der Laserdegen ist weit effektiver und zuverlässiger als der Prototyp, der 2072 auf der Station Citadel entwickelt worden war. Diese Einheit projiziert ein poröses Feld aus reflektierendem Material in einem zylinderförmigen Bereich vor dem Degengriff. Wenn dieses Material sich biegt (wenn also der Degen beispielsweise ein Ziel trifft), wird das intensive gebrochene Licht an dieser Stelle austreten und schwere Verbrennungen erzeugen. \"Sehr richtig, genau so einer, wie ihn der Hacker auf Station Citadel hatte! Wir sind die einzigen in der Stadt, die ihn verkaufen! Nur 40 Naniten!\" - Straßenverkäufer, der Nachbildungen des Laserdegens in New Detroit anbot."
-emp_grenade:"EMP-Granaten haben eine bessere Schadenswirkung auf in der Nähe befindliche elektronische Geräte als EMP-Gewehre. Allerdings sind sie auch langsamer und kosten wesentlich mehr."
+
+
+electro_shock:"Eine brutale Nahkampfwaffe; der Mark-IV-Laserdegen erfordert eine Wendigkeit von 3 und eine Fähigkeit für Energiewaffen von 4. Der Laserdegen ist weit effektiver und zuverlässiger als der Prototyp, der 2072 auf der Station Citadel entwickelt worden war. Diese Einheit projiziert ein positronisches Eindämmungsfeld in einem zylinderförmigen Bereich vor dem Degengriff. Wenn das Feld gebrochen wird (wenn also der Degen beispielsweise ein Ziel trifft), wird an dieser Stelle Plasma austreten und schweren Schaden anrichten. \"Sehr richtig, genau so einer, wie ihn der Hacker auf Station Citadel hatte! Wir sind die einzigen in der Stadt, die ihn verkaufen! Nur 40 Naniten!\" - Straßenverkäufer, der Nachbildungen des Laserdegens in New Detroit anbot."
+
+
+emp_grenade:"EMP-Granaten haben eine bessere Schadenswirkung auf in der Nähe befindliche elektronische Geräte als EMP-Gewehre. Allerdings sind sie auch langsamer und kosten wesentlich mehr. Diese Granate ist kompatibel mit dem TC-11-Granatwerfer."
+
+
 EMP_Rifle:"Das TriOptimum-Doppel- schaltkreis-EMP-Gewehr erfordert eine Fähigkeit für Energiewaffen von 6. Die erste Modifikation dieser Waffe steigert ihre Energiekapazität, während die zweite die Schussfrequenz erhöht und den Stromverbrauch senkt. Beide Modifika- tionen steigern zudem die Schadenswirkung der Waffe. \"Als die ersten Atomwaffen Mitte des 20. Jahrhundert getestet wurden, bemerkte man, dass nicht nur die Bomben selbst gewaltige Schäden erzeugten, sondern dass auch der von ihnen erzeugte elektro- magnetische Puls elektronische Geräte im Umkreis von mehreren Kilometern lahmlegte. Sobald man diesen Puls isoliert hatte, konnte man ihn einsetzen, ohne dabei einen atomaren Feuerball erzeugen zu müssen.\" Dr. Edward Chung, Leiter der Technologieprojekte, TriOptimum- Forschungsabteilung."
+
+
 EndurBoost:"Das EndurBoost(tm)- Implantat steigert die Ausdauer um 1 und verbraucht dabei alle 10 Sekunden 1% seiner Energie. Das Implantat, das das erste in der Boost-Serie von Crigon Manufactory ist, erzeugt eine leichte Stimulation der Nervenfasern und des Muskelgewebes und filtert Ermüdungsstoffe aus dem Blut. \"Wie stark müssen wir sein? Ist besser wirklich besser? Hätte Shakespeare ein Stück schreiben können, in dem alle Personen geistig, körperlich und emotionell auf dem Niveau von Superhelden stehen? Hätte er das überhaupt gewollt?\" - Prof. Joaquin Rutu, Dozent, Capetown University."
+
+
 energy_ammo:"Die Syvintec-Kristallprismen wurden im Jahre 2023 zur Lagerung großer Energiemengen eingeführt und sind seitdem zum Standard-Energiespeicher für Energiewaffen geworden. Das Silizium-Vanadium-Kristallgitter speichert Energie in sechs orthogonalen Dimensionen in den komprimierten EM-Feldern des Prismas und ermöglicht dadurch eine vollkommen effiziente Energieabgabe und Neuaufladung."
+
+
 ExperTech:"Das ExperTech(tm)-Implantat steigert die Hack-, Reparatur- und Modifizierungs-Fähigkeiten um +1, verbraucht aber alle 10 Sekunden 1% seiner Energie. Dieser Bonus kann aber NICHT dazu verwendet werden, Ansprüche bezüglich der Mindestfähigkeiten zu erfüllen."
+
+
 FakeCookie:"Cyber-Module enthalten eine Mischung aus programmierbaren RNA-Datenbanken und Hirnwellen-EMs, mit denen jedes Cyber-Implantat an einer Upgrade-Einheit (einem von TriOptimum entwickelten Gerät) augmentiert werden kann. Die über eine Upgrade-Einheit erworbenen Fähigkeiten sind nicht immer permanent, obwohl sie sich oft als solches herausstellen, wenn sie wiederholt eingesetzt werden, vor allem unter hohen Stressbedingungen. \"Mein Gott, wie der aussah. Ich hatte noch nie so ein Exemplar gesehen. Wie viel war von seinem ursprünglichen Selbst noch übrig? Schwer zu sagen. Ich muss aber sagen, er war ein kybernetischer Kraftprotz.\" - Artikel in \"She\"  Juli 2111."
+
+
 fakekeys:"Diese Karten regulieren den Zugang zu wichtigen Schiffsbereichen. Man zieht sie durch einen Leseschlitz, und die Karten scheinen sehr primitiv zu sein. In Wirklichkeit aber besitzen sie einen dreifachkodierten fraktalen Datenstring und mutieren über 50000 Mal pro Sekunde synchron zueinander, wodurch sie fast völlig fälschungssicher sind."
+
+
 FakeNanites:"Nach einer Reihe revolutionärer Experimente an der Universität von Marsala im Jahre 2078 wurde eine effiziente Naniten-Technologie entwickelt. Naniten sind subatomare Maschinen, die man so programmieren kann, dass sie eine fast unendliche Vielzahl von Aufgaben erfüllen können. Diese reichen vom Erstellen von Replikationsrastern über die Bildung beliebiger Objekte bis zur Bekämpfung von Viren und Bakterien im Blutkreislauf. Kurz gesagt ermöglichten Naniten (zusammen mit der Replikations- technologie), einen \"Universalstoff\" zu bilden. Das UNN-Währungsreform- gesetz des Jahres 2082 erlaubte es, Naniten für strikt reglementierte finanzielle Transaktionen zu verwenden."
+
+
 frenchnepstein_device:"Das French-Epstein- Gerät ist ein tragbares, autonomes, nanitenge- stütztes Reparatur- und Modifizierungswerkzeug und ist das ideale Geburtstagsgeschenk für alle Technik-Fans, die technisch nicht so begabt sind. Verbinden Sie einfach das Gerät mit Ihrer Waffe, und die Expertensysteme des French-Epstein-Geräts führen die komplette Waffenmodifikation durch. Kann nur einmal gebraucht werden."
-fusion_cannon:"Die TC-5-Fusionskanone erfordert eine Stärke von 4 und eine Fähigkeit für schwere Waffen von 6. Beide Modifikationen erhöhen die Schadenswirkung der Waffe. Die erste Modifikation dieser Waffe steigert auch die Magazingröße, und die zweite reduziert noch den Munitionsverbrauch. 
- \"Frühe Fusions- experimente führten zu enttäuschenden und potenziell gefährlichen Resultaten. Allerdings waren die wissenschaftlichen Toleranzwerte für die militärischen UNN-Geräte niedriger. TriOp produzierte deshalb diese verdammten Geräte überstürzt. Sind Fusionswaffen unglaublich leistungsstark? Natürlich! Welche langfristigen Auswirkungen haben sie auf die Umwelt? Ich habe keine Ahnung.\" Dr. Marie Delacroix, Chefingenieurin der Von Braun."
+
+
+fusion_cannon:"Die TC-5-Fusionskanone erfordert eine Stärke von 4 und eine Fähigkeit für schwere Waffen von 6. Beide Modifikationen erhöhen die Schadenswirkung der Waffe. Die erste Modifikation dieser Waffe steigert auch die Magazingröße, und die zweite reduziert noch den Munitionsverbrauch. \"Frühe Fusions- experimente führten zu enttäuschenden und potenziell gefährlichen Resultaten. Allerdings waren die wissenschaftlichen Toleranzwerte für die militärischen UNN-Geräte niedriger. TriOp produzierte deshalb diese verdammten Geräte überstürzt. Sind Fusionswaffen unglaublich leistungsstark? Natürlich! Welche langfristigen Auswirkungen haben sie auf die Umwelt? Ich habe keine Ahnung.\" Dr. Marie Delacroix, Chefingenieurin der Von Braun."
+ 
+
 Game_Carts:"Dieses Speichermodul enthält ein Spiel für Ihren VMU GamePig(tm). Grunz!"
+
+
 Gameboy:"Ein brandneues GamePig(tm)- Spielgerät von Vortex Mechanics Unlimited. Es kann Dutzende verschiedener Spiele verwenden, die durch Speichermodule geladen werden. Die meisten Spiele zeigen \"Grunzy das Spielschwein\" in der Hauptrolle, der im Jahre 2005 durch das interaktive Spiel \"Manager-Schweine\" berühmt wurde. \nHINWEIS: VMU ist nicht für Unfälle haftbar, die sich ereignen, während jemand GamePig(tm)-Spiele in einem Heads-Up-Display spielt. Grunz!"
+
+
 Gr_Over_Organ:"Zusammenfassung: Sie haben gelernt, wie man die Höheren Psi-Reaver und ihre Projektionen am Effektivsten bekämpft. Alle Schäden, die Sie den Höheren Psi-Reavern und ihren Projektionen zufügen, werden um 25% gesteigert. Die Projektionen werden sich aber dauernd regenerieren, es sei denn, Sie vernichten die Hirnstruktur, die sie erzeugt.
 
 Analyse: Dies ist eine dauernd mit Energie aufgeladene Probe eines psycho-kreativen Residuums. Sie ist das Endprodukt einer extrem komplexen und konzentrierten psionischen Projektion. Dieses Residuum kann zeitweilig gestört, aber nicht permanent vernichtet werden, da die psionische Projektion durch den verursachenden Organismus einfach erneut erschaffen werden kann.
 
 Empfehlung: Obwohl die Projektion durch viele konventionelle Mittel unterbrochen werden kann, stellt dies nur eine kurzfristige Lösung dar. Insgesamt gesehen sollte man keine Ressourcen auf die Bekämpfung dieses Phänomens verschwenden, es sei denn, es ist überlebensnotwendig. Wenn sie zerstört werden muss, sollten Sie zuerst die kontrollierende Hirnstruktur finden und diese zerstören."
-gren_launcher:"Der TC-11-Granatwerfer erfordert eine Fähigkeit für schwere Waffen von 1. Die erste Modifikation dieser Waffe steigert die Magazingröße, während die zweite die Geschwindigkeit der Granaten erhöht und die Nachladezeit reduziert. Der TC-11-\"Brick\" kann verschiedene Granaten abfeuern, darunter Standard-Hochexplosiv- granaten, Granaten mit Annäherungszünder, EMP-Granaten und Phosphor-Brandgranaten. Tüftler modifizieren diese Waffe oft so, dass sie auch andere Munition verwenden kann. Im Gegensatz zu früheren Modellen verwendet der TC-11 nicht Gasdruck, sondern ein Magnetfeld mit umgekehrter Polarisation zum Abfeuern der Granaten."
+
+
+gren_launcher:"Der TC-11-Granatwerfer erfordert eine Fähigkeit für schwere Waffen von 1. Die erste Modifikation dieser Waffe steigert die Magazingröße, während die zweite die Geschwindigkeit der Granaten erhöht und die Nachladezeit reduziert. Beide Modifikationen erhöhen den Schaden der Granaten. Der TC-11-\"Brick\" kann verschiedene Granaten abfeuern, darunter Standard-Hochexplosiv- granaten, Granaten mit Annäherungszünder, EMP-Granaten und Phosphor-Brandgranaten. Tüftler modifizieren diese Waffe oft so, dass sie auch andere Munition verwenden kann. Im Gegensatz zu früheren Modellen verwendet der TC-11 nicht Gasdruck, sondern ein Magnetfeld mit umgekehrter Polarisation zum Abfeuern der Granaten."
+
+
 Grub_Organ:"Zusammenfassung: Sie haben zwar die Schwachstellen dieser Wesen kennengelernt, aber sie sind so einfach zu töten, dass das fast bedeutungslos ist. Wie alle Anneliden besitzen sie etwas Widerstands- kraft gegen Energiewaffen. Anneliden-Eier enthalten oft nützliche Organe, doch müssen Sie sie vor der Zerstörung durchsuchen.
 
 Analyse: Die genetisch weiblichen Anneliden- Larven stellen die primitivste Form der Anneliden dar. Dieses Wesen besteht im Grunde nur aus Nervensystem und Muskulatur. Das (für einen Wurm) hoch- entwickelte Nervensystem scheint mit einem rudimentären psionischen Sinnesorgan verbunden zu sein. Obwohl sie einem Wurm ähnelt, besitzt die Larve keinerlei Verdauungs- system und wird stattdessen bei der Geburt mit einer Energiereserve ausgestattet. Wenn diese verbraucht ist, geht das Wesen in einen Schlafzustand über, möglicherweise bis ein weiterer psionischer Auslöser empfangen wird. Die Eier, aus denen diese Wesen schlüpfen, enthalten oft Organe, die nützlich sind, doch darf das Ei nicht durch Kampfeinwirkung zerstört worden sein.
 
 Empfehlung: Die Larven sind nicht sehr stark, können aber gefährlich werden, wenn sie sich ungesehen nähern. In größerer Zahl könnten sie eine ernstere Bedrohung darstellen."
+
+
 Hack_Soft:"Diese Software wurde von einer abtrünnigen Gruppe ehemaliger TriOp-Angestellten entwickelt, die von den strengen Sicherheitsmaßnahmen ihres Arbeitgebers und der UNN-Truppen angewidert waren. Diese eigentlich illegale Software hat sich wie ein Virus in fast allen bekannten Raumsektoren ausgebreitet. Sie erlaubt es dem Benutzer, sich in viele Bordcomputer einzuhacken, Sperrzonen zu betreten, Replikator-Datenbanken zu verändern und vorher verbotene Objekte zu kaufen, und einige andere üble Tricks. \"Es ist ein schönes Spielzeug, aber ist es wirklich nötig? Meine Güte, der Hacker damals auf Station Citadel brauchte keinen derartigen kommerziellen Schrott! Wenn man das Zeug startet kann man sich ja gleich 'n Schild umhängen, auf dem 'Hey, ich bin ein Anfänger' steht!\" - Todd Spokane, Präsident, Western States Binary League."
+
+
 HE_clip:"Obwohl sie gegen gepanzerte Ziele fast nutzlos ist, hat die Mite-Splittermunition gegen Fleisch und Blut eine verheerende Wirkung. Naniten innerhalb der Hülse merken, wenn das Geschoss in ein organisches Ziel einschlägt. Zuerst zersplittert der Kopf des Geschosses in mehrere Dutzend Stücke. Die Naniten suchen dann nach der höchsten örtlichen Temperatur und bewegen sich mittels mikroskopischer Gasströme auf die Wärme und damit wahrscheinlich auf die lebenswichtigen Organe zu."
+
+
 heart_pillow:"Dieses weiche Baumwollkissen riecht leicht nach Lavendel, Babypuder und Maschinenöl."
+
+
 heavy_armor:"Der UltraTech-Panzer Klasse 5 erfordert eine Stärke von 6 und ist so ziemlich das Beste, was man ohne dauernde Energiezufuhr erhalten kann. Über einem regenerativen Polymer-Gel befindet sich ein Gewebe aus Titan- und Kevlarplatten, das guten Schutz gegen Kinetik- und Energiewaffen bietet."
+
+
 Hybrid_Shotgun:"Die von TriOptimum vertriebene Schrotflinte erfordert eine Fähigkeit für Standardwaffen von 3. Beide Modifikationen erhöhen die Schadenswirkung (die erste reduziert auch die Nachladezeit, während die zweite den Rückstoß verringert). Schrotflinten wurden kaum noch für militärische Zwecke eingesetzt, bis die Konsumgüter-Abteilung von TriOp ein kompakte Version dieses großkalibrigen Monsters herausbrachte. Dieses mit einem Magazin versehene Ungetüm funktioniert wie eine normale (aber tödlichere) Schrotflinte, kann aber auch eine Dreifachladung feuern, die oft die Opfer auseinandersägt. Einige Monate nach ihrer Einführung wurde diese Waffe bei Jägern und anderen Waffen- liebhabern so populär, dass das UNN-Militär einen größeren Posten aufkaufte."
+
+
 ice_pick:"Die begrenzte Batterieleistung und die speziell programmierten Naniten ermöglichen dem ICE-Pick, nur einen erfolgreichen Hack durchzuführen, ganz gleich, über welche Fähigkeiten der Benutzer verfügt. Der ICE-Pick ist in den meisten Ländern und an Bord von UNN-Schiffen illegal. Er stellt aber für jeden Hacker, der sich den hohen Schwarzmarkt- preis für dieses Gerät leisten kann, eine große Hilfe dar. Im Hacker-Untergrund hält sich ein hartnäckiges Gerücht, wonach \"Cantor\", der Erfinder des ICE-Pick, demjenigen, der ihm ein System zeigt, das das Gerät nicht brechen kann, alle seine Hack-Algorithmen als Belohnung schenken würde."
+
+
 ID_Cards:"Diese Karten regulieren den Zugang zu wichtigen Schiffsbereichen. Man zieht sie durch einen Leseschlitz, und die Karten scheinen sehr primitiv zu sein. In Wirklichkeit aber besitzen sie einen dreifachkodierten fraktalen Datenstring und mutieren über 50 000 Mal pro Sekunde synchron zueinander, wodurch sie fast völlig fälschungssicher sind."
-Incend_Grenade:"Diese Granate setzt eine Sprengladung sich schnell ausbreitenden weißen Phosphors frei. WP kann zu Blausucht, Magenkrämpfen und manchmal sogar Bewusstlosigkeit und Tod führen. Normalerweise wirkt es nur auf organische Ziele."
+
+
+Incend_Grenade:"Diese Granate setzt eine Sprengladung sich schnell ausbreitenden weißen Phosphors frei. WP kann zu Blausucht, Magenkrämpfen und manchmal sogar Bewusstlosigkeit und Tod führen. Normalerweise wirkt es nur auf organische Ziele. Diese Granate ist kompatibel mit dem TC-11-Granatwerfer."
+
+
 int_boost:"Zusammenfassung: Dieses Hypospray steigert fünf Minuten lang den Psi-Wert des Anwenders um 1.
 
-Analyse: Dieser Wirkstoff enthält eine komplexe Mischung psychoaktiver Chemi- kalien, von denen manche sehr konzentriert sind, sowie gereinigtes Anneliden-Gewebe. Viele der Chemikalien haben eine Enzymverbindung mit Fragmenten des Anneliden-Gewebes gebildet, teilweise erst seit der Fertigstellung des Hypos, als ob das Anneliden-Gewebe immer noch biologisch aktiv sei.  
+Analyse: Dieser Wirkstoff enthält eine komplexe Mischung psychoaktiver Chemi- kalien, von denen manche sehr konzentriert sind, sowie gereinigtes Anneliden-Gewebe. Viele der Chemikalien haben eine Enzymverbindung mit Fragmenten des Anneliden-Gewebes gebildet, teilweise erst seit der Fertigstellung des Hypos, als ob das Anneliden-Gewebe immer noch biologisch aktiv sei.
 
 Empfehlung: Dieses experimentelle Hypospray steigert Ihren Psi-Wert einige Minuten lang - wenn es Ihnen nicht davor graut, sich Anneliden-Gewebe einzuspritzen. Bei langfristiger Anwendung können als Nebenwirkung Halluzinationen auftreten."
+
+
 juice_bottle:"Das aus genmanipulierten, in hydroponischen Tanks gezüchteten Früchten gepresste TastyFruit- Koffein- Fruchtsaftgetränk steckt voller Vitamine, Süßstoffe und Fruchtfleisch."
+
+
 kangaroo_quarterly:"Ein farbenfrohes Magazin über die Syntho-Stars. Die Artikel behandeln synthetische Talkshows, als Firmensprecher verwendete künstliche Persönlichkeiten, sowie preiswerte Charakter- veränderungen für den Amateur."
+
+
 LabAssistant:"Das LabAssistant(tm)-Implantat verbessert Ihre Forschungs-Fähigkeit um 1 und verbraucht dabei alle 10 Sekunden 1% seiner Energie. Der LabAssistant ist nicht gerade eines der beliebtesten Produkte von Crigon Manufactory, aber ein studentischer Kundenkreis kauft es, weshalb es weiterhin angeboten wird."
+
+
 Laser_Pistol:"Die Apollo-H4-Argon- Suspensions-Laserpistole erfordert eine Fähigkeit für Energiewaffen von 1. Die erste Modifikation dieser Waffe erhöht die Energiekapazität, die zweite reduziert den Stromverbrauch und steigert den Schadens- wert.\nDie Apollo-H4-Laser- pistole ist die tödlichere Variante der Sparq-Pistole und setzt Laserlicht statt Elektrizität gegen ihr Ziel ein. Obwohl sie eine relativ große Batterie besitzt, muss diese Waffe an Ladestationen wieder aufgeladen werden. Die Überlast- einstellung kann Ihnen im Notfall nützen, belastet aber die Batterie sehr."
+
+
 Light_Armor:"Der Dartech-Klasse-1- Panzer erfordert eine Stärke von 2. Sie ist ein komplexes Gewebe aus Kevlar und Stahl, das eine leichte Panzerung bildet, die nicht allzuviel Schutz bietet. Dieser Panzer soll nicht nur ein Geschoss am Durchschlag hindern, sondern auch die Aufprallenergie auf den gesamten Rahmen verteilen. Dartech ist der Teil der TriOp-Militärabteilung, der die finanzschwäche- ren Kämpfer wie Terroristen oder Milizen versorgt. Der Dartech Klasse 1 ist besser als nichts, aber mancher, der ihn trug, hat schon ein unsanftes Ende gefunden."
+
+
 liquor_bottle:"Nachdem moderne Pharmazeutika die Wirkung von Alkohol nachahmen können, wurden Spirituosen als \"Original\" und \"mit Zusätzen\" eingestuft. Dieser Rachenputzer macht Sie auf altmodische Weise besoffen und besitzt keinerlei Zusätze."
-maintenance_tool:"Erfahrene Ausbilder weltweit betonen immer wieder, dass sie kein \"Allzweckwerkzeug für Dummköpfe\" verwenden - je besser die Wartungsfähigkeit des Anwenders, desto effektiver wird das Werkzeug. Dieses Werkzeug ist aber nur einmal einsetzbar."
+
+
+maintenance_tool:"Erfahrene Ausbilder weltweit betonen immer wieder, dass sie kein \"Allzweckwerkzeug für Dummköpfe\" verwenden - je besser die Wartungsfähigkeit des Anwenders, desto effektiver wird das Werkzeug. Dieses Werkzeug ist aber nur einmal einsetzbar, um den Zustand einer Waffe oder eines Geschützturms zu verbessern."
+
+
 med_bed_key:"Die chirurgische Einheit dient zur Untersuchung von Patienten unter Aufsicht eines Facharztes. Der Einsatz eines Aktivierungs- schlüssels ermöglicht es, dass Heilverfahren automatisch durchge- führt werden. Heftige Kämpfe mit den Ärzteverbänden führten zu einem Kompromiss: Die nanitengestützten Aktivierungsschlüssel dürfen nicht in der Fabrik in der chirurgischen Einheit installiert werden, sondern müssen separat aufbewahrt werden, damit sie der Kunde im Notfall installieren kann (was nicht schwierig ist). Sobald die zwei Teile verbunden sind, können sie nur von einem Werkstechniker getrennt werden."
+
+
 Med_Patch:"Das ChemCal-Hypospray dient zur schnellen Behandlung kleinerer Wunden. Ein Heil-Enzym erstellt eine Grobanalyse des Zustands des Patienten und ändert sogar die Zusammensetzung des Serums entsprechend. Darüber hinaus enthält das Hypo eine Mischung aus Schmerzmitteln und gerinnungshemmenden Stoffen. Das Hypo ist nicht für die Behandlung schwerer Wunden gedacht, kann aber im Notfall auch dafür eingesetzt werden. Der einzige Nachteil ist der scharfe Einstich der übergroßen Vakuumnadel, die bei Ihrer Einführung vor 12 Jahren fast vom Markt genommen wurde. TriOps juristische Abteilung konnte gegen die potentiell teuren Konsequenzen jedoch erfolgreich vorgehen."
+
+
 medical_kit:"Dieses Auto-Diagnose- MediKit kann Blutungen stoppen, beschädigtes Gewebe heilen und selbst Organe in bestimmten Umfang wiederherstellen. Das MediKit, das oft von Notärzten, Sanitätern und Polizisten eingesetzt wird, gibt Ihnen alle verlorenen Trefferpunkte zurück."
+
+
 medium_armor:"Die SenniTech-Klasse-3- Panzerung erfordert eine Stärke von 4. Sie besteht aus einem Verbundwerkstoff mit drei Schichten selbstversteifender Kunstharze und langkettiger replizierender Polymere. Diese Panzerung ist schwerer als der Dartech Klasse 1 und bietet auch deutlich mehr Schutz vor feindlichem Beschuss. Die SenniTech-Unterabteilung der TriOptimum-Militär- abteilung liefert Panzerungen für leichte Infanterie in der UNN und vielen Firmenkampftruppen."
+
+
 Midwife_Organ:"Zusammenfassung: Sie haben gelernt, wie man das Cyborg-Midwife- Wesen am effektivsten bekämpft. Alle Schäden, die Sie Cyborg-Midwifes zufügen, werden um 25% gesteigert. Diese widerstehen Brand- und Splittergeschossen, sind aber durch panzerbrechende Munition verwundbar.
 
 Analyse: Die DNA-Sequenz bestätigt, dass das Subjekt ursprünglich eine Frau war, die kybernetisch modifiziert worden ist. Ein zusätzlicher Prozessor im Rückgrat dient als Kontrollgerät und blockiert die meisten Signale, die vom Hirn des Subjekts ausgesandt werden. Sowohl die Geschwindigkeit als auch die Muskulatur wurden mechanisch verbessert, und die kybernetischen Elemente dienen als Schutzschirm für das weichere menschliche Gewebe.
 
 Empfehlung: Aufgrund der halbmechanischen Natur dieses Wesens erweisen sich Brand- und Splitterwaffen als relativ unwirksam, aber panzerbrechende Munition dürfte durchaus effektiv sein."
+
+
 Mn_Over_Organ:"Zusammenfassung: Sie haben gelernt, wie man die Psi-Reaver und ihre Projektionen am effektivsten bekämpft. Alle Schäden, die Sie den Psi-Reavern und ihren Projektionen zufügen, werden um 25% gesteigert. Die Projektionen werden sich aber dauernd regenerieren, es sei denn, Sie vernichten die Hirnstruktur, die sie erzeugt.
 
 Analyse: Dies ist eine dauernd mit Energie aufgeladene Probe eines psycho-kreativen Residuums. Sie ist das Endprodukt einer extrem komplexen und konzentrierten psionischen Projektion. Dieses Residuum kann zeitweilig gestört, aber nicht permanent vernichtet werden, da die psionische Projektion durch den verursachenden Organismus einfach erneut erschaffen werden kann.
 
 Empfehlung: Obwohl die Projektion durch viele konventionelle Mittel unterbrochen werden kann, stellt dies nur eine kurzfristige Lösung dar. Insgesamt gesehen sollte man keine Ressourcen auf die Bekämpfung dieses Phänomens verschwenden, es sei denn, es ist überlebensnotwendig. Wenn sie zerstört werden muss, sollten Sie zuerst die kontrollierende Hirnstruktur finden und diese zerstören."
-modify_soft:"Modifizierungs-Software bietet selbst einem unerfahrenen (aber mit einem Cyber-Interface ausgerüsteten) Anwender detaillierte Pläne aller derzeit hergestellten Waffen. Jeden Monat werden Aktualisierung mit den neuesten Waffendaten herausgebracht. Höhere Versionen der Software enthalten das Octane-Expertensystem, das den Anwender hilft, ideale und effiziente Modifizierungen durchzuführen."
-molec_analyzer:"Die Viridian V-Badge Auto-Reparatur-Einheit wird erstaunlicherweise als Reparaturwerkzeug verkauft, was ihre Fähigkeiten klar unterbewertet. In Wirklichkeit erfasst die Einheit ein Zielgerät und baut es dann in perfektem Zustand wieder auf. Es gibt mehrere belegte Fälle, in denen das reparierte Gerät besser als das Original war, da dieses aufgrund von Beschädigungen nicht voll erfassbar war. Zum Glück für alle, die mit Reparaturen Ihren Lebensunterhalt verdienen, kann die Auto-Reparatur-Einheit nur einmal eingesetzt werden."
-Monkey_Brain:"Zusammenfassung: Sie haben gelernt, wie man die Affen am effektivsten bekämpft. Alle Schäden, die Sie Affen zufügen, werden um 25% gesteigert.  
 
-Analyse: Der Affe ist genetisch normal, ein afrikanischer Totenkopf- affe. Allerdings scheint er sowohl vor als auch nach der Geburt einer Reihe chemischer und chirurgischer Mani- pulationen unterworfen worden zu sein. Dies führte zu einer Vergrößerung des Gehirns und einer Vermehrung der Neuronen und der Myelinscheiden im Hirn. Die Schädelkappe dieses Tiers wurde chirurgisch entfernt, wahrscheinlich um den Schädeldruck zu verringern und schnelleren Zugriff bei Experimenten zu ermöglichen.   
+
+modify_soft:"Modifizierungs-Software bietet selbst einem unerfahrenen (aber mit einem Cyber-Interface ausgerüsteten) Anwender detaillierte Pläne aller derzeit hergestellten Waffen. Jeden Monat werden Aktualisierung mit den neuesten Waffendaten herausgebracht. Höhere Versionen der Software enthalten das Octane-Expertensystem, das den Anwender hilft, ideale und effiziente Modifizierungen durchzuführen."
+
+
+molec_analyzer:"Die Viridian V-Badge Auto-Reparatur-Einheit wird erstaunlicherweise als Reparaturwerkzeug verkauft, was ihre Fähigkeiten klar unterbewertet. In Wirklichkeit erfasst die Einheit ein Zielgerät und baut es dann in perfektem Zustand wieder auf. Es gibt mehrere belegte Fälle, in denen das reparierte Gerät besser als das Original war, da dieses aufgrund von Beschädigungen nicht voll erfassbar war. Zum Glück für alle, die mit Reparaturen Ihren Lebensunterhalt verdienen, kann die Auto-Reparatur-Einheit nur einmal eingesetzt werden."
+
+
+Monkey_Brain:"Zusammenfassung: Sie haben gelernt, wie man die Affen am effektivsten bekämpft. Alle Schäden, die Sie Affen zufügen, werden um 25% gesteigert.
+
+Analyse: Der Affe ist genetisch normal, ein afrikanischer Totenkopf- affe. Allerdings scheint er sowohl vor als auch nach der Geburt einer Reihe chemischer und chirurgischer Mani- pulationen unterworfen worden zu sein. Dies führte zu einer Vergrößerung des Gehirns und einer Vermehrung der Neuronen und der Myelinscheiden im Hirn. Die Schädelkappe dieses Tiers wurde chirurgisch entfernt, wahrscheinlich um den Schädeldruck zu verringern und schnelleren Zugriff bei Experimenten zu ermöglichen.
 
 Empfehlung: Der neurale Aufbau dieses Tiers ähnelt der menschlichen psionischen Struktur - wahrscheinlich besitzen diese Affen also Psi-Fähigkeiten. Sie sind aber, wie alle anderen organischen Wesen, durchaus verwundbar."
+
+
 mug:"Der Vacuu-Sol-Isolier- becher hält warme Getränke warm und kalte kalt, und das bis zu drei Jahre lang. Das halbdurchdringliche Kraftfeld über dem Becherrand verhindert sowohl einen Wärmeaustausch als auch das Auslaufen der Flüssigkeit beim Umkippen."
+
+
 OG_Organ:"Zusammenfassung: Sie haben gelernt, wie man die Hybriden am effektivsten bekämpft. Alle Schäden, die Sie Hybriden zufügen, werden um 25% gesteigert.
 
 Analyse: Die DNA-Struktur zeigt, dass dieser Organismus eine hybride Form aus dem menschlichen Wirtskörper und einem Parasiten darstellt. Obwohl der Parasit (der einem meterlangen Wurm ähnelt) so verwest ist, dass er nicht mehr analysiert werden kann, sind die Auswirkungen dieses Prozesses offensichtlich. Durch Geschwüre am Rückgrat und dem Hirnstamm werden die höheren Hirnfunktionen schwer beeinträchtigt. Das nichtmenschliche Gewebe scheint aus einem Gemisch kleiner wurmartiger Wesen zu bestehen, die sich an den Wirtskörper angepasst und einen Großteil der motorischen Kontrolle und der Entscheidungsfunktionen übernommen haben. Zudem scheint es zu einer direkten Stimulation des vegetativen Nerven- und des Drüsensystems zu kommen. Dieser Organismus erzeugt hohe Mengen an Adrenalin und Endorphin und erweist sich als sehr stark und aggressiv. Das so entstandene Wesen kann nicht mehr als Mensch bezeichnet werden. Der Schaden, der dem Wirtskörper zugefügt wird, ist irreparabel, und der Organismus zeigt nun keinerlei Sinn für Moral oder irgendein Zögern.
 
 Empfehlung: Der Organismus ist durch die gleichen Faktoren verletzbar wie ein Mensch. Allerdings deuten die physiologischen Änderungen auf chemische Prozesse hin, die noch unverstanden ist. Weitere Analyse ähnlicher Organismen könnte hier eine bessere Einsicht bieten."
+
+
 PDA_Soft:"Diese Standard- Software erlaubt dem Benutzer, Crew-Logs zu lesen, E-Mails zu empfangen und auf Daten verschiedener Formate zuzugreifen, etwa .MAP-Dateien. Der PDA ordnet automatisch die Logs und E-Mails nach dem jeweiligen Schiffsdeck, indem er eine Gruppe passiver Sensoren abfragt."
+
+
 pellet_shot_box:"Diese explosiven Kugeln kombinieren einen chemischen Brandsatz mit selbstumwandelnden Naniten als Zusatzwirkung. Nur wenige organische Ziele können dies lange aushalten. Am besten wird diese Munition aus kurzer Entfernung eingesetzt, da die Streuwirkung groß ist."
+
+
 Pistol:"Für die Talon-M2A3- Pistole (Kaliber .45) benötigen Sie eine Fähigkeit für Standardwaffen von 1. Beide Modifikationen erhöhen die Schadenswirkung (die erste vergrößert auch das Magazin, während die zweite die Nachladezeit verringert). Die von TriOptimums Militärabteilung entwickelte Talon-M2A3 ist die Standard- Handfeuerwaffe des UNN-Personals. Die seit 23 Jahren verwendete Waffe kann verschiedene Munition abfeuern, darunter Standard- Stahlmantelpatronen, panzerbrechende Geschosse mit Urankern und sogar mit Naniten gefüllte Splitterpatronen."
+
+
 plant_p2:"Diese zähe Pflanze wurde genetisch so manipuliert, dass sie kaum Wasser, noch weniger Licht und fast keine Mineralien oder Kunstdünger benötigt. In ihrer Farbgebung und dem leblosen Aussehen ähnelt sie stark den Plastikpflanzen, die es vor einigen Jahrzehnten gab."
+
+
 pool_cue:"Dieses elegante Queue aus poliertem Holz wurde illegal modifiziert und enthält einen kleinen Stabilisierungsfeldgenerator. Eine subtile Art, zu schummeln."
+
+
 portable_battery:"Die tragbare Batterie ElectroSim Typ 2 enthält genug Energie, um fast jedes elektrische Gerät wieder aufzuladen. Ein kleiner Fehler im Entladesystem führt aber dazu, dass die Batterie nur einmal eingesetzt werden kann, da sie sich völlig entlädt. ElectroSim hat deshalb dieses Modell vom Markt genommen."
+
+
 Power_Cell:"Die Batterie ElectroSim Typ 5 ist ein neues Modell, das viel Strom in kurzer Zeit liefert. Normalerweise wird sie als Reserve für wichtige Schiffssysteme verwendet. Leider verlieren diese Batterien ihre Ladung, wenn sie mehr als einige Wochen gelagert werden, weshalb sie häufig an Ladestationen wiederaufgeladen werden müssen. ElectroSim hat dieses Modell durch die stabilere 5A ersetzt, aber diese Version war noch nicht erhältlich, als die Von Braun die Erde verließ."
-Prox_Grenade:"\"Die Radius-IV-Annäherungsgranate verwendet nicht weniger als sechs verschiedene Entdeckungsmethoden, von der IR-Signatur über EM-Feldmessung bis zu volumetrischer Luftverdrängung, um sicherzustellen, dass sie genau in der Nähe des Feindes explodiert. Kaufen Sie unseren demnächst erhältlichen Radius-Sperrsender, damit Sie und ihre Kameraden nicht von der Explosion betroffen werden!\"  -- TriOptimum-Werbebroschüre"
+
+
+Prox_Grenade:"\"Die Radius-IV-Annähe- rungsgranate verwendet nicht weniger als sechs verschiedene Entdeckungsmethoden, von der IR-Signatur über EM-Feldmessung bis zu volumetrischer Luftverdrängung, um sicherzustellen, dass sie genau in der Nähe des Feindes explodiert. Kaufen Sie unseren demnächst erhältlichen Radius-Sperrsender, damit Sie und ihre Kameraden nicht von der Explosion betroffen werden!\" - TriOptimum- Werbebroschüre\nDiese Granate ist kompatibel mit dem TC-11-Granatwerfer."
+
+
 Psi_Amp:"Dieses umstrittene Gerät wurde von Esper Industries, einem sehr wichtigen Teil der Militärforschungs- abteilung von TriOptimum, entwickelt. Es erlaubt psionisch begabten Personen, ihre Kräfte zu verstärken und zu projizieren. Vor der Entwicklung des Psi-Amp waren Psi-Kräfte meist nur im Labor messbar. Der Verstärker grenzt die normalen Ab- schwächungsprobleme von Psi-Phänomenen ein und inhibiert diese. Das Amp erlaubt dem Benutzer außerdem, seine angeborenen Psi-Kräfte effektiv bündeln und damit eine Reihe geächteter Effekte erzielen. Dieses Gerät erregte heftigen Protest in der Psi-Gemeinschaft, da seine militärische Anwendbarkeit offensichtlich war, und da es Psi-Kräfte auf einige spezifische, nützliche Varianten reduzierte."
+
+
 psi_booster:"Das Psi-Hypospray enthält eine wirkungsstarke Mischung aus spannungslösenden Mitteln, Dopamin- Blockern und kreislaufanregenden Chemikalien. Eine Dosis steigert ihre Psi-Punkte um 20, bis zu Ihrem Maximalwert. Das Gesundheitsamt warnt allerdings, dass Psi-Hypos suchterzeugend und gesundheitsschädlich sind. Es ist auch darauf hinzuweisen, dass der Hersteller zum Schutze seines Monopols einen patentierten Prozess verwendet, um zu verhindern, dass diese Objekte durch die Psi-Fähigkeit \"Molekulare Duplikation\" verdoppelt werden können."
+
+
 Rad_Patch:"Das Anti-Strahlungs-Hypo der Firma ChemCal ist am wirksamsten, wenn es bald nach einer Kontamination eingesetzt wird. Es injiziert eine geringe Menge eines kommerziell als NukeTralizer bekannten Wirkstoffes, der den Zerfall vieler gefährlicher Chemikalien beschleunigt. Dr. Marie Delacroix, die Chefingenieurin der Von Braun, wusste, dass die übereilte Entwicklung des Schiffs Probleme nach sich ziehen würde. Vor allem betraf dies das Kühlsystem des Schiffs, das dauernd Risse bekam, so dass häufig gefährliche Chemikalien ausliefen. Obwohl diese Risse leicht zu entdecken und zu reparieren waren, verlangte sie, dass eine große Anzahl von ChemCal-Strahlungs-Hyposprays im Schiff verteilt würden. Im Unterschied zu ihren anderen Warnungen bezüglich der Zustände auf der Von Braun wurde diese sogar ernst genommen."
+
+
 RadKey_Card:"Diese Platine vereint, wie viele Objekte auf der Von Braun, hochmoderne Technik und schlampige Verarbeitung. Manche der Logik-Chips haben Prototypennummern, und überall sieht man Lötzinnschmieren und Flecken von Nanitenübergängen."
+
+
 recycler:"Der Recycler war ursprünglich als Zusatz für den Replikator gedacht und enthält eine Kolonie von replizierenden Naniten, die fast jedes Objekt in weitere Naniten verwandeln können. Nachdem es bald zu Zwischenfällen kam, bei denen Recycler dazu missbraucht wurden, Leichen verschwinden zu lassen, wurden schnell Einschränkungen bezüglich der Objekte eingeführt, die der Recycler annimmt."
+
+
 reflec_armor:"Die UltraTech-Klasse-7- Kampfpanzerung benötigt Energie für die Repulsorfelder und die Schutzplatten und erfordert eine Stärke von 3. Alle 5 Sekunden verbraucht sie 1% ihrer Energie. Die UltraTech Klasse 7 ist das Spitzenmodell der Militärabteilung von TriOptimum. Von den Schutzplatten aus massivem Titan- Polymer zu dem 3 cm dicken Schutzfeld um den Träger des Panzers ist die Klasse 7 das Nonplusultra unter den Panzerungen. Offiziell sind Panzer der Klasse 7 für UNN-Truppen verfügbar, doch scheinen die meisten von TriOptimum-Einheiten getragen zu werden."
+
+
 repair_soft:"Reparatur-Software bietet selbst einem unerfahrenen (aber mit einem Cyber-Interface ausgerüsteten) Anwender detaillierte Pläne aller gebräuchlichen und weniger gebräuchlichen elektronischen und mechanischen Geräte, sowie Verfahrensweisen, die zur Reparatur fast aller Defekte und Beschädigungen angewandt werden können. Die besten Versionen verwenden auch zunehmend komplexere Expertensysteme, die den Anwender bei der Reparatur beraten und ihm helfen."
+
+
 research_soft:"Forschungs-Software bietet selbst einem unerfahrenen (aber mit einem Cyber-Interface ausgerüsteten) Anwender eine Reihe von Programmen, mit denen man grundlegende Untersuchungen an Geräten und Objekten durchführen kann. Diese Art von Forschung eignet sich vor allem für Agenten im Feld, da das Objekt nur rudimentär untersucht wird. Tiefergreifende Analysen müssen von besser qualifizierten Forschern in einem Labor durchgeführt werden. Höhere Versionen der Software enthalten das Curie-Expertensystem, das den Forschungsprozess beschleunigt."
+
+
 rifled_slug_box:"Die Standard-Schrotflin- tenpatrone hat sich in den letzten 100 Jahren kaum verändert. Ein kleines, schweres Metallstück, das über hohe kinetische Energie verfügt, richtet eben viel Schaden an."
+
+
 ring_buoy:"Aufgrund obskurer juristischer Vorschriften müssen alle Raumschiffe Rettungsringe mit sich führen. Manche, vor allem Bergbauschiffe im Asteroidengürtel, verwenden selbstgetriebene Systeme oder geben ihnen einen begrenzten Luftvorrat, aber auf vielen Schiffen wird dieses Zeug einfach in einem Lagerraum untergebracht und vergessen."
+
+
 rolling_monthly:"Dieses Magazin ist bei Protokoll-Droiden und deren Programmierern sehr beliebt. Es ist eine eklektische Mischung aus technischen Infor- mationen und Computer-Design. Manche Artikel sind komplett in Byte-Code geschrieben und deshalb für Droiden leicht lesbar, aber viele Programmierer sind stolz darauf, diese Artikel ebenfalls ohne Software-Hilfe lesen zu können."
+
+
 Rumbler_Organ:"Zusammenfassung: Sie haben gelernt, wie man die Rumbler am effektivsten bekämpft. Alle Schäden, die Sie Rumblern zufügen, werden um 25% gesteigert. Ihr Anneliden-Gewebe ist vor allem gegen Brandwaffen empfindlich.
 
 Analyse: Dieser Organismus stellt eine Weiterentwicklung der Anneliden-Hybriden der ersten Stufe dar. Jenseits der DNA-Ebene sind nur noch wenige menschliche Merkmale festzustellen. Die Dichte des Muskelgewebes ist um das Zwanzigfache gesteigert, und die Adrenalinproduktion entsprechend angehoben. Das Hirngewebe ist extrem dicht, was normalerweise auf eine hohe Intelligenz hinweisen würde, aber der Hirnstamm ist zu einem nutzlosen Stummel zurückgebildet, und es gibt kein Gegenstück zum menschlichen Rückgrat. Alle Muskelaktivitäten werden örtlich durch speziell dafür entwickelte fremde Zellen kontrolliert. Es scheint, dass dieses Wesen eine Evolutionsstufe zwischen dem früheren Mensch-Anneliden-Hybriden und einer dritten, noch unbekannten Form darstellt.
 
 Empfehlung: Dieses Wesen ist extrem gefährlich und stellt im Grunde einen muskelbepackten Wirtskörper für ein hochentwickeltes, aber nicht mit diesem verbundenes Hirn dar. Die ungewöhnliche chemische Struktur des Hirngewebes dieses Hybridwesens weist auf eine latente psionische Fähigkeit hin."
+
+
 Shotgun:"Die von TriOptimum vertriebene Schrotflinte erfordert eine Fähigkeit für Standardwaffen von 3. Beide Modifikationen erhöhen die Schadenswirkung (die erste reduziert auch die Nachladezeit, während die zweite den Rückstoß verringert). Schrotflinten wurden kaum noch für militärische Zwecke eingesetzt, bis die Konsumgüter-Abteilung von TriOp ein kompakte Version dieses großkalibrigen Monsters herausbrachte. Dieses mit einem Magazin versehene Ungetüm funktioniert wie eine normale (aber tödlichere) Schrotflinte, kann aber auch eine Dreifachladung feuern, die oft die Opfer auseinandersägt. Einige Monate nach ihrer Einführung wurde diese Waffe bei Jägern und anderen Waffen- liebhabern so populär, dass das UNN-Militär einen größeren Posten aufkaufte."
+
+
 SmartBoost:"Das PsiBoost(tm)- Implantat von Crygon Manufactory steigert den Psi-Wert des Anwenders um 1 und verbraucht alle 10 Sekunden 1% seiner Energie. Das Implantat überwacht die Neurotransmitterwerte des Anwenders und beeinflusst das Nervensystem, um die Werte auf dem für die Neuralfunktionen optimalen Niveau zu halten."
+
+
 Soda_Can:"Die Anfang des 20. Jahrhundert entdeckten Erfrischungsgetränke waren eine Mischung aus Wasser, Kohlensäure und Süßstoffen. Obwohl dieses Produkt trivial erscheinen mag, führte es doch zur Entstehung der ersten zwei Mega-Konzerne, deren Namen gemäß des UNN-Informationge- setzes #234/fd34 nicht genannt werden dürfen. Netz-Gerüchten zufolge arteten die Kämpfe dieser beiden Konzerne um Marktanteile in einen echten Krieg aus, als im Jahre 2023 Söldner- truppen Abfüll- anlagen vernichteten."
+
+
 speed_boost:"Das Vita-Hyb- SpeedBoost-Hypospray gibt Ihnen zwanzig Sekunden lang die doppelte Geschwindigkeit. Dieses Hypospray, das bei Schülern gern für einen gefährlichen Straßensport namens \"Rabiate Raser\" eingesetzt wird, kann auch in Notfällen sehr nützlich sein."
+
+
 Standard_Clip:"Diese Standardpatrone (Kaliber .45) hat einen Stahlmantel und kann den Gegner wirksam stoppen. Vor allem ist diese Munition sehr billig herstellbar und deshalb weit verbreitet. Sie ist für alle Ziele mehr oder weniger geeignet."
+
+
 stasis_field_generator:"Der Stasisfeldgenerator erfordert eine Stärke von 3 und eine Fähigkeit für schwere Waffen von 3. Die erste Modifikation dieser Waffe steigert die Schussfrequenz um 100%, während die zweite den Munitions- verbrauch senkt. Dies ist ein experimentelles Gerät, das ursprünglich entwickelt worden war, um Patienten vor größeren Operationen effektiv und narkosefrei zu betäuben und stillzuhalten. Der Nutzen für Militär und Sicherheitstruppen wurde jedoch auch der TriOptimum-Leitung bald klar. Der Generator kann sein Ziel für einen bestimmten Zeitraum bewegungslos machen. Allerdings benötigt das Stasisfeld eine große Menge Energie."
+
+
 strength_boost:"Das StrengthBoost-Hypospray gibt Ihnen fünf Minuten lang einen weitere Stärkepunkt, bis zu einem Maximum von acht Punkten. Vita-Hyb, der Hersteller von Strength-Boost, soll gerüchteweise einpflanzbare StrengthBoost-Tropfer für Sportler verkaufen, obwohl das natürlich hochgradig illegal ist."
+
+
 Swarm_Organ:"Zusammenfassung: Anneliden-Schwärme können durch keine uns bekannten Mittel beschädigt werden, haben aber nur eine kurze Lebenszeit. Anneliden-Eier enthalten oft nützliche Organe, doch müssen Sie sie vor der Zerstörung durchsuchen.
 
 Analyse: Obwohl dieser fliegende Organismus klein ist, enthält er eine komplexe DNA-Struktur, die auf ein viel höher entwickeltes Wesen hinweist. Jedes dieser kleinen, genetisch männlichen Wesen ist mit dem Schwarm durch eine sub-psionische Verbindung vereint, die gegen normale psionische Angriffe und Störungen immun ist. Die annelidischen Schwarm- wesen scheinen lediglich als lebende Waffen zu dienen, da ihre Zellen nur über eine genetisch programmierte Lebensdauer von einigen Sekunden verfügen. Während dieses Zeitraums werden sie von menschlichem Gewebe angezogen, da sie verzweifelt versuchen, ihr kurzes Leben durch Nahrungsaufnahme zu verlängern. Die Eier, aus denen diese Wesen schlüpfen, enthalten oft Organe, die nützlich sind, doch darf das Ei nicht durch Kampfeinwirkung zerstört worden sein.
 
 Empfehlung: Man sollte den Anneliden-Schwarm am besten meiden, da die Wesen bald nach dem Ausschlüpfen sterben werden. Verschwenden Sie keine Munition."
+
+
 SwiftBoost:"Das SwiftBoost(tm)- Implantat steigert Ihre Wendigkeit um 1 und verbraucht alle zehn Sekunden 1% seiner Energie. Während das RunFast(tm)-Implantat vor allem die Beinmuskeln stimuliert, beschleunigt das SwiftBoost(tm)-Implantat die Reaktionszeit des gesamten Körpers. Dieses Implantat ist bei Turnern und anderen Sportlern beliebt, hat sich beim Militär aber noch nicht voll durchgesetzt."
+
+
 test_tubes:"Alles, was ein Chemiker in seiner Giftküche braucht. Moderne Reagenzgläser besitzen geeichte Markierungen, Temperaturregler und eine nanitengestützte \"Paniktaste\", die im Notfalls den Inhalt des Glases aufsaugt."
+
+
 this_month_in_ping_pong:"Ein billiges Magazin voller wilder Speku- lationen, das Themen von \"Außerirdische unter uns?\" bis zu \"Das Für und Wider der Silikat-Genetik\". Das Einzige, was noch amüsanter ist als die Artikel, sind die Leserbriefe, die am Anfang veröffentlicht werden."
-timed_grenade:"Eine Standard- Splittergranate. Die Schadenswirkung stellt eine Kombination aus dem durch die Explosion erzeugten Schockeffekt und dem Schrapnell dar."
-toxin_grenade:"Die Disruptorgranate stellt das einzige profitable Produkt der Firma Flegel-Kraft dar, die Waffen für die UNN herstellt. Nach einer Reihe exzentrischer und technisch komplexer Waffen wie dem Schwefel-Explosiv- pfannkuchen und der Magnesium-Maschinen- pistole, die sich im Feldeinsatz nicht bewährten, brachte Flegel-Kraft diesen kleinen, aber wirkungsvollen Sprengkörper heraus. Sein Explosivradius ist viel kleiner als bei einer Brand- oder Splittergranate, aber im Zentrum der Explosion überlebt fast nichts."
+
+
+timed_grenade:"Eine Standard- Splittergranate. Die Schadenswirkung stellt eine Kombination aus dem durch die Explosion erzeugten Schockeffekt und dem Schrapnell dar. Diese Granate ist kompatibel mit dem TC-11-Granatwerfer."
+
+
+toxin_grenade:"Die Disruptorgranate stellt das einzige profitable Produkt der Firma Flegel-Kraft dar, die Waffen für die UNN herstellt. Nach einer Reihe exzentrischer und technisch komplexer Waffen wie dem Schwefel-Explosiv- pfannkuchen und der Magnesium-Maschinen- pistole, die sich im Feldeinsatz nicht bewährten, brachte Flegel-Kraft diesen kleinen, aber wirkungsvollen Sprengkörper heraus. Sein Explosivradius ist viel kleiner als bei einer Brand- oder Splittergranate, aber im Zentrum der Explosion überlebt fast nichts. Diese Granate ist kompatibel mit dem TC-11-Granatwerfer."
+
+
 vacc_suit:"Der TriOptimum-Null- phasen-Schutzanzug verwendet eine Kombination aus einem dreilagigen, gummibeschichteten Gewebe, einer Schutzpanzerung und einem Niedrigenergie- Verzerrungskraftfeld, um den Anwender nicht nur komplett vor Vakuum, sondern auch vor anderen Umweltgefahren, wie durch die Luft übertragenen Pathogenen oder toxischen Stoffen, zu schützen. Darüber hinaus bietet er sehr guten Schutz gegen Strahlung und einige Energieentladungen, wobei vermieden werden sollte, sich diesen Gefahren länger auszusetzen. Konkurrenten, wie die HaziShield Group und Wykodyne behaupten, dass nahe an der Haut getragene Kraftfeldgeneratoren über längere Zeit krebserregend sein können, aber die meisten Benutzer machen sich mehr Sorgen über unmittelbare Gefahren und bevorzugen diese Schutzart."
+
+
 viral_prolif:"Zusammenfassung: Die Viren-Waffe erfordert eine Fähigkeit für exotische Waffen von 4. Die erste Modifikation dieser Waffe steigert die Magazingröße, während die zweite den Munitionsverbrauch senkt. Beide Modifikationen erhöhen auch die Schadens- wirkung der Waffe. Diese Waffe setzt in ihrem Explosionsradius Anti-Anneliden-Viren frei. Der Virus kann auf reine Anneliden oder hybride Wesen abgestimmt werden. Ziehen Sie den Abzug eine Weile durch, um die Viren-Nutzlast aufzubauen und lassen Sie ihn dann los. Passen Sie auf, dass die Waffe nicht zu nahe an Ihnen detoniert, wenn sie gegen Menschen eingestellt ist!
 
-Analyse: Diese Waffe ist anscheinend aus menschlicher und außerirdischer Tech- nologie zusammenge- schustert. Der Griff und der Abzug scheinen von Menschen gebaut worden zu sein. Das sechseckige Mittelstück ist ein energiereiches Medium, das von Behältern mit Naniten-Virus-Hybriden umgeben ist. Wenn die Virushybriden in das Mittelstück eingespritzt werden, kommt es zu einer Vermehrung mit Naniten- statt biologi- scher Geschwindigkeit, bis die Ladung abgefeuert wird. Zusätzliche Energiemodule verstreuen die Viren im gesamten Kampfradius. Das Medium muss neu mit Anneliden-Gewebe bestückt werden, diese Würmer müssen mit Standard-Reagenzgläsern aufgesammelt werden. Die Viren-Waffe kann Hybridviren gegen reine Anneliden, oder spezielle Viren gegen menschliche oder teilweise menschliche Ziele freisetzen. 
+Analyse: Diese Waffe ist anscheinend aus menschlicher und außerirdischer Tech- nologie zusammenge- schustert. Der Griff und der Abzug scheinen von Menschen gebaut worden zu sein. Das sechseckige Mittelstück ist ein energiereiches Medium, das von Behältern mit Naniten-Virus-Hybriden umgeben ist. Wenn die Virushybriden in das Mittelstück eingespritzt werden, kommt es zu einer Vermehrung mit Naniten- statt biologi- scher Geschwindigkeit, bis die Ladung abgefeuert wird. Zusätzliche Energiemodule verstreuen die Viren im gesamten Kampfradius. Das Medium muss neu mit Anneliden-Gewebe bestückt werden, diese Würmer müssen mit Standard-Reagenzgläsern aufgesammelt werden. Die Viren-Waffe kann Hybridviren gegen reine Anneliden, oder spezielle Viren gegen menschliche oder teilweise menschliche Ziele freisetzen.
 
 Empfehlung: Im Nahkampf gegen Anneliden hat sich diese Waffe als äußerst wirksam erwiesen. Sie kann möglicherweise sogar Anneliden verletzen, die gegen andere Waffen immun sind. Allerdings werden Sie sich wahrscheinlich selbst verletzen, wenn Sie sie gegen menschliche Gegner einsetzen."
-vita_mens_monthly:"Dieses hochmoderne Journal von Natural Dynamics enthält ein interaktives Hologramm auf dem Umschlag, mehrere nanitengestützte Videoartikel und 3D-Interviews mit den Designern von Spezial-Ökosystemen."
-Vodka_Bottle:"Wodka, eine Spirituose, ist etwas, was die Replikatoren nie richtig hinbekamen. Der replizierte Wodka ist extrem stark und hat dazu einen sehr scharfen Geschmack."
-worm_beakers:"Diese ekligen Dinger können von exotischen Anneliden-Waffen als Munition verwendet werden. Man sammelt die Würmer, indem man ein leeres Reagenzglas auf einen Würmerhaufen hält."
-Worm_launcher:"Zusammenfassung: Der Anneliden-Werfer erfordert eine Stärke von 3, eine Wendigkeit von 3 und eine Fähigkeit für exotische Waffen von 6. Die erste Modifikation dieser Waffe steigert die Magazingröße, während die zweite die Projektilgeschwindigkeit verdoppelt. Darüber hinaus erhöhen beide Modifikationen die Schadenswirkung der Waffe. Dieses Gerät feuert Bündel von Anneliden-Würmern, die in Reagenzgläsern gesammelt wurden. Die Waffe kann eingestellt werden, reine Annelidenwesen oder menschlich/hybride Wesen zu schädigen.
 
-Analyse: Dies ist ein exotisches Gerät, das aus semi-intelligentem organischem Material besteht. Es wurde so stark modifiziert, dass es unmöglich ist, seine ursprüngliche Funktion festzustellen. In seiner derzeitigen Konfiguration ist dieses Objekt eine Waffe, die annelidische Würmer verfeuert. Diese Würmer müssen in Reagenzgläsern gesammelt und in ein Fach an der Seite der Waffe eingeführt werden. Ein integrierter chemischer Einspritzmechanismus kann die chemische Struktur der Würmer ändern, so dass sie zu einer tödlichen Waffe gegen menschliche (oder teilweise menschliche) Gegner oder reine Anneliden werden.
+
+vita_mens_monthly:"Dieses hochmoderne Journal von Natural Dynamics enthält ein interaktives Hologramm auf dem Umschlag, mehrere nanitengestützte Videoartikel und 3D-Interviews mit den Designern von Spezial-Ökosystemen."
+
+
+Vodka_Bottle:"Wodka, eine Spirituose, ist etwas, was die Replikatoren nie richtig hinbekamen. Der replizierte Wodka ist extrem stark und hat dazu einen sehr scharfen Geschmack."
+
+
+worm_beakers:"Diese ekligen Dinger können von exotischen Anneliden-Waffen als Munition verwendet werden. Man sammelt die Würmer, indem man ein leeres Reagenzglas auf einen Würmerhaufen hält."
+
+
+Worm_launcher:"Zusammenfassung: Der Anneliden-Werfer erfordert eine Stärke von 3 und eine Fähigkeit für exotische Waffen von 6. Die erste Modifikation dieser Waffe steigert die Magazingröße, während die zweite die Projektilgeschwindigkeit verdoppelt. Darüber hinaus erhöhen beide Modifikationen die Schadenswirkung der Waffe. Dieses Gerät feuert Bündel von Anneliden-Würmern, die in Reagenzgläsern gesammelt werden müssen. Die Waffe kann eingestellt werden, reine Annelidenwesen oder menschlich/hybride Wesen zu schädigen.
+
+Analyse: Dies ist ein exotisches Gerät, das aus semi-intelligentem organischem Material besteht. Es wurde so stark modifiziert, dass es unmöglich ist, seine ursprüngliche Funktion festzustellen. In seiner derzeitigen Konfiguration ist dieses Objekt eine Waffe, die zielsuchende annelidische Würmer verfeuert. Diese Würmer müssen in Reagenzgläsern gesammelt und in ein Fach an der Seite der Waffe eingeführt werden. Ein integrierter chemischer Einspritzmechanismus kann die chemische Struktur der Würmer ändern, so dass sie zu einer tödlichen Waffe gegen menschliche (oder teilweise menschliche) Gegner oder reine Anneliden werden.
 
 Empfehlung: Wenn der Einsatz dieser Waffe nötig ist, sollten Sie bei jeder Gelegenheit Reagenzgläser sammeln und sie so oft wie möglich mit Anneliden-Würmern füllen."
+
+
 worm_skin:"Zusammenfassung: Dieser Panzer schützt sowohl im Kampf als auch vor Umwelteinflüssen und steigert den Psi-Wert des Anwenders um 2. Allerdings verbraucht er dabei langsam die Psi-Punkte des Anwenders.
 
 Analyse: Diese Wurmhaut wurde zu einem primitiven Kleidungsstück gemacht, das Menschen tragen können. Die Haut ist wesentlich zäher, als ihre biochemische Struktur dies vermuten ließe, und weitere Forschungen deuten darauf hin, dass sie einen subtilen Repulsor-Effekt erzeugt, der psionischen Ursprungs zu sein scheint. Die Tatsache, dass dieser Effekt auftritt, sowie die langsam weiter ablaufenden metabolischen Prozesse in der Haut, zeigen an, dass die Haut in gewissem Sinne noch lebendig ist
 
 Empfehlung: Wenn Sie die Wurmhaut als Panzerung tragen, erhalten Sie etwas Schutz vor Angriffen und Umweltgefahren und steigern Ihre Psi-Werte. Allerdings muss der Anwender auch dauernd Psi-Energie aufwenden, um nicht von der Haut angegriffen und verzehrt zu werden."
+
+
 WormBlend:"Zusammenfassung: Dieses Implantat reduziert die Entfernung, aus der Anneliden-Wesen den Anwender des Implantats psionisch entdecken können.
 
-Analyse: Dieses Implantat enthält ein Stück Anneliden-Gewebe, das mittels elektrochemischer Verbindungen mit den Neuralimpulsen des Anwenders gekoppelt wird. Das Gewebestück ist nicht groß genug, um dem Anwender einen psionischen Kontakt mit Anneliden zu ermöglichen, aber es koordiniert die Hirnwellen des Anwenders, so dass sie bei einer oberflächlichen psionischen Untersuchung denen eines Anneliden-Organismus ähneln. 
+Analyse: Dieses Implantat enthält ein Stück Anneliden-Gewebe, das mittels elektrochemischer Verbindungen mit den Neuralimpulsen des Anwenders gekoppelt wird. Das Gewebestück ist nicht groß genug, um dem Anwender einen psionischen Kontakt mit Anneliden zu ermöglichen, aber es koordiniert die Hirnwellen des Anwenders, so dass sie bei einer oberflächlichen psionischen Untersuchung denen eines Anneliden-Organismus ähneln.
 
 Empfehlung: Dies erschwert es wahrscheinlich Anneliden, den Anwender aus größerer Entfernung zu entdecken. Allerdings kann er sich nicht als Annelid ausgeben, sobald Sichtkontakt hergestellt ist."
+
+
 WormBlood:"Zusammenfassung: Wenn dieses Implantat aktiviert ist, können Sie auf einen Wurmhaufen rechtsklicken, um sich zu heilen.
 
-Analyse: Dieses Implantat ist eine leistungsfähige Einheit zum Filtern und Modifizieren des Bluts, die es ermöglicht, dass im Blutstrom trans- portiertes Anneliden- Gewebe den menschlichen Wirtskörper nicht schädigt. Aufgrund der Tatsache, dass Anneliden-Gewebe sehr regenerationsfähig ist, kann es in Kombination mit diesem Implantat als Ersatz für beschädigtes menschliches Gewebe verwendet werden. Eine Einführungsöffnung im Implantat dient dazu, eben solches Anneliden-Gewebe in den Körper einzuschleusen.  
+Analyse: Dieses Implantat ist eine leistungsfähige Einheit zum Filtern und Modifizieren des Bluts, die es ermöglicht, dass im Blutstrom trans- portiertes Anneliden- Gewebe den menschlichen Wirtskörper nicht schädigt. Aufgrund der Tatsache, dass Anneliden-Gewebe sehr regenerationsfähig ist, kann es in Kombination mit diesem Implantat als Ersatz für beschädigtes menschliches Gewebe verwendet werden. Eine Einführungsöffnung im Implantat dient dazu, eben solches Anneliden-Gewebe in den Körper einzuschleusen.
 
 Empfehlung: Wenn dieses Implantat aktiv ist, kann Anneliden-Gewebe, wie man es etwa in Wurmhaufen findet, einen Regenerationseffekt haben. Wenn das Implantat deaktiviert ist, ist allerdings von der Verwendung von Anneliden-Gewebe zu diesem Zweck stark abzuraten."
+
+
 WormHeart:"Zusammenfassung: Wenn dieses Implantat aktiviert wird, ist der Benutzer gegen annelidische Toxine immun und regeneriert einen Trefferpunkt alle 30 Sekunden. Wenn das Implantat deaktiviert oder entfernt wird, wird allerdings eine Menge an Giftstoffen in den Blutstrom des Benutzers abgegeben. Halten Sie Ihre Anti-Toxin-Hypos bereit!
 
 Analyse: Dieses Implantat stellt eine Kombination aus einem Blutfilter und einem regenerativen Stimu- lationsgerät dar, wobei auch Anneliden-Gewebe verwendet wird. Solange das Implantat eingesetzt wird, filtert es alles Anneliden-Gift aus, das auf den Anwender einwirkt und macht es dadurch unschädlich. Weiterhin wird verletztes Gewebe schnell durch einen psycho- kreativen annelidischen Austausch- stoff ersetzt. Allerdings erzeugt dieser Austauschstoff Verfallsprodukte, die selbst toxisch sind (und vom Implantat ausgefiltert werden). Wenn das Implantat deaktiviert wird, strömt ein Großteil der ausgefilterten Giftstoffe ins Blut.
 
 Empfehlung: Dieses Gerät sollte nur kurzzeitig verwendet werden, da beim Entfernen des Implantats sonst Vergiftungsgefahr besteht. Allerdings können seine regenerativen und giftfilternden Fähigkeiten in einer Gefahrensituation von unschätzbarem Wert sein."
+
+
 WormMind:"Zusammenfassung: Wenn der Anwender dieses Implantats verletzt wird, wird jeweils einer von vier Schadenspunkten von den Psi-Punkten statt den Treffer-Punkten abgezogen.
 
 Analyse: Dieses Implantat verändert die neuralen Prozesse des Anwenders, indem es die für Psionik relevanten Bereiche stimuliert und verstärkt. Darüber hinaus wird dem Großhirn des Anwenders ständig eine gewisse Menge annelidischer Neurotransmitter- Chemikalien zugeführt. Dies führt dazu, dass die latenten psychokre- ativen Fähigkeiten des Anwenders, vor allem im Bereich der Körper- beherrschung, verstärkt werden.
 
 Empfehlung: der Anwender dieses Implantats kann auf psychokreative Weise einen Teil der erlittenen Verletzungen heilen. Langfristige Anwendung kann aber zu einer Hyper-Immunreaktion führen."
+
+
 wrench:"Ein Mehrzweckwerkzeug, das meist in Werkstätten eingesetzt wird. Im Notfall dient es aber auch als Waffe, \"Wenn Sie jemandem mit 22 Pfund Stahl eins überziehen, ist das ein unangenehmes Erlebnis für den Kerl.\" Taz Amanpour, Wartungstechniker, Von Braun. Sie brauchen keinerlei Waffen- fähigkeiten, um den Schraubenschlüssel einzusetzen, aber ihr Talent für Standardwaffen erlaubt Ihnen, die Waffe effektiver zu führen."
 
+
 chip_a:"Dieses Modul enthält einen Chip, der mit einem Override-Programm für einen Quanten-Simulationscomputer beschrieben ist."
+
+
 chip_b:"Dieses Modul enthält einen Chip, der mit einem Override-Programm für einen Linear-Simulationscomputer beschrieben ist."
+
+
 chip_c:"Dieses Modul enthält einen Chip, der mit einem Override-Programm für einen Interpolar-Simulationscomputer beschrieben ist."
+
+
+Logic_Probe:"Dieses nützliche Kleinod wurde von ein paar Bastlern aus der Technik zusammengestöpselt um elektronische Verschluss-Schaltkreise zu überwinden."

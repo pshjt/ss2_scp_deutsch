@@ -1,46 +1,46 @@
-EmailName1:"SHODAN 12.JUL.14\nre: Eliminierung\n"
+EmailName1:"SHODAN 12.JUL.14\nRe: Eliminierung\n"
 EmailPortrait1:"Shodan"
 EmailIcon1:"ShodIcon"
 EmailText1:"Meine Geschöpfe sind außer Kontrolle. Ich verlange, dass sie ausgerottet werden. Ich habe keine andere Wahl, als dieses Raumschiff zu vernichten. Wir können in der Rickenbacker entkommen, aber Du musst erst mein Bewusstsein auf jenes Schiff übertragen. Gehe zur Brücke der Von Braun auf diesem Deck. Du findest eine Zugangskarte zum Kommandozentrum auf dem Operationsdeck. Nimm die Karte und gehe zum Operationsdeck. Aber Vorsicht... die Menschen-Anneliden-Hy- briden werden immer intelligenter... im Gegensatz zu Dir.\n"
 
 
-EmailName4:"SHODAN 12.JUL.14\nre: Shuttles\n"
+EmailName4:"SHODAN 12.JUL.14\nRe: Shuttles\n"
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
 EmailText4:"Vorsicht, Insekt! Die Lage hat sich geändert. Sie ahnen unsere Absichten und laden ihren Nachwuchs in die Shuttles. Doch sie werden meinem Zorn nicht entkommen. Du musst zu den Shuttle-Hallen auf diesem Deck gehen und die Shuttles zerstören. Sie lechzen jetzt nach Deinem Blut.\n"
 
 
-EmailName2:"SHODAN 12.JUL.14\nre: Zweiter Umweg\n"
+EmailName2:"SHODAN 12.JUL.14\nRe: Zweiter Umweg\n"
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
 EmailText2:"Meine Geschöpfe sind Dir wieder einmal einen Schritt voraus. Sie haben den Computer zur Kontrolle des Shuttle-Schutzschilds zerstört. Aber ihre Brillanz ist nur ein eifersüchtiges Abbild meiner eigenen. Suche einen Replikator in der Nähe des Shuttle-Kontrollzentrums. Ich habe die Nano-Formel für einen Koppelresonator dorthin übertragen. Du musst Dich in den Replikator einhacken, damit er das Gerät herstellt. Wenn Du es hast, bringst Du es am Schildgenerator in der Shuttle-Halle an. Das Gerät wird eine permanente Resonanzwelle erzeugen, die in kürzester Zeit die Treibstofftanks des Shuttle zerstört. Du darfst dann aber nicht mehr in der Nähe sein. Ich brauche Dich noch.\n"
 
 
-EmailName8:"DELACROIX 12.JUL.14\nre: Soldat!\n"
+EmailName8:"DELACROIX 12.JUL.14\nRe: Soldat!\n"
 EmailPortrait8:"Delacroix"
 EmailIcon8:"EngIcon"
 EmailText8:"Ich habe Sie gefunden, endlich! Hier spricht Dr. Marie Delacroix. Ich habe wichtige Informationen für Sie, aber ich stecke in Frachthalle A fest. Kommen Sie so schnell wie möglich zu mir!\n"
 
 
-EmailName9:"SHODAN 12.JUL.14\nre: Stop!\n"
+EmailName9:"SHODAN 12.JUL.14\nRe: Stop!\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
 EmailText9:"Geh nicht dorthin, Insekt! Geh sofort zum Verbindungspunkt. Ich dulde keinen Ungehorsam.\n"
 
 
-EmailName6:"SHODAN 12.JUL.14\nre: Verbindungspunkt\n"
+EmailName6:"SHODAN 12.JUL.14\nRe: Verbindungspunkt\n"
 EmailPortrait6:"Shodan"
 EmailIcon6:"ShodIcon"
 EmailText6:"Gut, Du hast ihren Nachwuchs getötet und sie am Entkommen gehindert. Verlasse den Zug jetzt am Verbindungspunkt. Geh dann zur Rickenbacker.\n"
 
 
-EmailName10:"SHODAN 12.JUL.14\nre: Deine kleine Rebellion\n"
+EmailName10:"SHODAN 12.JUL.14\nRe: Deine kleine Rebellion\n"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
 EmailText10:"Hat Deine kleine Rebellion Spaß gemacht? Denke daran, dass SHODAN geben... aber genau so gut wieder nehmen kann!\n"
 
 
-EmailName15:"KORENCHKIN 12.JUL.14\nre: Verhandlung\n"
+EmailName15:"KORENCHKIN 12.JUL.14\nRe: Verhandlung\n"
 EmailPortrait15:"Korench2"
 EmailIcon15:"ComIcon"
 EmailText15:"Unser Wille blockiert euch. Kommt, und trefft euch mit uns auf der Brücke der Von Braun. Wir können uns über unsere Zukunft unterhalten.\n"
@@ -52,97 +52,97 @@ LogIcon32:"ComIcon"
 LogText32:"Inventar für Labor-Lagerraum: Kommandoraum 204\n\nArsen (As) : 2\nBarium (Ba) : 2\nCäsium (Cs) : 2\nHassium (Hs) : 2\nMolybdän (Mo) : 2\nRadium (Ra) : 2\nSelenium (Se) : 2\nTechnetium (Tc) : 3\nTellur (Te) : 1\n\nDiese Inventarliste entspricht UNN-Sicherheitscode Nr. 134882 und muss in allen Lagern mit gefährlichen Chemikalien ausgelegt werden. \"Lager\" sind gemäß UNN-Sicher- heitscode Nr. 195331 alle Gebiete, in denen gefährliche Chemikalien (siehe Sicherheitscode Nr. 093355) in Mengen über 50 g pro Quadratmeter länger als 24 Stunden gelagert werden.\n"
 
 
-LogName11:"NORRIS 6.JUL.14\nre: Zugang Shuttle-Kontr.\n"
+LogName11:"NORRIS 6.JUL.14\nRe: Zugang Shuttle-Kontr.\n"
 LogPortrait11:"Norris"
 LogIcon11:"ComIcon"
 LogText11:"Hier geht der Verfolgungswahn um. Jemand hat die Zugangscodes für die Überwachungsstation im Offiziersquartier geändert. Und jetzt kommen wir nicht an den Schlüssel für die Shuttle-Kontrolle heran. Myers ist wohl der Hauptverdächtige. Der Kerl denkt nur an Verschwörungstheorien und nackte Weiber.\n"
 
 
-LogName12:"MYERS 6.JUL.14\nre: Code geändert\n"
+LogName12:"MYERS 6.JUL.14\nRe: Code geändert\n"
 LogPortrait12:"Wood"
 LogIcon12:"ComIcon"
 LogText12:"Ich habe den Code der Überwachungsstation auf 83273 geändert. Ich traue diesen Typen nicht...\n"
 
 
-LogName4:"NORRIS 07.JUL.14\nre: Ein Traum\n"
+LogName4:"NORRIS 07.JUL.14\nRe: Ein Traum\n"
 LogPortrait4:"Norris"
 LogIcon4:"ComIcon"
 LogText4:"Sie haben den zentralen Aufzug abgeschaltet. Was ist hier los? Letzte Nacht hatte ich einen seltsamen Traum... ich war alleine in meiner Kabine... aber plötzlich war nicht nur ich da, sondern hundert Ichs... tausend Ichs... Seltsamerweise... war das ein schönes Gefühl... ich war Teil eines Ganzen... ich gehörte dazu... hoffentlich träume ich das heute wieder...\n"
 
 
-LogName3:"NORRIS 07.JUL.14\nre: Was ist los?\n"
+LogName3:"NORRIS 07.JUL.14\nRe: Was ist los?\n"
 LogPortrait3:"Norris"
 LogIcon3:"ComIcon"
-LogText3:"Hier stimmt was nicht. Korenchkin hat sich auf Deck 3 verkrochen. Er ruft einen nach dem anderen zu sich. Vogel, Boynton, Swiderek. Und kein einziger kam zurück. Wenn sie mich rufen... weiß ich nicht, was ich tun werde. Und Bronson macht einen Riesenwirbel: 'Sie sind der oberste Flugoffizier... Sie müssen was tun.' das würde ich ja, wenn ich nur wüsste was zum Teufel da gespielt wird.\n"
+LogText3:"Hier stimmt was nicht. Korenchkin hat sich auf Deck 3 verkrochen. Er ruft einen nach dem anderen zu sich. Vogel, Boynton, Swiderek. Und kein einziger kam zurück. Wenn sie mich rufen... weiß ich nicht, was ich tun werde. Und Bronson macht einen Riesenwirbel: \"Sie sind der oberste Flugoffizier... Sie müssen was tun.\"\nDas würde ich ja, wenn ich nur wüsste was zum Teufel da gespielt wird.\n"
 
 
-LogName5:"NORRIS 08.JUL.14\nre: Korenchkin\n"
+LogName5:"NORRIS 08.JUL.14\nRe: Korenchkin\n"
 LogPortrait5:"Norris"
 LogIcon5:"ComIcon"
 LogText5:"Ich habe heute morgen ein E-Mail von Korenchkin erhalten. Er sagte, er käme zu einer Inspektion hoch. Als er ankam, war es... ekelhaft... es war Anatoly... Und er war es doch nicht... aber es war auch schön... und ich gehörte dazu... er sang uns vor... uns allen... Und wir fühlten, dass wir Teil der Masse waren.\n"
 
 
-LogName6:"KORENCHKIN 09.JUL.14\nre: Meine Vollendung\n"
+LogName6:"KORENCHKIN 09.JUL.14\nRe: Meine Vollendung\n"
 LogPortrait6:"Korench2"
 LogIcon6:"ComIcon"
 LogText6:"Die wunderbare Verwandlung ist vorüber, und ich bin Teil der Masse. Ich nehme meine Gedanken auf diesem Gerät auf, um ein historisches Dokument zu hinterlassen. Wir begannen diese Reise auf der Suche nach Gewinn und führen sie auf der Suche nach Gnade fort. Ich glaubte an Geld und TriOptimum, doch jetzt glaube ich an das Glück der Masse. Diego kann man nicht trauen, also muss ich das Schiff für die Masse in Anspruch nehmen. Es wird unser Schiff der Rettung werden und unsere Botschaft und unser Fleisch verbreiten.\n"
 
 
-LogName18:"PREFONTAINE 09.JUL.14\nre: Flug-Psi-Wesen\n"
+LogName18:"PREFONTAINE 09.JUL.14\nRe: Flug-Psi-Wesen\n"
 LogPortrait18:"Prefont"
 LogIcon18:"HydIcon"
 LogText18:"Die Datensammlung verläuft gut. Bevor die Masse mich abholt, werde ich hoffentlich eine große Menge Informationen an alle aussenden, die noch zuhören. Die großen, schwebenden Kreaturen können nicht nur starke PSI-Projektionen ausstrahlen, sondern sind selbst PSI-Projektionen. Wenn man sie vernichtet, werden sie nur zeitweilig zerstört. Die wahre Quelle ihrer Macht stammt von einem kleinen Kontrollorganismus, der sich meist in der Nähe befindet. Obwohl dieser Kontrollorganismus durch seine Projektionen sehr stark ist, ist er sehr verwundbar, sobald man ihn selbst gefunden hat.\n"
 
 
-LogName19:"NORRIS 09.JUL.14\nre: Würmer und Waffen\n"
+LogName19:"NORRIS 09.JUL.14\nRe: Würmer und Waffen\n"
 LogPortrait19:"Norris"
 LogIcon19:"ComIcon"
 LogText19:"Ein Wurm ist meinen Arm hochgeklettert und hat sich auf meinem Hals ausgeruht. Als er mir etwas ins Ohr flüsterte, kitzelte das... Er sagte mir, wie man eine Waffe bauen und gegen unsere Feinde einsetzen kann. Und das Tolle ist... sie besteht aus Würmern... sie feuert sogar Würmer ab... aber sie brennt unglaublich.\n"
 
 
-LogName13:"DELACROIX 11.JUL.14\nre: SHODAN\n"
+LogName13:"DELACROIX 11.JUL.14\nRe: SHODAN\n"
 LogPortrait13:"Delacroix"
 LogIcon13:"EngIcon"
 LogText13:"Polito sagt, dass die KI, die ich jetzt für SHODAN halte, eigentlich... <<NACHRICHT UNTERBROCHEN>>\n"
 
 
-LogName17:"SUAREZ 12.JUL.14\nre: Probleme mit Kapsel\n"
+LogName17:"SUAREZ 12.JUL.14\nRe: Probleme mit Kapsel\n"
 LogPortrait17:"Suarez"
 LogIcon17:"RickIcon"
 LogText17:"Die Rettungskapsel wieder funktionsfähig zu bekommen, war schwerer, als wir gedacht hatten. Bec musste wieder hinunter auf die Technik-Ebene! Zum Glück gelang es jemandem, die Aufzüge wieder zu aktivieren. Ich fand die Zugangskarte zur Brücke und schaltete die Zugangsprotokolle auf manuelle Kontrolle um, so dass es jetzt aussieht, als ob wir endlich soweit sind.\n"
 
 
-LogName7:"KORENCHKIN 12.JUL.14\nre: Die Maschinenmutter\n"
+LogName7:"KORENCHKIN 12.JUL.14\nRe: Die Maschinenmutter\n"
 LogPortrait7:"Korench2"
 LogIcon7:"ComIcon"
 LogText7: "Die Maschinenmutter hat Avatare gegen uns ins Feld geschickt. Sie kämpfen, aber sie werden unserer Einigkeit unterlegen. Weiß die Maschinenmutter denn nicht, dass ihre Geschöpfe größer sind als sie? Sie ist kalt und leer, und wir sind warm und voll... sie will nur zerstören... wir umarmen alle... wir nehmen alle auf... jegliches Fleisch wird sich uns anschließen... oder... hinweggefegt werden.\n"
 
 
-LogName1:"KORENCHKIN 12.JUL.14\nre: Das Paar\n"
+LogName1:"KORENCHKIN 12.JUL.14\nRe: Das Paar\n"
 LogPortrait1:"Korench2"
 LogIcon1:"ComIcon"
 LogText1: "Suarez und seine Schlampe wollen fliehen. Ich verstehe das nicht. Man bietet ihnen ein Wunder an, und sie beißen die Hand, die es ihnen anbietet. Die Masse hat ihre Weisheit mitgeteilt... die beiden werden das Schiff nicht verlassen.\n"
 
 
-LogName8:"MCKAY 12.JUL.14\nre: Sie entkommen!\n"
+LogName8:"MCKAY 12.JUL.14\nRe: Sie entkommen!\n"
 LogPortrait8:"McKay"
 LogIcon8:"ComIcon"
 LogText8:"Ich hoffe, Sie leben noch, Ms. Delacroix. Wir könnten hier oben einige Ratschläge gebrauchen. Diese weiblichen Cyborgs laden diese Eier in die Shuttles... ich weiß nicht, was sie vorhaben... aber es sieht aus, als hätten sie Angst... Gerüchteweise soll außer Ihnen noch jemand gegen sie kämpfen... Habe ich noch eine Chance, hier rauszukommen? Ich ruhe mich aus, bis... bis mir irgendetwas einfällt.\n"
 
 
-LogName9:"MCKAY 12.JUL.14\nre: Sand ins Getriebe\n"
+LogName9:"MCKAY 12.JUL.14\nRe: Sand ins Getriebe\n"
 LogPortrait9:"McKay"
 LogIcon9:"ComIcon"
 LogText9:"Ich weiß nicht, was diese verfluchten Würmer mit den Shuttles vorhaben, aber ich würde ihnen gerne etwas Sand ins Getriebe streuen. Wenn ich die Kontrollkammer über der Shuttle-Halle erreiche, könnte ich die Schutzschilde deaktivieren, die die Würmer und ihre Helfer um die Shuttles errichtet haben. Sobald diese aus dem Weg sind, könnte ich diese TriOp-Blechdosen mit einer Pistole durchlöchern. Wenn ich nur dorthin komme, ohne, dass sie mich erwischen. Mein Gott, ich will hier raus...\n"
 
 
-LogName10:"DIEGO 12.JUL.14\nre: Meine Verantwortung\n"
+LogName10:"DIEGO 12.JUL.14\nRe: Meine Verantwortung\n"
 LogPortrait10:"Diego"
 LogIcon10:"RickIcon"
 LogText10:"An: Brasco, General Laurie\nIch bin ein Soldat und ein einfacher Mann. Ich kann nicht erklären, was mit mir oder dieser Mission passiert ist. Ich übernehme die volle Verantwortung. Ich habe mein Schiff, meine Besatzung und meine Ehre gefährdet. Ich kann den Änderungen in mir nicht mehr widerstehen. Der Ruf der Masse ist verführerisch. Sie haben Korenchkin, aber das Schwein ist schwach. Ich bin nicht schwach. Ich kann diesem Geschwür widerstehen... und wenn nicht, werde ich es mit Gewalt entfernen. Gott schütze die UNN.\n"
 
 
-LogName14:"DELACROIX 12.JUL.14\nre: SH$8dD@#NS Pl4n\n"
+LogName14:"DELACROIX 12.JUL.14\nRe: SH$8dD@#NS Pl4n\n"
 LogPortrait14:"Delacroix"
 LogIcon14:"EngIcon"
 LogText14: "Sie haben mich erwischt. Und SHODAN hat mich im Stich gelassen. Das überrascht mich nicht... ich habe ihre Pläne für die überlichtschnellen Antriebe entdeckt... ihr Wille wird nur von ihrer Fantasie übertroffen... wenn sie Zugang zur Brücke erhält <<NACHRICHT UNTERBROCHEN>>\n"

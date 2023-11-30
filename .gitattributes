@@ -1,1 +1,3 @@
-*.str    text working-tree-encoding=cp852
+*.str    text working-tree-encoding=cp850
+/source/ export-ignore
+.gitattributes export-ignore

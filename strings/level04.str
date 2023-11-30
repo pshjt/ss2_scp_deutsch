@@ -1,40 +1,40 @@
-EmailName1:"SHODAN 12.JUL.14\nre: Sim-Comp. reparieren\n"
+EmailName1:"SHODAN 12.JUL.14\nRe: Sim-Comp. reparieren\n"
 EmailPortrait1:"Shodan"
 EmailIcon1:"ShodIcon"
 EmailText1:"Meine Kinder haben drei Simulations-Computer auf diesem Deck übernommen. Sie verwenden deren Leistung, um ein Mutagen zu entwickeln, das das Fleisch Deiner toten Kameraden in hybride Jagdmonster verwandeln wird. Ich werde das nicht zulassen. Du musst irgendwie die Sim-Computer umprogrammieren. Auf Deck 5 musst Du ebenfalls eingreifen. Erledige Deine Aufgaben auf Deine Art, Menschenwesen... aber erledige sie! Ich werde nicht akzeptieren, dass ein Staubfleck wie Du mich enttäuscht.\n"
 
 
-EmailName3:"SHODAN 12.JUL.14\nre: Feinde vernichten\n"
+EmailName3:"SHODAN 12.JUL.14\nRe: Feinde vernichten\n"
 EmailPortrait3:"Shodan"
 EmailIcon3:"ShodIcon"
 EmailText3:"Meine Schöpfung entwickelt sich weiter... ihr vereinigter Geist rebelliert gegen seine Schöpferin. Dieses Ungeziefer ruft Dich... fordert Dich auf, sich ihrer ekelhaften Bioform anzuschließen. Vernichte meine Feinde... und ich werde Dich weiter existieren lassen.\n"
 
 
-EmailName6:"SHODAN 12.JUL.14\nre: Elegante Waffe\n"
+EmailName6:"SHODAN 12.JUL.14\nRe: Elegante Waffe\n"
 EmailPortrait6:"Shodan"
 EmailIcon6:"ShodIcon"
 EmailText6:"Vor Dir liegt die Kristallscherbe. Eine Schöpfung meiner Kinder, und dadurch letztlich meine eigene. Eine elegante, tödliche, präzise Waffe. Lerne, sie zu benutzen. Vielleicht hilft sie Dir, dieses Ungeziefer abzuwehren.\n"
 
 
-EmailName7:"SHODAN 12.JUL.14\nre: Unsere Allianz\n"
+EmailName7:"SHODAN 12.JUL.14\nRe: Unsere Allianz\n"
 EmailPortrait7:"Shodan"
 EmailIcon7:"ShodIcon"
 EmailText7:"Jenseits dieser Tür befindet sich einer der Sim-Computer. Wenn Du ihn umprogrammierst, kann ich dem veralteten Xerxes-Computer mehr Kontrolle über das Schiff entreißen. Sobald ich das Schiff beherrsche, kann ich viele Türen für Dich öffnen. Aber momentan verweigern sie mir den Zugang. Sie verhöhnen meine Herrlichkeit. Wenn Du sie für diese Aufsässigkeit bestrafst, werde ich Dich aus der Dunkelheit leiten.\n"
 
 
-EmailName8:"SHODAN 12.JUL.14\nre: Krebs\n"
+EmailName8:"SHODAN 12.JUL.14\nRe: Krebs\n"
 EmailPortrait8:"Shodan"
 EmailIcon8:"ShodIcon"
 EmailText8:"Du hast für ein derart elendes Wesen recht viel erreicht. \nXerxes ist geschwächt. Ich habe Zugriff auf den Hauptdatenstrang. Ich vereine mich mit dem Schiff. Mein Herrlichkeit breitet sich aus und füllt alle Adern dieses Schiffes. Ich übernehme die Kontrolle. Ich... Nein. Es ist hoffnungslos. Das Krebsgeschwür hat sich auf der ganzen Von Braun ausgebreitet. Sie wuchern in jeder Ecke, jedem Winkel... sie überwältigen... Es gibt keine andere Wahl. Ich habe den Hauptaufzugsschacht aktiviert. Fahre zu Deck 6. Wenn Du ankommst, teile ich Dir meine Wünsche mit.\n"
 
 
-EmailName9:"SHODAN 12.JUL.14\nre: Nicht schlecht\n"
+EmailName9:"SHODAN 12.JUL.14\nRe: Nicht schlecht\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
 EmailText9:"Du hast für ein derart elendes Wesen recht viel erreicht. \nGehe jetzt zum Freizeitdeck. Beeile dich! Ich brenne auf Rache.\n"
 
 
-EmailName10:"SHODAN 12.JUL.14\nre: Gut gemacht\n"
+EmailName10:"SHODAN 12.JUL.14\nRe: Gut gemacht\n"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
 EmailText10:"Ich kann jetzt mein herrliches Wesen auf die Rickenbacker übertragen. Begib Dich zum Reaktorkern auf dem Technik-Deck. Dort kannst Du den Kern auf Überlast fahren, indem Du den Zerstörungscode 94834 eingibst. Danach können wir zur Rickenbacker gehen, die zwei Schiffe trennen und dieses Geschwür eliminieren.\n"
@@ -46,115 +46,115 @@ LogIcon32:"OpsIcon"
 LogText32:"Inventar für Labor-Lagerraum: Operationszentrale-Lagerraum 089\n\nArsen (As) : 2\nBarium (Ba) : 2\nCäsium (Cs) : 2\nKupfer (Cu) : 2\nFermium (Fm) : 1\nHassium (Hs) : 1\nIridium (Ir) : 2\nRadium (Ra) : 1\Natrium (Na) : 2\nYttrium (Y) : 1\n\nDiese Inventarliste entspricht UNN-Sicherheitscode Nr. 134882 und muss in allen Lagern mit gefährlichen Chemikalien ausgelegt werden. \"Lager\" sind gemäß UNN-Sicher- heitscode Nr. 195331 alle Gebiete, in denen gefährliche Chemikalien (siehe Sicherheitscode Nr. 093355) in Mengen über 50 g pro Quadratmeter länger als 24 Stunden gelagert werden.\n"
 
 
-LogName15:"KORENCHKIN 02.MAR.14\nre: Alles alte...\n"
+LogName15:"KORENCHKIN 02.MAR.14\nRe: Alles alte...\n"
 LogPortrait15:"Korench"
 LogIcon15:"ComIcon"
 LogText15:"An: Zhukov, Vladimir\nMiri, bisher lief die Arbeit an den neuen Killer-Cyborgs erstaunlich gut. Ich hoffe, daß wir nie gegen diesen Idioten Diego kämpfen müssen, aber es ist beruhigend zu wissen, dass wir nicht so wehrlos sind, wie die UNN-Sturmtruppen denken. Das einzige Problem sind die modernisierten Laserdegen... die armen Kerle säbeln ihre eignen Körperteile damit ab. Wir versuchen, die Probleme zu lösen, aber dieser... Bürokrat... beobachtet uns. Es ist schade, dass er so von seinem Vater besessen ist... es ist erstaunlich, wie sehr er TriOptimum hasst.\n"
 
 
-LogName18:"SIDDONS 02.JUL.14\nre: Schlimme Vorahnung\n"
+LogName18:"SIDDONS 02.JUL.14\nRe: Schlimme Vorahnung\n"
 LogPortrait18:"Siddons"
 LogIcon18:"OpsIcon"
 LogText18:"An: Suarez, Tommy\nTommy... ich weiß nicht, was hier vorgeht. Seit wir den Befehl erhielten, Deck 3 zu räumen, sind immer wieder Leute verschwunden. Alle sind irgendwie deprimiert, aber keiner scheint darüber reden zu wollen. Das gefällt mir alles nicht. Triff mich auf dem Freizeitdeck um 0900. Ich habe eine Idee... eine Rückversicherung für Dich und mich.\n"
 
 
-LogName19:"SUAREZ 03.JUL.14\nre: Also los!\n"
+LogName19:"SUAREZ 03.JUL.14\nRe: Also los!\n"
 LogPortrait19:"Suarez"
 LogIcon19:"RickIcon"
 LogText19:"An: Siddons, Rebecca\nBec - ich glaube, Deine Rückversicherung kann uns ganz schön in Schwierigkeiten bringen, aber ich vertraue Dir... also los! Ich habe mir die Zugangscodes für die Rettungskapseln auf dem Kommandodeck besorgen können. Wir müssen uns nur in das Notsystem von Xerxes einhacken, an den Cyber-Abwehrknoten vorbeikommen und aufpassen, dass uns Bronsons Wachsoldaten nicht erwischen. Ganz einfach, oder?\n"
 
 
-LogName20:"BAYLISS 06.JUL.14\nre: Was läuft?\n"
+LogName20:"BAYLISS 06.JUL.14\nRe: Was läuft?\n"
 LogPortrait20:"Bayliss"
 LogIcon20:"RickIcon"
 LogText20:"An: Polito, Dr. Janice\nDoc - mir ist das alles nicht geheuer. Ich verstehe nicht, warum Sie mich gebeten haben, die Wiederherstellung der Erinnerungen dieses Soldaten zu sabotieren. Warum wollen Sie nicht, dass er sich erinnert, sich freiwillig gemeldet zu haben? Er hat sich doch freiwillig für die Implantate entschieden, oder? Ihre E-Mails werden immer seltsamer... als ob Sie gar nicht mehr die gleiche Person wären.\n"
 
 
-LogName2:"MALICK 07.JUL.14\nre: Bronson\n"
+LogName2:"MALICK 07.JUL.14\nRe: Bronson\n"
 LogPortrait2:"Malick"
 LogIcon2:"OpsIcon"
 LogText2: "Ich habe mich gestern in zwei der Sim-Computer eingehackt, und ich weiß um alles in der Welt nicht, warum ich es getan habe... ich fühlte... mich von etwas dazu gezwungen... Mein Körper und mein Geist... verändern sich... aber sie wissen, dass ich es war... können es allerdings nicht beweisen... wenn der nächste Sim-Computer ausfällt, wird Bronson mit ihren Soldaten hinter mir her sein... aber ich werde darauf vorbereitet sein... Sie hat Waffen und Hass auf ihrer Seite, aber ich bin einer der Masse.\n"
 
 
-LogName3:"BRONSON 07.JUL.14\nre: Sabotage\n"
+LogName3:"BRONSON 07.JUL.14\nRe: Sabotage\n"
 LogPortrait3:"Bronson"
 LogIcon3:"OpsIcon"
 LogText3:"Irgendetwas übernimmt die Macht auf diesem Schiff. Die Sim-Computer auf diesem Deck werden zu unbekannten Zwecken eingesetzt. Ich weiß, dass das irgendwie mit dem größeren Problem zusammenhängt, und was auch immer passiert ist, seit sie auf Tau Ceti gelandet sind. Meine Männer sehen mich an, als ob ich verrückt wäre, aber ich habe die Verantwortung, das Schiff und seine Besatzung zu schützen. Ich hasse Anatoly, hasse Diego und die finstere Macht, die dieses Schiff vergiftet hat... ich werde weder meinen Posten verlassen, noch meinen Auftrag vernachlässigen.\n"
 
 
-LogName1:"YOUNT 07.JUL.14\nre: Sim-Computer\n"
+LogName1:"YOUNT 07.JUL.14\nRe: Sim-Computer\n"
 LogPortrait1:"Yount"
 LogIcon1:"OpsIcon"
 LogText1:"An: Delacroix, Dr. Marie\nSimulations-Computer 4 fiel schon wieder aus. Sechs von uns schufteten das letzte Mal zwölf Stunden lang, bis er wieder funktionierte... ich sah mir die Logdatei an, und der letzte Online-Benutzer war Malick... er stritt es natürlich ab... ich... ich erzählte es Bronson, und diese paranoide Irre kam mit ihren vierzehn Soldaten und witterte Blut. Aber sie konnte nicht beweisen, dass Malick es getan hatte... verdammt, warum würde jemand einen Sim-Computer sabotieren?\n"
 
 
-LogName16:"MALICK 07.JUL.14\nre: Meine roten Freunde\n"
+LogName16:"MALICK 07.JUL.14\nRe: Meine roten Freunde\n"
 LogPortrait16:"Malick"
 LogIcon16:"OpsIcon"
 LogText16:"Ich habe ein kleines Geheimnis, von dem die Masse nichts weiß. Ich habe im Rahmen meiner Umprogrammierung der Sim-Computer manuelle Kontrollen erstellt und sie drei besonderen Freunden anvertraut. Ich habe sie rot angezogen und ihnen gesagt, sich vor Fremden zu hüten. Ein schlauer Hacker lässt immer ein Hintertürchen offen.\n"
 
 
-LogName11:"BRONSON 07.JUL.14\nre: Med-Arsenal-Code\n"
+LogName11:"BRONSON 07.JUL.14\nRe: Med-Arsenal-Code\n"
 LogPortrait11:"Bronson"
 LogIcon11:"OpsIcon"
 LogText11:"Ich habe den Zugangscode für das zusätzliche Waffenlager im Besatzungsbereich des Medizinischen Decks auf 98383 ändern lassen. Ich will nicht, dass meine Ausrüstung gegen meine Männer eingesetzt wird. Man kann gar nicht vorsichtig genug sein.\n"
 
 
-LogName6:"MALICK 07.JUL.14\nre: Sim-Computer 3\n"
+LogName6:"MALICK 07.JUL.14\nRe: Sim-Computer 3\n"
 LogPortrait6:"Malick"
 LogIcon6:"OpsIcon"
 LogText6:"Mmm... Bronson weiß es... ich werde nicht zulassen, dass sie unsere Arbeit zerstört... mmm... Habe eine kleine Überraschung für sie vorbereitet... Wer auch immer sich Sim-Computer 3 nähert... wird das bereuen... oh ja, bereuen...\n"
 
 
-LogName4:"BRONSON 08.JUL.14\nre: Kriegsrecht\n"
+LogName4:"BRONSON 08.JUL.14\nRe: Kriegsrecht\n"
 LogPortrait4:"Bronson"
 LogIcon4:"OpsIcon"
 LogText4:"An: Die Besatzung der Von Braun\nVon jetzt ab verhänge ich das Kriegsrecht über die Von Braun. Alle wichtigen Untersektoren des Schiffes werden gesperrt und sind nur noch mit Zugangskarte zu betreten. Falls jemand dabei erwischt wird, dass er den Normalbetrieb des Schiffes stört oder die Arbeit der Sicherheitstruppen behindert, wird er auf der Stelle erschossen.\n"
 
 
-LogName7:"BRONSON 08.JUL.14\nre: Jeder macht mit!\n"
+LogName7:"BRONSON 08.JUL.14\nRe: Jeder macht mit!\n"
 LogPortrait7:"Bronson"
 LogIcon7:"OpsIcon"
 LogText7:"An: VB Sicherheit\nIch glaube, dass ihr euch nicht genug für diese Mission einsetzt. Erfüllt eure Pflicht. Die Verräter auf dem Operationsdeck konnten den Sim-Computer immer noch nicht reparieren. Wenn das Problem um 0600 noch nicht behoben ist, führen wir eine bewaffnete Aufklärung durch und garantieren, dass es gelöst wird. Ich habe den Code des Waffenarsenals auf 13433 geändert. Wir treffen uns um 0500. Was auch immer euch im Weg steht - menschlich oder nicht - muss ohne Rücksicht sofort getötet werden.\n"
 
 
-LogName5:"MALICK 08.JUL.14\nre: Adieu\n"
+LogName5:"MALICK 08.JUL.14\nRe: Adieu\n"
 LogPortrait5:"Malick"
 LogIcon5:"OpsIcon"
 LogText5:"Ich habe heute den letzten Sim-Computer ausgeschaltet... ich bin vom Glanz der Masse erfüllt... da kommt Bronson. Ich habe inneren Frieden gefunden... Guten Abend, Bronson. Wollen Sie...\n"
 
 
-LogName8:"DIEGO 07.JUL.14\nre: Hören Sie auf!\n"
+LogName8:"DIEGO 07.JUL.14\nRe: Hören Sie auf!\n"
 LogPortrait8:"Diego"
 LogIcon8:"RickIcon"
 LogText8:"An: Bronson, Melanie\nHör mir zu, du Schlampe. Entweder schickst du deine Spielzeugarmee nach Hause oder es werden echte Kämpfer runterkommen und deine Nachtwächter fertigmachen. Du hast keine Ahnung von unserer Mission und unserem glorreichen Ziel. Wenn du tust, was wir sagen, darfst du vielleicht den Glanz der Masse erblicken. Mach mit oder stirb - so einfach ist das.\n"
 
 
-LogName9:"MORRIS 09.JUL.14\nre: Kristall-Geschenke\n"
+LogName9:"WOOD 09.JUL.14\nRe: Kristall-Geschenke\n"
 LogPortrait9:"Morris"
 LogIcon9:"OpsIcon"
-LogText9:"An: VB Sicherheit\nSie haben mir zwei Geschenke gegeben... ist das nicht toll? Zwei kleine Kristallscherben... sie sind sehr, sehr scharf, und wenn ich zustoße, singen sie... sie wollen, dass es in Sgt. Bronson singt... ich gehe jetzt zu ihr und teile mein Geschenk mit ihr... sie sind zerbrechlich, aber sehr scharf!\n"
+LogText9:"Sie haben mir zwei Geschenke gegeben... ist das nicht toll? Zwei kleine Kristallscherben... sie sind sehr, sehr scharf, und wenn ich zustoße, singen sie... sie wollen, dass es in Sgt. Bronson singt... ich gehe jetzt zu ihr und teile mein Geschenk mit ihr... sie sind zerbrechlich, aber sehr scharf!\n"
 
 
-LogName12:"BRONSON 10.JUL.14\nre: Widerstand\n"
+LogName12:"BRONSON 10.JUL.14\nRe: Widerstand\n"
 LogPortrait12:"Bronson"
 LogIcon12:"OpsIcon"
 LogText12: "Sie haben meine Männer getötet und sie haben mich erwischt. Ich halte meine Gedärme mit beiden Händen im Bauch. Ich bin fast erledigt... leistet Widerstand. Das ist wichtiger als mein kleines Leben. Die Leben meiner Männer, die Leben der Leute, die ich töten musste. Widerstand! Die Menschheit verlangt das! Leistet Widerstand!\n"
 
 
-LogName10:"SIDDONS 11.JUL.14\nre: Bürgerkrieg\n"
+LogName10:"SIDDONS 11.JUL.14\nRe: Bürgerkrieg\n"
 LogPortrait10:"Siddons"
 LogIcon10:"OpsIcon"
 LogText10:"An: Suarez. Tommy\nIch versuche, nach Dir zu suchen, aber ich schaffe es nicht, Tommy. Ich stecke auf dem Operationsdeck fest. Hier findet eine Art Bürgerkrieg statt... Die Sicherheitskräfte kamen und... reg Dich nicht auf, aber ich bin verletzt... aber nicht sehr schlimm. Ich haben einen guten Vorrat an Medikits und anderen Sachen... manches davon könnte wertvoll sein, aber ich bin mir nicht sicher, was es ist, vielleicht ein Militär-Implantat. Ich habe das Zeug, das ich nicht brauchte, in einer Ecke der Daten-Bibliothek zurückgelassen. Ich mache mich jetzt auf den Weg. Ich verspreche Dir, ich werde nicht sterben. Ich werde nicht sterben. Stirb Du mir auch nicht! In Liebe... Becca.\n"
 
 
-LogName13:"DELACROIX 11.JUL.14\nre: Hauptaufzug\n"
+LogName13:"DELACROIX 11.JUL.14\nRe: Hauptaufzug\n"
 LogPortrait13:"Delacroix"
 LogIcon13:"EngIcon"
 LogText13:"Wenn wir die Sim-Computer umprogrammieren und dem Sender auf Deck 5 Strom zuleiten können, kann mein neuer Freund Xerxes aus dem Hauptdatenstrang ausschalten. Sie... es sagt, dass wir dann den Brückenaufzug benutzen und die Kontrolle über das Schiff erringen können.\n"
 
 
-LogName14:"SUAREZ 12.JUL.14\nre: Mach weiter!\n"
+LogName14:"SUAREZ 12.JUL.14\nRe: Mach weiter!\n"
 LogPortrait14:"Suarez"
 LogIcon14:"RickIcon"
 LogText14:"An: Siddons, Rebecca\nMach weiter, Rebecca. Geh weiter. Geh zu den Rettungskapseln auf dem Kommandodeck. Wir können starten, den Toaster so einstellen, dass wir in 30 Jahren aufwachen, und bevor wir uns versehen, sind wir wieder auf der Erde. Ein Toaster für zwei, Baby, da müssen wir hin. Hört sich das gut an? Also los. Bangemachen gilt nicht.\n"

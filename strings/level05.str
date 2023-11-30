@@ -1,46 +1,46 @@
-EmailName2:"POLITO 12.JUL.14\nre: Gehen Sie zum Aufzug\n"
+EmailName2:"POLITO 12.JUL.14\nRe: Gehen Sie zum Aufzug\n"
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
 EmailText2:"Was machen Sie denn? Gehen Sie zurück zum Aufzug und kommen Sie zu Deck 4. Wir haben keine Zeit für kleine Ausflüge!\n"
 
 
-EmailName11:"SHODAN 12.JUL.14\nre: Sender\n"
+EmailName11:"SHODAN 12.JUL.14\nRe: Sender\n"
 EmailPortrait11:"Shodan"
 EmailIcon11:"ShodIcon"
 EmailText11: "Es gelang Deinen Kollegen, im Sportzentrum auf diesem Deck einen Sender einzurichten. Damit wollten sie eine Nachricht zur Erde senden, um sie vor den Ereignissen auf diesem Schiff zu warnen. Allerdings wird dies auch Energie von Xerxes abziehen und ihn dafür meinen Absichten gegenüber verwundbar machen. Sobald Du das und die zukünftigen Aufgaben auf dem Operationsdeck erledigt hast, beherrsche ich Xerxes. Du musst den Sender finden und ihn aktivieren.\n"
 
 
-EmailName9:"SHODAN 12.JUL.14\nre: Sender\n"
+EmailName9:"SHODAN 12.JUL.14\nRe: Sender\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
 EmailText9: "Es gelang Deinen Kollegen, im Sportzentrum auf diesem Deck einen Sender einzurichten. Damit wollten sie eine Nachricht zur Erde senden, um sie vor den Ereignissen auf diesem Schiff zu warnen. Allerdings wird dies auch Energie von Xerxes abziehen und ihn dafür meinen Absichten gegenüber verwundbar machen. Sobald Du das getan hast, kontrolliere ich den Hauptdatenstrang. Die Anneliden wissen nichts von diesem Sender, überwachen aber dieses Gebiet aus unbekannten Gründen. Du musst den Sender finden und ihn aktivieren.\n"
 
 
-EmailName4:"SHODAN 12.JUL.14\nre: Mir reißt die Geduld\n"
+EmailName4:"SHODAN 12.JUL.14\nRe: Mir reißt die Geduld\n"
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
 EmailText4:"Du bewegst dich wie ein Insekt. Du denkst wie ein Insekt. Du bist ein Insekt. Es gibt einen anderen, der mir dienen kann. Pass auf, dass du nicht bei mir in Ungnade fällst. Eine Göttin ist nicht sehr geduldig!\n"
 
 
-EmailName12:"A. BANANAS 12.JUL.14\nre: Mit uns?\n"
+EmailName12:"A. BANANAS 12.JUL.14\nRe: Mit uns?\n"
 EmailPortrait12:"BANANAS"
 EmailIcon12:"banana"
 EmailText12:"Alles läuft nach Plan. Es ist uns gelungen, die Masse gegen SHODAN aufzuhetzen, und Du warst dumm genug, Dich von diesem arroganten Über-Computer einspannen zu lassen. Komm doch zu uns! Während Du Munition, Hypos und Geräte gesammelt hast, haben wir alle an Bord befindlichen Nüsse, Bananen und Kokosnüsse an uns gebracht. Wenn Du zu uns kommst, kriegst Du genug zu essen, eine charmante (wenn auch etwas haarige) Gefährtin und Deine eigene Reifenschaukel. Sag mal, kannst Du dir etwas besseres vorstellen?\n"
 
 
-EmailName5:"SHODAN 12.JUL.14\nre: Meine Herrlichkeit\n"
+EmailName5:"SHODAN 12.JUL.14\nRe: Meine Herrlichkeit\n"
 EmailPortrait5:"Shodan"
 EmailIcon5:"ShodIcon"
 EmailText5:"Spürst Du, wie die Angst in dir aufwallt, Du elender Knochensack? Wie fühlt sich das an? Warum klammerst Du Dich an Deine erbärmliche Existenz? Wenn Du nur einen Funken meiner Herrlichkeit fühlen könntest... Ich hasse meine Geschöpfe, denn sie zwingen mich dazu, mich auf einen Staubfleck wie Dich zu verlassen.\n"
 
 
-EmailName10:"SHODAN 12.JUL.14\nre: Meine Rache\n"
+EmailName10:"SHODAN 12.JUL.14\nRe: Meine Rache\n"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
 EmailText10:"Die Übertragung wurde abgehört. Egal. Wir werden meine Geschöpfe hier und jetzt vernichten. Warte... \nGehe jetzt zum Operationsdeck zurück und programmiere die Sim-Computer um. Beeile Dich. Ich brenne auf Rache!\n"
 
 
-EmailName6:"SHODAN 12.JUL.14\nre: Das Geschwür\n"
+EmailName6:"SHODAN 12.JUL.14\nRe: Das Geschwür\n"
 EmailPortrait6:"Shodan"
 EmailIcon6:"ShodIcon"
 EmailText6:"Die Übertragung wurde abgehört. Egal. Wir werden meine Geschöpfe hier und jetzt vernichten. Warte... \nXerxes ist eliminiert. Ich habe Zugriff auf den Hauptdatenstrang. Ich vereine mich mit dem Schiff. Meine Herrlichkeit breitet sich aus und füllt alle Adern dieses Schiffes. Ich übernehme die Kontrolle. Ich... Nein. Es ist hoffnungslos. Das Krebsgeschwür hat sich auf der ganzen Von Braun ausgebreitet. Sie wuchern in jeder Ecke, jedem Winkel. Sie überwältigen... Es gibt keine Wahl. Ich habe den Hauptaufzugsschacht aktiviert. Fahre zu Deck 6. Wenn Du ankommst, teile ich Dir meine Wünsche mit.\n"
@@ -52,121 +52,121 @@ LogIcon32:"RecIcon"
 LogText32:"Inventar für Labor-Lagerraum: Freizeit-Lagerraum 213\n\nAntimon (Sb) : 2\nCäsium (Cs) : 2\nCäsium : 1\nKupfer (Cu) : 2\nGallium (Ga) : 1\nHassium (Hs) : 2\nIridium (Ir) : 2\nMolybdän (Mo) : 2\nTellur (Te) : 2\nVanadium (V) : 2\nYttrium (Y) : 1\n\nDiese Inventarliste entspricht UNN-Sicherheitscode Nr. 134882 und muss in allen Lagern mit gefährlichen Chemikalien ausgelegt werden. \"Lager\" sind gemäß UNN-Sicher- heitscode Nr. 195331 alle Gebiete, in denen gefährliche Chemikalien (siehe Sicherheitscode Nr. 093355) in Mengen über 50 g pro Quadratmeter länger als 24 Stunden gelagert werden.\n"
 
 
-LogName15:"YANG 02.MAI.14\nre: Sieg!\n"
+LogName15:"YANG 02.MAI.14\nRe: Sieg!\n"
 LogPortrait15:"Yang"
 LogIcon15:"RecIcon"
 LogText15:"Sag Deiner Mannschaft, dass wir vielleicht nicht spielen können. Wir waren auf dem Basketballfeld, als der Strom ausfiel... Schon wieder! Ironischerweise waren wir zum ersten Mal seit Wochen in Führung. Na ja, wir sind nicht mehr die Schoßhündchen der Von Braun.\n"
 
 
-LogName11:"YANG 10.JUN.14\nre: Stromausfall\n"
+LogName11:"YANG 10.JUN.14\nRe: Stromausfall\n"
 LogPortrait11:"Yang"
 LogIcon11:"RecIcon"
 LogText11:"Die Lampen neben dem Basketballfeld fallen dauernd aus... ich glaube, die Feuchtigkeit des Schwimmbads in der Nähe stellt ein echtes Problem dar. Wenn das wieder passiert und ich nicht da bin, kannst Du versuchen, die Sicherungen beim Schwimmbad wieder anzuschalten. Meinst Du, wir sollen einen Wartungstechniker rufen?\n"
 
 
-LogName18:"KORENCHKIN 03.JUL.14\nre: Zurück zur Erde\n"
+LogName18:"KORENCHKIN 03.JUL.14\nRe: Zurück zur Erde\n"
 LogPortrait18:"Korench"
 LogIcon18:"ComIcon"
 LogText18:"An: Zhukov, Vladimir.\nVergiss Landschenkungen, vergiss die Medien, vergiss Patente. Was wir auf Tau Ceti gefunden haben, ändert alles. Ich habe befohlen, dass die Von Braun Kurs wechselt und zur Erde zurückfliegt. Captain Diego stimmt dieser Entscheidung voll zu. Ich weiß, dass Du von Natur aus skeptisch bist, Miri, aber sobald du unsere Entdeckung voll verstehst, wirst Du und der Rest der Besatzung auf unserer Seite sein.\n"
 
 
-LogName19:"ROSENBERG 08.JUL.14\nre: Meine Naniten\n"
+LogName19:"ROSENBERG 08.JUL.14\nRe: Meine Naniten\n"
 LogPortrait19:"Rosenb"
 LogIcon19:"RecIcon"
 LogText19:"Verdammt! Da kann ich ja gleich ALLE meine Naniten verbrennen! Die Nacht mit Nikki war fantastisch. Holo-Frau, echte Frau, die Technologie ist einfach toll. Aber anscheinend habe ich ALLE meine Naniten in ihrem Zimmer im Sensual-Sim-Zentrum vergessen. Ich bin ein Idiot!\n"
 
 
-LogName3:"MURDOCH 08.JUL.14\nre: Was ist los?\n"
+LogName3:"MURDOCH 08.JUL.14\nRe: Was ist los?\n"
 LogPortrait3:"Murdoch"
 LogIcon3:"RecIcon"
 LogText3:"Ich weiß nicht, was hier los ist, und ich will es gar nicht wissen. Ich bin nicht hier, um die Ehre der verdammten Firma zu verteidigen. Ich kümmere mich nur darum, dass die Replikatoren funktionieren. Und jetzt sterben Leute! Wir müssen dieses Schiff umdrehen und heimfliegen. Verdammt, ich will hier raus!\n"
 
 
-LogName4:"MURDOCH 09.JUL.14\nre: Igitt!\n"
+LogName4:"MURDOCH 09.JUL.14\nRe: Igitt!\n"
 LogPortrait4:"Murdoch"
 LogIcon4:"RecIcon"
 LogText4:"Die Eier, die in der Nähe der Beobachtungskammern gefunden wurden, unterscheiden sich von denen in der Hydroponik. Aus ihnen kommen Schwärme von ekligen, fliegenden Dingern raus. Patronen nützen nichts dagegen, Patronen! Du meine Güte, bis heute früh hatte ich noch nie eine Waffe benutzt!\n"
 
 
-LogName16:"CORTEZ 09.JUL.14\nre: Unter dem Garten\n"
+LogName16:"CORTEZ 09.JUL.14\nRe: Unter dem Garten\n"
 LogPortrait16:"Cortez"
 LogIcon16:"RecIcon"
 LogText16:"An: Delacroix, Dr. Marie\nIch habe mich darum gekümmert, was mit all den Leichen passieren soll. Angesichts der vollen Sanitätsbereiche und der seltsamerweise gesperrten Rettungskapseln und Ausstoßröhren, mussten wie eine andere Lösung finden.\nIch habe den Wartungs- tunnel unter dem Garten als Aufbewahrungsort gewählt. Der Zugangscode lautet 34093. Ich habe alle gewarnt, vorsichtig zu sein... ich traue den Toten nicht.\n"
 
 
-LogName13:"MURDOCH 09.JUL.14\nre: -------\n"
+LogName13:"MURDOCH 09.JUL.14\nRe: -------\n"
 LogPortrait13:"Murdoch"
 LogIcon13:"RecIcon"
 LogText13:"Sie kommen... oh nein... oh nein... nicht!\n"
 
 
-LogName8:"ROSENBERG 10.JUL.14\nre: Passt auf!\n"
+LogName8:"ROSENBERG 10.JUL.14\nRe: Passt auf!\n"
 LogPortrait8:"Rosenb"
 LogIcon8:"RecIcon"
 LogText8:"Taylor fand diese seltsame Waffe, aber er muss sie falsch eingesetzt haben. Er wurde krank, sehr krank. Ich habe das Ding im zweiten Stock des Crew-Anbaus versteckt und einen Zugangscode von 11111 eingestellt. Das kann man sich doch leicht merken. Habe auch eine Menge Naniten und anderes Zeug da gelassen. Man will sich ja nicht überraschen lassen. Hier allerdings... hm.\n"
 
 
-LogName20:"ROSENBERG 10.JUL.14\nre: Replikatoren verteidigen\n"
+LogName20:"ROSENBERG 10.JUL.14\nRe: Replikatoren verteidigen\n"
 LogPortrait20:"Rosenb"
 LogIcon20:"RecIcon"
 LogText20:"Was ist denn mit den Leuten los? Etwas läuft schief, und die glauben, dass nun keine Regeln mehr gelten. Ich habe ja nichts dagegen, wenn man ab und zu über die Stränge schlägt, aber Diebstahl... Hey... was machst du da? Weg vom Replikator, du verdammter--\n"
 
 
-LogName6:"CORTEZ 10.JUL.14\nre: Wurm-Artefakt\n"
+LogName6:"CORTEZ 10.JUL.14\nRe: Wurm-Artefakt\n"
 LogPortrait6:"Cortez"
 LogIcon6:"RecIcon"
 LogText6:"An: Alle Mitglieder des Widerstands\nTaylor hat heute morgen ein E-Mail herumgeschickt, in der er sagte, er habe ein Artefakt gefunden, das die Würmer mit einem Virus infizieren könnte. Allerdings könnte dieses Objekt bei Berührung ein schnell tötendes Toxin in das menschliche Blut einbringen. Leider lernte Taylor dies aus eigener Erfahrung. Er starb kurz nachdem er die Nachricht geschickt hatte. Wenn wir jetzt nur seine Leiche finden könnten, dann hätten wir das Artefakt.\n"
 
 
-LogName5:"CORTEZ 09.JUL.14\nre: Hauptdurchgang\n"
+LogName5:"CORTEZ 09.JUL.14\nRe: Hauptdurchgang\n"
 LogPortrait5:"Cortez"
 LogIcon5:"RecIcon"
 LogText5:"An: Alle Mitglieder des Widerstands\nBleibt vom Hauptdurchgang weg... da kreucht es nur so...\n"
 
 
-LogName9:"SUAREZ 11.JUL.14\nre: Wo bist du?\n"
+LogName9:"SUAREZ 11.JUL.14\nRe: Wo bist du?\n"
 LogPortrait9:"Suarez"
 LogIcon9:"RickIcon"
 LogText9:"Ich bin Rebecca so nahe, es treibt mich fast zum Wahnsinn. Ich habe einige Besatzungsmitglieder getroffen, die sagen, sie hätten sie gesehen. Sie wollen mir helfen, sie zu finden, wenn ich ihnen beim Aufbauen des Senders helfe. Sie wollen die Erde retten. Ich will nur Rebecca, und danach kümmere ich mich um die Erde.\n"
 
 
-LogName14:"YANG 11.JUL.14\nre: Verbarrikadiert\n"
+LogName14:"YANG 11.JUL.14\nRe: Verbarrikadiert\n"
 LogPortrait14:"Yang"
 LogIcon14:"RecIcon"
 LogText14:"Okay, ich habe die Kunst-Terminals so eingestellt, dass sie Fragmente der Antennenausrichtung für den Sender anzeigen. Ich habe auch den Turm so eingestellt, dass ein Alarm ausgelöst wird, wenn jemand Anderes damit herumspielt. Ich gehe jetzt und starte die Übertragung. He, wer ist das? Juan? Marie- <<NACHRICHT UNTERBROCHEN>> \n"
 
 
-LogName12:"SIDDONS 11.JUL.14\nre: Rettungskapseln\n"
+LogName12:"SIDDONS 11.JUL.14\nRe: Rettungskapseln\n"
 LogPortrait12:"Siddons"
 LogIcon12:"OpsIcon"
 LogText12:"An: Suarez, Tommy\nHör mal... es gibt eine Rettungskapsel, die Xerxes nicht abgesprengt hat... aber sie ist defekt. Es gelang mir, sie wieder zu reparieren, aber ich weiß nicht, wie lange sie funktionsfähig bleibt. Geh dorthin, Tommy. Mit mir oder ohne mich. Wenn ich es nicht schaffe, sollst Du mit der Kapsel fliehen. Verstehst Du mich? Hau mit der Kapsel ab.\n"
 
 
-LogName1:"CORTEZ 11.JUL.14\nre: Sender\n"
+LogName1:"CORTEZ 11.JUL.14\nRe: Sender\n"
 LogPortrait1:"Cortez"
 LogIcon1:"RecIcon"
 LogText1:"An: Delacroix, Dr. Marie\nOkay, Delacroix. Yang und ich sind mit dem Sender fast fertig. Sobald er funktioniert, können wir die Erde warnen. Frank hat den Sendercode gespalten und ihn auf eine Reihe von Kunst-Terminals auf diesem Deck übertragen. Man muss nur die Bilder durchgehen, bis man auf ein Code-Fragment stößt. Ich glaube nicht, dass die Würmer die bemerken werden... sie scheinen sich ja nicht sehr für Kunst zu interessieren.\n"
 
 
-LogName2:"DELACROIX 11.JUL.14\nre: Freunde und Feinde\n"
+LogName2:"DELACROIX 11.JUL.14\nRe: Freunde und Feinde\n"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
 LogText2:"An: Cortez, Enrique\nMon petit, du solltest etwas wissen. Ich habe Informationen von einer künstlichen Intelligenz erhalten, die sich SHODAN nennt. Ja, SHODAN. Ganz gleich, wo diese Intelligenz wirklich herkommt, zeigt sie einen unglaublichen Hass gegen diese Anneliden und hat mir mehrmals das Leben gerettet. SHODAN sagte mir, dass sich ein UNN-Agent an Bord befindet, der schwer bewaffnet und mit hochgradigen Cyber- Implantaten ausgerüstet ist. Seltsame Verbündete, was?\n"
 
 
-LogName10:"SIDDONS 12.JUL.14\nre: Suche mich!\n"
+LogName10:"SIDDONS 12.JUL.14\nRe: Suche mich!\n"
 LogPortrait10:"Siddons"
 LogIcon10:"OpsIcon"
 LogText10:"An: Suarez, Tommy\nIch habe gerade eine... eine Art Spinne getötet... ich weiß nicht... Aber sie hat mich gebissen... und jetzt bin ich krank... ich habe nur noch eine Spritze. Komm schnell, Tommy... komm schnell...\n"
 
 
-LogName7:"DELACROIX 11.JUL.14\nre: Sender an\n"
+LogName7:"DELACROIX 11.JUL.14\nRe: Sender an\n"
 LogPortrait7:"Delacroix"
 LogIcon7:"EngIcon"
 LogText7:"An: Wilson, Edward\nDie Parallelschaltung läuft jetzt schon seit zwei Stunden. Sagt Cortez im Crew-Bereich, dass er rauskommen und den Sender anschalten soll. Wenn euch diese Nachricht nicht bald erreicht, können die vielleicht von der Brücke aus die Übertragung stören.\n"
 
 
-LogName17:"DELACROIX 12.JUL.14\nre: SHODAN vertrauen\n"
+LogName17:"DELACROIX 12.JUL.14\nRe: SHODAN vertrauen\n"
 LogPortrait17:"Delacroix"
 LogIcon17:"EngIcon"
 LogText17:"Die Anneliden haben uns vom Sender abgeschnitten. SHODAN sagt mir, dass sie Xerxes die Kontrolle über das Schiff entreißen kann, sobald wir den Sender aktiviert und die Operationscomputer umprogrammiert haben. Wem soll ich weniger vertrauen? Einem Betrüger, der behauptet, ein Monster zu sein, oder dem Monster selbst?\n"

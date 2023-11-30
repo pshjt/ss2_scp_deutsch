@@ -1,106 +1,106 @@
-EmailName15:"POLITO 12.JUL.14\nre: Schäden am Schiff\n"
+EmailName15:"POLITO 12.JUL.14\nRe: Schäden am Schiff\n"
 EmailPortrait15:"Polito"
 EmailIcon15:"OpsIcon"
 EmailText15:"Vorsicht! Ich erhalte seltsame Signale von der Radarschüssel vor dem Fenster. Sie ist instabil geworden, weil...Schnell! In Deckung!\n"
 
 
-EmailName1:"POLITO 12.JUL.14\nre: Druckverlust\n"
+EmailName1:"POLITO 12.JUL.14\nRe: Druckverlust\n"
 EmailPortrait1:"Polito"
 EmailIcon1:"OpsIcon"
 EmailText1:"Der gesamte Sektor verliert Druck und das blaue Vakuumschild hält nicht mehr lange durch! Sie müssen durch eine sichere Luftschleuse, bevor Sie in den Raum hinausgesaugt werden! Schnell!\n"
 
 
-EmailName2:"POLITO 12.JUL.14\nre: Zugangscodes\n"
+EmailName2:"POLITO 12.JUL.14\nRe: Zugangscodes\n"
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
 EmailText2:"Manche dieser Türen sind durch Zahlenschlösser gesichert. Die Leiche des Wartungstechnikers vor Ihnen hat wahrscheinlich Hinweise auf den Code. Scheuen Sie sich nicht, sie zu durchsuchen... Es macht ihr nichts mehr aus.\n"
 
 
-EmailName9:"POLITO 12.JUL.14\nre: Leere Batterie\n"
+EmailName9:"POLITO 12.JUL.14\nRe: Leere Batterie\n"
 EmailPortrait9:"Polito"
 EmailIcon9:"OpsIcon"
 EmailText9:"Diese Batterie ist leer. In der Nähe müsste sich eine Ladestation befinden. Wenn Sie sie aktivieren, werden alle Ihre elektrischen Geräte aufgeladen. Nachdem die Batterie wieder geladen ist, müssen Sie sie in das Hilfsenergiemodul stecken. Dann öffnet sich die Schleusentür. Beeilung, die Vakuumabschottungen halten nicht mehr lange.\n"
 
 
-EmailName21:"POLITO 12.JUL.14\nre: Upgrade-Einheiten\n"
+EmailName21:"POLITO 12.JUL.14\nRe: Upgrade-Einheiten\n"
 EmailPortrait21:"Polito"
 EmailIcon21:"OpsIcon"
 EmailText21:"Gut. Sie haben es geschafft, bevor die Luft aus dem ganzen Bereich entwichen war. Ich habe Ihnen gerade Cyber-Module übermittelt. Sie können damit Ihr Cyber-Interface an den Upgrade-Einheiten in diesem Bereich aufrüsten. Es gibt vier Arten von Einheiten im nächsten Raum, eine für jedes Cyber-Subsystem: Statistik, Psi, Waffen und Technik. Aber setzen Sie die Module überlegt ein, sie sind schwer aufzutreiben.\n"
 
 
-EmailName13:"POLITO 12.JUL.14\nre: Cyber-Upgrade-Einheiten\n"
+EmailName13:"POLITO 12.JUL.14\nRe: Cyber-Upgrade-Einheiten\n"
 EmailPortrait13:"Polito"
 EmailIcon13:"OpsIcon"
 EmailText13:"Diese Cyber-Module verstärken individuelle Subsysteme Ihrer neuralen Implantate. Es gibt vier spezielle Typen von Upgrades, also sollten Sie nicht alle Cyber-Module auf einen verwenden, es sei denn, Sie sind sich sicher, dass Sie Ihre Hardware in diesem Bereich konzentrieren wollen.\n"
 
 
-EmailName3:"POLITO 12.JUL.14\nre: Aufzüge reparieren\n"
+EmailName3:"POLITO 12.JUL.14\nRe: Aufzüge reparieren\n"
 EmailPortrait3:"Polito"
 EmailIcon3:"OpsIcon"
 EmailText3:"Xerxes, dieser verdammte Computer, hat den Aufzug ebenfalls ausgeschaltet, aber Sie können beim Reaktorkern auf Deck 1 Strom umleiten und damit den Aufzug aktivieren. Allerdings können Sie ja nicht mit dem Aufzug hinunter... Moment... es gibt einen Wartungsschacht von diesem Korridor aus. Damit können Sie zu Deck 1 vordringen. Allerdings ist er versperrt, und Xerxes verbirgt den Code. Dr. Watts müsste den Code dafür haben. Er ist wahrscheinlich im Crew-Bereich. Grassi hat die Zugangskarte dafür, aber er ist im Medizinbereich, vermutlich in der Nähe des Biopsie-Labors. Gehen Sie in den Medizinbereich und finden Sie Grassi!\n"
 
 
-EmailName17:"POLITO 12.JUL.14\nre: Tür aktivieren\n"
+EmailName17:"POLITO 12.JUL.14\nRe: Tür aktivieren\n"
 EmailPortrait17:"Polito"
 EmailIcon17:"OpsIcon"
 EmailText17:"Verdammt. Der Stromausfall hat den Zugang zu diesem Schott gesperrt. Das ist der einzige Weg in den Medizinbereich. Heben Sie die Batterie auf und suchen Sie eine Ladestation. Die Station, die Sie vorhin benutzt haben, ist jetzt im Vakuum, aber auf diesem Deck müsste sich eine weitere befinden. Sobald die Batterie aufgeladen ist, stecken Sie sie in das Hilfsenergiemodul.\n"
 
 
-EmailName19:"POLITO 12.JUL.14\nre: Bio-Rekonstruktion\n"
+EmailName19:"POLITO 12.JUL.14\nRe: Bio-Rekonstruktion\n"
 EmailPortrait19:"Polito"
 EmailIcon19:"OpsIcon"
 EmailText19:"Auf den meisten Decks finden Sie ein Quanten-Bio-Rekonstruktionsgerät. Xerxes hat sie alle deaktiviert, aber ich habe sie heimlich wieder angeschaltet. Sie müssen allerdings jedes Gerät einzeln bedienen, um eine Quanten-Rückhalteprobe zu liefern. Danach kann das Gerät Ihren Körper quasi aus dem Nichts rekonstruieren. Das ist nicht angenehm, aber der langsamen Verwesung vorzuziehen.\n"
 
 
-EmailName10:"POLITO 12.JUL.14\nre: Überwachungssystem\n"
+EmailName10:"POLITO 12.JUL.14\nRe: Überwachungssystem\n"
 EmailPortrait10:"Polito"
 EmailIcon10:"OpsIcon"
 EmailText10:"Xerxes kontrolliert das Überwachungssystem des Schiffs. Umgehen oder zerstören Sie alle Kameras, die Sie sehen. Sie können sich auch in Überwachungscomputer einhacken, um die Kameras abzuschalten, wenn Sie das schaffen. Aber machen Sie es richtig, sonst lösen Sie selbst den Alarm aus. Ihre Leiche nützt mir nichts.\n"
 
 
-EmailName22:"POLITO 12.JUL.14\nre: Chemikalienlager\n"
+EmailName22:"POLITO 12.JUL.14\nRe: Chemikalienlager\n"
 EmailPortrait22:"Polito"
 EmailIcon22:"OpsIcon"
 EmailText22:"Jedes Deck hat ein Chemikalienlager, wo Sie die Rohstoffe finden, die Sie bei der Erforschung der Artefakte benötigen werden. Versuchen Sie nicht, alle Chemikalien gleichzeitig mit sich herumzutragen. Das wäre unpraktisch und unnötig. Ihre Forschungs-Software wird Ihnen sagen, welche Chemikalien sie wann brauchen.\n"
 
 
-EmailName4:"POLITO 12.JUL.14\nre: Watts Zugangskarte\n"
+EmailName4:"POLITO 12.JUL.14\nRe: Watts Zugangskarte\n"
 EmailPortrait4:"Polito"
 EmailIcon4:"OpsIcon"
 EmailText4:"Gut, Sie sind im Sanitätsbereich. Finden Sie jetzt Grassi und besorgen Sie sich die Zugangskarte für den Besatzungsbereich. Er hat Ihren Kryoschlaf überwacht und will sich Ihnen vielleicht anschließen... falls er nicht schon abgeschlachtet wurde.\n"
 
 
-EmailName7:"POLITO 12.JUL.14\nre: Forschungs-Karte\n"
+EmailName7:"POLITO 12.JUL.14\nRe: Forschungs-Karte\n"
 EmailPortrait7:"Polito"
 EmailIcon7:"OpsIcon"
 EmailText7:"Gut, Sie sind jetzt im Crew-Bereich. Suchen Sie jetzt Dr. Watts Büro.\n"
 
 
-EmailName20:"POLITO 12.JUL.14\nre: Geister\n"
+EmailName20:"POLITO 12.JUL.14\nRe: Geister\n"
 EmailPortrait20:"Polito"
 EmailIcon20:"OpsIcon"
 EmailText20:"Sie werden vielleicht einige seltsame Phänomene erleben. Ihr Interface der Klasse R hat experimen- telle Wahrnehmungs- verstärker, die theoretisch psychische Rest- Emanationen entdecken können. Diese Emanationen stammen meist von kürzlich Verstorbenen. Im Volksmund würde man das als Geister bezeichnen. Ich würde das selbsthyp- notische Defekte in den Einheiten der Klasse R nennen. Lassen Sie sich dadurch nicht von Ihrem Auftrag abhalten.\n"
 
 
-EmailName5:"POLITO 12.JUL.14\nre: Hack von Replikatoren\n"
+EmailName5:"POLITO 12.JUL.14\nRe: Hack von Replikatoren\n"
 EmailPortrait5:"Polito"
 EmailIcon5:"OpsIcon"
 EmailText5:"Sie können sich in diesen Replikator einhacken, um illegale Materialien zu kriegen. Verwenden Sie diese, und was immer Sie noch finden können, um zu Deck 4 zu gelangen. Das ist kein Spiel!\n"
 
 
-EmailName18:"POLITO 12.JUL.14\nre: re: Forschungs-Karte\n"
+EmailName18:"POLITO 12.JUL.14\nRe: Re: Forschungs-Karte\n"
 EmailPortrait18:"Polito"
 EmailIcon18:"OpsIcon"
 EmailText18:"Watts ist nicht hier, also ist er wohl in seinem Büro im Forschungsbereich. Vielleicht hat er hier irgendwo noch eine Forschungs-Zugangskarte. Sehen Sie sich einmal um.\n"
 
 
-EmailName14:"POLITO 12.JUL.14\nre: Finden Sie Dr. Watts\n"
+EmailName14:"POLITO 12.JUL.14\nRe: Finden Sie Dr. Watts\n"
 EmailPortrait14:"Polito"
 EmailIcon14:"OpsIcon"
 EmailText14:"Dr. Watts lebt und ist in seinem Büro. Er müsste den Code für den Wartungsschacht kennen. Schnell... er ist schwer verwundet. Lassen Sie ihn nicht sterben, bevor er Ihnen die Nummer mitgeteilt hat.\n"
 
 
-EmailName6:"POLITO 12.JUL.14\nre: Zugang zu Deck 1\n"
+EmailName6:"POLITO 12.JUL.14\nRe: Zugang zu Deck 1\n"
 EmailPortrait6:"Polito"
 EmailIcon6:"OpsIcon"
 EmailText6:"Keine Zeit für Selbstbeweihräucherung! Gehen Sie durch den Schacht zur Technik-Ebene und stellen Sie den Primär-Reaktorkern um. Dadurch erhält der Aufzug wieder Strom, und Sie können zu Deck 4 hochfahren. Machen Sie schon!\n"
@@ -112,127 +112,127 @@ LogIcon32:"MedIcon"
 LogText32:"Inventar für Labor-Lagerraum: Med./Wissen. Lagerraum 143\n\nAntimon (Sb) : 2\nBarium (Ba) : 1\nCalifornium (Cf) : 2\nFermium (Fm) : 2\nGallium (Ga) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnetium (Tc) : 1\nTellur (Te) : 2\nYttrium (Y) : 2\n\nDiese Inventarliste entspricht UNN-Sicherheitscode Nr. 134882 und muss in allen Lagern mit gefährlichen Chemikalien ausgelegt werden. \"Lager\" sind gemäß UNN-Sicher- heitscode Nr. 195331 alle Gebiete, in denen gefährliche Chemikalien (siehe Sicherheitscode Nr. 093355) in Mengen über 50 g pro Quadratmeter länger als 24 Stunden gelagert werden.\n"
 
 
-LogName18:"DIEGO 17.MAR.14\nre: Klarstellung\n"
+LogName18:"DIEGO 17.MAR.14\nRe: Klarstellung\n"
 LogPortrait18:"Diego"
 LogIcon18:"RickIcon"
 LogText18:"An: Korenchkin, Anatoly\nAnatoly, ich spiele bei diesen Intrigen nur bis zu einem gewissen Punkt mit, dann reicht's mir. Reden wir mal Klartext: Wir können uns gegenseitig nicht ausstehen. Wir haben bei dieser Mission jeweils unsere eigenen Ziele. Also, hier ist eine Warnung: Ich lasse mich nicht ausmanövrieren, betrügen, manipulieren oder bestechen. Gehen Sie ehrlich mit mir um und sparen Sie sich Ihre Tricks für die nächste Aufsichtsratssitzung. Nur weil mein Vater ein Gauner war, bin ich noch lange keiner.\n"
 
 
-LogName21:"DELACROIX 04.APR.14\nre: Xerxes\n"
+LogName21:"DELACROIX 04.APR.14\nRe: Xerxes\n"
 LogPortrait21:"Delacroix"
 LogIcon21:"EngIcon"
 LogText21:"Warum hört keiner auf mich? Die Sicherheitsprotokolle im Xerxes-System sind eindeutig unausgereift. Irgendein Idiot hackte sich gestern Abend in den Hauptdatenstrang und ließ Xerxes drei Stunden lang Lieder von Elvis Presley singen. Ich musste schließlich das Stimmsystem deaktivieren. Was wäre, wenn jemand mit üblen Absichten das machen würde?\n"
 
 
-LogName22:"GRASSI 12.MAY.14\nre: Verdammte Affen\n"
+LogName22:"GRASSI 12.MAY.14\nRe: Verdammte Affen\n"
 LogPortrait22:"Grassi"
 LogIcon22:"MedIcon"
 LogText22:"Wer hatte denn die Schnapsidee, 150 Affen an Bord zu bringen? Geschah das vielleicht aus wissenschaftlichem Interesse? Wie steht es dann mit Interesse an der Hygiene? Hat jemand eine Ahnung, was 150 Laboraffen in dieser Hinsicht täglich produzieren? Die armen Affen... sie kommen an Bord, sind Teil des größten Raumflugs der Geschichte, und dann werden sie im Namen des Fortschritts in kleine Stücke zerhackt.\n"
 
 
-LogName6:"KORENCHKIN 14.JUN.14\nre: Erstkontakt\n"
+LogName6:"KORENCHKIN 14.JUN.14\nRe: Erstkontakt\n"
 LogPortrait6:"Korench"
 LogIcon6:"ComIcon"
 LogText6:"An: Zhukov, Vladimir\nWir haben ein Funksignal von der Oberfläche von Tau Ceti 5 empfangen. Ich verhandelte mit Captain Diego von der Rickenbacker, und nach einigen... zwingenden Argumenten stimmte er zu, zusammen auf dem Planeten zu landen. Stell dir vor, diese geschichtsträchtige Mission kann also noch historischer werden. Erstkontakt! Und wer wird die Exklusivrechte für alle Medien, Patente und Landschenkungen erhalten? TriOptimum. Miri, ich habe Dir ja gesagt, das würde sich lohnen.\n"
 
 
-LogName19:"SUAREZ 20.JUN.14\nre: 100% Folter\n"
+LogName19:"SUAREZ 20.JUN.14\nRe: 100% Folter\n"
 LogPortrait19:"Suarez"
 LogIcon19:"RickIcon"
 LogText19:"Toll... Du bist fantastisch, weißt Du das? Ich habe die ganze Zeit versucht, nicht an Dich zu denken. Was für ein Idiot ich war! Ich liebe Dich, Rebecca. Und jetzt habe ich einen Plan. Ich habe mich beim Kapitän eingeschmeichelt, damit er mich von der Rickenbacker zum Liaisons-Team auf der Von Braun versetzt. Bald wird uns nichts mehr trennen können.\n"
 
 
-LogName1:"GRASSI 20.JUN.14\nre: Der spinnt\n"
+LogName1:"GRASSI 20.JUN.14\nRe: Der spinnt\n"
 LogPortrait1:"Grassi"
 LogIcon1:"MedIcon"
 LogText1:"Ich sollte gegen 0430 beim Ausladen des Shuttles helfen, das von Tau Ceti zurückgekommen war. Korenchkin war allein dort. Meine Güte, was ist denn mit dem passiert? Ihm sind fast alle Haare ausgefallen, und er hat Beulen am Hals. Und der Gestank! Ich sagte, er müsste zur Dr. Watts gehen, aber er meinte, ich solle mich um meinen eigenen Dreck scheren. Bitteschön, ist mir auch recht.\n"
 
 
-LogName12:"POLITO 25.JUN.14\nre: Seltsame KI\n"
+LogName12:"POLITO 25.JUN.14\nRe: Seltsame KI\n"
 LogPortrait12:"Polito"
 LogIcon12:"OpsIcon"
 LogText12:"An: Delacroix, Marie\nMarie... Tut mir leid, dass ich mich nicht gemeldet habe, aber ich habe an dem Artefakt gearbeitet, das Bayliss von Tau Ceti 5 zurückgebracht hat. Ich habe eine Analyse der 3. Ebene durchgeführt... ich glaube, es handelt sich um eine Art künstliche Intelligenz. Ich habe in ihrem Speicher eine Audiodatei gefunden... hör Dir das mal selbst an... Marie... ich glaube, das Ding spricht Deutsch.\n"
 
 
-LogName23:"GRASSI 26.JUN.14\nre: Tierprotest?\n"
+LogName23:"GRASSI 26.JUN.14\nRe: Tierprotest?\n"
 LogPortrait23:"Grassi"
 LogIcon23:"MedIcon"
 LogText23:"Seitdem wir Tau Ceti erreicht haben, benehmen sich die Laboraffen seltsam, Schwester Loesser nahm einen aus dem Käfig, da er für eine Vivisektion gebraucht wurde, und die anderen, ich meine die gesamte Gruppe, standen auf ihren Hinterbeinen und heulten. Das war kein Zufall, das war... ein Protest.\n"
 
 
-LogName24:"WATTS 30.JUN.14\nre: Unsinn\n"
+LogName24:"WATTS 30.JUN.14\nRe: Unsinn\n"
 LogPortrait24:"Watts"
 LogIcon24:"MedIcon"
 LogText24:"An: Loesser, Angela\nAngela, es mag zwar so aussehen, als ob die Laboraffen miteinander kommunizieren, aber ich versichere Ihnen, das ist unmöglich. Sie behaupten, dass ein Affe per Handzeichen einem anderen den Code für einen Vorratsraum mitteilte, und dass jener Affe ihn dann öffnete. Wie Sie sicherlich wissen, wurden Zehntausende von Studien betreffs der Intelligenz von Primaten durchgeführt, und es gibt nicht den geringsten Hinweis darauf, dass diese ein auch nur annähernd so komplexes Verhalten an den Tag legen. Also haben Sie entweder ganz alleine bewiesen, dass alle Verhaltensforscher sich geirrt haben, oder Sie brauchen ganz dringend Urlaub.\n"
 
 
-LogName9:"WATTS 01.JUL.14\nre: Patient Watson\n"
+LogName9:"WATTS 01.JUL.14\nRe: Patient Watson\n"
 LogPortrait9:"Watts"
 LogIcon9:"MedIcon"
 LogText9:"Seit seiner Rückkehr von der Oberfläche von Tau Ceti 5 zeigte der Patient zahlreiche ungewöhnliche Symptome, darunter knotige Entzündungen und das Vorhandensein eines großen, wurmartigen Parasiten. Heute morgen bohrte sich der Parasit durch die Brust des Patienten...von innen... und hakte ein Ende an die Stirn des Patienten. Wenn ich ihn entferne, könnte das den Patienten umbringen. Wenn ich ihn nicht entferne... Diagnose: keine Ahnung. Ich würde das gerne an Madorsky vom CDC weiterleiten, aber leider ist er 67 Billionen Meilen weit weg.\n"
 
 
-LogName15:"CURTIZ 02.JUL.14\nre: Strahlungs-Serum\n"
+LogName15:"CURTIZ 02.JUL.14\nRe: Strahlungs-Serum\n"
 LogPortrait15:"Curtiz"
 LogIcon15:"EngIcon"
 LogText15:"Die Sanitätsabteilung hat eine Menge Spritzen mit Strahlungs-Serum bereitgestellt. Ich werde sie abholen und an die Techniker verteilen, bis jemand eine bessere Idee hat. Watts hat mich gebeten, den Replikator im Aufenthaltsraum zu überprüfen...er sagt, der sei ein gefundenes Fressen für einen Hacker.\n"
 
 
-LogName4:"CURTIZ 06.JUL.14\nre: Kühlmittel läuft aus\n"
+LogName4:"CURTIZ 06.JUL.14\nRe: Kühlmittel läuft aus\n"
 LogPortrait4:"Curtiz"
 LogIcon4:"EngIcon"
 LogText4:"An: Delacroix, Dr. Marie\nMarie, ich muss das Technik-Deck zur Sperrzone erklären, bis wir herausgefunden haben, was da unten zu unternehmen ist. Zu viel Strahlung! Ich weiß nicht, wohin die Schutzanzüge alle verschwunden sind, deshalb muss ich einen Haufen Spritzen mit Strahlungs-Serum mitnehmen. Von dem verdammten Zeug kriege ich immer Kopfschmerzen.\n"
 
 
-LogName7:"GRASSI 07.JUL.14\nre: Implantate\n"
+LogName7:"GRASSI 07.JUL.14\nRe: Implantate\n"
 LogPortrait7:"Grassi"
 LogIcon7:"MedIcon"
 LogText7:"An: Polito, Dr. Janice\nHey, Doc... ein Überwachungs-Roboter kam gerade vorbei. Er hatte Befehle von Ihnen, diesen Soldaten in die Erholungs-Kältekammer zu stecken. Ich bin kein Cyberarzt, aber ich erkenne Implantate. Sie wissen doch, dass diese Cyber-Dinger der Klasse R nach dem Fiasko auf der Station Citadel verboten wurden... aber, hey, ich arbeite ja bloß hier, oder?\n"
 
 
-LogName20:"AMANPOUR 07.JUL.14\nre: Neuer Code\n"
+LogName20:"AMANPOUR 07.JUL.14\nRe: Neuer Code\n"
 LogPortrait20:"Amanpour"
 LogIcon20:"MedIcon"
 LogText20:"Verdammt. Ich muss schon wieder den Zugangscode für Kryo-A ändern. Als ob ich nichts Besseres zu tun hätte! Ich glaube Grassi macht es Spaß, mir Arbeit aufzuhalsen. Ich stelle den neuen Code auf 45100 ein. Das ist leicht zu merken.\n"
 
 
-LogName10:"WATTS 07.JUL.14\nre: Patient Watson/ 2\n"
+LogName10:"WATTS 07.JUL.14\nRe: Patient Watson/ 2\n"
 LogPortrait10:"Watts"
 LogIcon10:"MedIcon"
 LogText10:"Patient Watson starb um 0240 aus unbekannten Gründen. Obwohl Atmung und Hirnfunktion ausgesetzt haben, zeigt der Körper, und ebenso der Parasit, noch autonome Bewegungsfunktionen. Um 0847 sprach der Patient sogar noch mit einer Krankenschwester. Die Autopsie soll um 1630 stattfinden, und dann werden wir wissen, was in diesem Lazarus steckt...\n"
 
 
-LogName5:"CURTIZ 07.JUL.14\nre: Weitere Probleme\n"
+LogName5:"CURTIZ 07.JUL.14\nRe: Weitere Probleme\n"
 LogPortrait5:"Curtiz"
 LogIcon5:"EngIcon"
 LogText5:"Ich kann Delacroix nicht erreichen... alles fällt hier auseinander... Mitglieder meines Teams verschwinden einfach. Die Lecks in den Abluftschächten haben einen Kurzschluss im Hauptzugangskanal erzeugt... und das bedeutet, dass wir Notstrom verwenden müssen, bis wir das repariert haben. Das heißt auch, dass ALLE Aufzüge außer Betrieb sind...Marie, wo zum Teufel steckst du?\n"
 
 
-LogName8:"CURTIZ 08.JUL.14\nre: Lifte defekt\n"
+LogName8:"CURTIZ 08.JUL.14\nRe: Lifte defekt\n"
 LogPortrait8:"Curtiz"
 LogIcon8:"EngIcon"
 LogText8:"Ich kriege keinen Kontakt mit den Leuten auf dem Technik-Deck. Da die Aufzüge defekt sind, muss ich durch den Notschacht im Wissenschaftsbereich runter. Ich glaube, der Zugangscode befindet sich im Labor von Watts.\n"
 
 
-LogName14:"WATTS 07.JUL.14\nre: Wartungsschacht\n"
+LogName14:"WATTS 07.JUL.14\nRe: Wartungsschacht\n"
 LogPortrait14:"Watts"
 LogIcon14:"MedIcon"
 LogText14:"An: Curtiz, Juan\nSchon gut, reg Dich ab. Der Zugangscode zum Schacht ist 12451. Ich habe eine Autopsie um 1630, aber danach können wir auf dem Freizeitdeck ein Bier trinken. Hast Du Lust darauf?\n"
 
 
-LogName16:"TURNBULL 07.JUL.14\nre: Methoden\n"
+LogName16:"TURNBULL 07.JUL.14\nRe: Methoden\n"
 LogPortrait16:"Turnbull"
 LogIcon16:"OpsIcon"
 LogText16:"Verdammt, diese Bronson und ihre blöden Methoden. Sie hat schon wieder den Code für das Waffenlager im Medizinbereich 2 geändert. Jetzt muss ich zurück auf Deck 4 und den Code herausfinden... die sollte jemand mal fertigmachen.\n"
 
 
-LogName11:"WATTS 07.JUL.14\nre: Autopsie von Watson\n"
+LogName11:"WATTS 07.JUL.14\nRe: Autopsie von Watson\n"
 LogPortrait11:"Watts"
 LogIcon11:"MedIcon"
 LogText11:"Es ist jetzt 1630. Autopsie an: A. Watson. Wir machen nun den ersten Einschnitt... halten Sie ihn fest, Schwester! Schwester! Halten Sie ihn fest!! Aahhh!!!! Hey! AAAHHH!!\n"
 
 
-LogName2:"DELACROIX 08.JUL.14\nre: Nicht bereit\n"
+LogName2:"DELACROIX 08.JUL.14\nRe: Nicht bereit\n"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
 LogText2:"An: Korenchkin, Anatoly\nDiese Mission hätte vor dem Verlassen der Erde abgesagt werden sollen. Es ist uns nicht gelungen, das Auslaufen der Reaktorkühlflüssigkeit auf Deck 1 aufzuhalten. Ich habe den Befehl erteilt, dort unten Schutzanzüge zu verwenden. Ich weiß, Sie glauben, das wird eine Panik verursachen, aber es ist besser als wenn alle radioaktiv verseucht werden, oder?\n"
