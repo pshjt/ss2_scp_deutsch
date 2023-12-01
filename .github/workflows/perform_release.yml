@@ -31,21 +31,44 @@ jobs:
         hash=$(git log -n1 --format=format:"%H")
         echo "master_hash=$hash" >> "$GITHUB_OUTPUT"
 
+  zip-artifacts:
+    name: Zip and Push
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Zip both artifacts
+        run: |
+          rm -rf ss2_scp_deutsch*.zip
+          zip -r ss2_scp_deutsch-${GITHUB_REF#refs/*/}.zip . -x ".git*" "source/*"
+          zip -r ss2_scp_deutsch_text-${GITHUB_REF#refs/*/}.zip . -i "*.fon" "*.str" "*.md" "Anwendung-ReadMe.txt" -x ".git*" "source/*"
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: SCP_RELEASE
+          path: "./*.zip"
+          if-no-files-found: error
 
   gh-release:
-    needs: [check-tag-latest]
+    needs: [check-tag-latest, zip-artifacts]
     name: Create GitHub release
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
-    steps:    
+    steps:
+      - uses: actions/download-artifact@v3
+        with:
+          name: SCP_RELEASE
+
       - name: Set tag name to env
         run: echo "RELEASE_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
           
       - name: Push GitHub release
         uses: ncipollo/release-action@v1
         with:
+          artifacts: "*.zip"
           generateReleaseNotes: true        
+          replacesArtifacts: false
           skipIfReleaseExists: true
-          tag: ${{ env.RELEASE_VERSION }}      
+          tag: ${{ env.RELEASE_VERSION }}
