@@ -5,8 +5,8 @@
 Diese Mod ist dazu gedacht, Übersetzungsfehler, Inkonsistenzen, Interfaceprobleme und andere kleinere Ärgernisse der offiziellen deutschen Übersetzung von System Shock 2 auszubügeln. 
 Außerdem wurden alle Änderungen des Shock Community Project (https://www.systemshock.org/index.php?topic=7116.0) sowie einige weitere kleinere Mods auf Deutsch übersetzt.
 
-Enthalten sind neben deutschen Texten auch aktualisierte Interface-Grafiken und Sounds.
-Wer das Spiel ausschließlich mit deutschen Texten spielen möchte, sollte alle Dateien aus dem entpackten Modordner löschen, die nicht auf *.str oder *.fon enden.
+In der regulären Version sind neben deutschen Texten auch aktualisierte Interface-Grafiken und Sounds enthalten.
+Wer das Spiel nur mit deutschen Texten und keinen weiteren Änderungen spielen möchte, sollte ss2_scp_deutsch_text benutzen, bzw. aus dem Modordner alle Dateien löschen, die nicht auf *.fon oder *.str enden.
 
 Anwendung
 Voraussetzung ist eine aktuelle SS2-Installation, gepatcht mit SS2Tool (https://www.systemshock.org/index.php?topic=4141.0).
